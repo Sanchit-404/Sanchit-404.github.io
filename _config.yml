@@ -16,8 +16,8 @@ dark-theme: true
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: false
-resume-url: C:\Users\arl17\Desktop\CV.pdf
+resume-external: true
+resume-url: https://github.com/Sanchit-404/Resume-CV/blob/main/cv.pdf
 
 url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
@@ -42,8 +42,8 @@ email: f20200010@pilani.bits-pilani.ac.in
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Sanchit Kabra
+    bio: Addicted to Mountain dew
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
