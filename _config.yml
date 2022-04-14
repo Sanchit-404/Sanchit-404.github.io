@@ -33,12 +33,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+twitter: https://twitter.com/sanchitkabra4
+instagram: https://www.instagram.com/sanchit.kabra/
+linkedin: https://www.linkedin.com/in/sanchit-kabra-285456166/
+github: https://github.com/Sanchit-404
+email: f20200010@pilani.bits-pilani.ac.in
 
 authors:
   johndoe:
