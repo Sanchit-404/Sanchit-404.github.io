@@ -16,9 +16,8 @@ dark-theme: true
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://github.com/Sanchit-404/Resume-CV/blob/main/cv.pdf
-
+resume-external: false
+resume-url: assets/CV(1).pdf
 url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
 
