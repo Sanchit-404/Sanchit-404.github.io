@@ -1,0 +1,2790 @@
+ID: 0
+Tokens: The, Bhatt, family, has, contributed, significantly, to, the, Indian, film, industry, over, the, years.
+POS Tags: 4, 10, 2, 1, 7, 5, 0, 2, 6, 9, 0, 2, 7, 4
+Chunk Tags: 9, 2, 3, 3, 3, 5, 4, 0, 3, 6, 6, 8, 2, 3
+NER Tags: 7, 9, 0, 4, 3, 9, 5, 5, 1, 0, 1, 5, 5, 9
+
+ID: 1
+Tokens: Satyendra, Nath, Bose, was, a, pioneering, physicist, whose, work, on, quantum, mechanics, is, highly, regarded.
+POS Tags: 1, 6, 7, 6, 1, 3, 1, 1, 4, 1, 0, 6, 8, 0, 3
+Chunk Tags: 4, 4, 8, 3, 8, 4, 1, 3, 5, 10, 3, 0, 1, 4, 6
+NER Tags: 6, 10, 8, 0, 5, 2, 10, 4, 1, 4, 1, 7, 3, 1, 3
+
+ID: 2
+Tokens: Priyanka, Chopra, is, a, globally, renowned, actress, who, has, made, a, mark, in, both, Bollywood, and, Hollywood.
+POS Tags: 8, 8, 9, 8, 10, 7, 0, 8, 5, 5, 1, 8, 9, 6, 7, 8, 0
+Chunk Tags: 4, 8, 6, 2, 9, 9, 1, 10, 6, 8, 8, 0, 6, 5, 9, 1, 1
+NER Tags: 0, 9, 8, 6, 5, 8, 9, 4, 2, 3, 5, 2, 3, 6, 2, 7, 10
+
+ID: 3
+Tokens: Sunil, Dutt, was, a, beloved, actor, and, politician, in, India,, known, for, his, humanitarian, work.
+POS Tags: 1, 9, 6, 2, 6, 1, 1, 4, 1, 3, 6, 5, 6, 7, 4
+Chunk Tags: 8, 8, 3, 3, 10, 4, 3, 3, 1, 9, 5, 5, 1, 9, 10
+NER Tags: 8, 6, 1, 6, 6, 1, 9, 7, 7, 6, 5, 9, 9, 4, 5
+
+ID: 4
+Tokens: Mahatma, Gandhi, led, India’s, independence, movement, through, nonviolent, resistance, and, civil, disobedience.
+POS Tags: 7, 5, 10, 7, 5, 4, 9, 1, 6, 6, 8, 6
+Chunk Tags: 5, 5, 9, 0, 10, 1, 9, 9, 1, 1, 4, 5
+NER Tags: 9, 2, 3, 2, 9, 3, 0, 9, 3, 0, 9, 4
+
+ID: 5
+Tokens: Shashi, Ghosh, is, a, celebrated, Indian, author, known, for, his, thought-provoking, novels.
+POS Tags: 4, 5, 4, 4, 4, 2, 6, 4, 9, 3, 7, 10
+Chunk Tags: 4, 2, 5, 4, 4, 4, 6, 6, 2, 4, 4, 5
+NER Tags: 4, 10, 0, 8, 9, 7, 6, 0, 0, 3, 6, 4
+
+ID: 6
+Tokens: The, Kapoor, family, has, been, a, dominant, force, in, Bollywood, for, generations,, producing, many, legendary, actors.
+POS Tags: 3, 8, 6, 5, 9, 8, 9, 8, 0, 1, 5, 1, 0, 10, 8, 8
+Chunk Tags: 8, 3, 2, 7, 7, 4, 7, 10, 4, 8, 10, 2, 7, 7, 5, 3
+NER Tags: 0, 6, 10, 8, 1, 8, 1, 5, 6, 9, 6, 5, 4, 5, 7, 3
+
+ID: 7
+Tokens: Rani, Mukherjee, is, one, of, the, most, successful, actresses, in, Indian, cinema,, known, for, her, powerful, performances.
+POS Tags: 4, 0, 5, 4, 4, 7, 3, 7, 4, 3, 10, 7, 4, 8, 6, 10, 0
+Chunk Tags: 5, 6, 8, 6, 3, 3, 8, 6, 9, 9, 6, 10, 10, 1, 5, 3, 2
+NER Tags: 5, 3, 1, 0, 8, 8, 10, 2, 4, 4, 4, 8, 2, 3, 2, 3, 0
+
+ID: 8
+Tokens: Jawaharlal, Nehru, was, the, first, Prime, Minister, of, India, and, a, key, figure, in, the, country's, independence, movement.
+POS Tags: 7, 0, 0, 8, 1, 0, 2, 9, 3, 4, 10, 5, 4, 1, 8, 5, 2, 5
+Chunk Tags: 7, 8, 8, 5, 9, 6, 2, 3, 4, 6, 5, 6, 8, 4, 3, 1, 5, 0
+NER Tags: 10, 8, 10, 7, 9, 9, 0, 6, 8, 1, 10, 8, 5, 6, 6, 3, 10, 3
+
+ID: 9
+Tokens: Vallabhbhai, Patel,, also, known, as, the, Iron, Man, of, India,, was, instrumental, in, uniting, the, country, after, independence.
+POS Tags: 4, 0, 9, 8, 1, 1, 7, 5, 8, 10, 4, 5, 7, 3, 7, 3, 8, 2
+Chunk Tags: 1, 1, 1, 5, 9, 9, 6, 10, 9, 8, 7, 3, 8, 0, 10, 4, 6, 9
+NER Tags: 0, 7, 0, 10, 10, 3, 5, 0, 8, 9, 4, 5, 6, 1, 5, 3, 3, 8
+
+ID: 10
+Tokens: Rabin, is, a, common, name, in, Bengali, culture,, often, associated, with, poets, and, intellectuals.
+POS Tags: 0, 1, 6, 3, 10, 7, 10, 6, 4, 8, 9, 10, 7, 2
+Chunk Tags: 4, 10, 6, 7, 7, 2, 0, 10, 1, 8, 5, 5, 7, 0
+NER Tags: 6, 0, 4, 4, 2, 3, 1, 1, 3, 4, 10, 7, 8, 6
+
+ID: 11
+Tokens: Iran, is, known, for, its, rich, history,, spanning, back, to, ancient, Persia, and, the, Achaemenid, Empire.
+POS Tags: 4, 9, 10, 0, 10, 10, 4, 3, 8, 3, 5, 9, 10, 2, 7, 5
+Chunk Tags: 7, 1, 10, 1, 0, 1, 4, 2, 5, 3, 9, 1, 8, 10, 5, 6
+NER Tags: 4, 5, 3, 9, 4, 4, 8, 0, 3, 9, 8, 5, 8, 1, 10, 2
+
+ID: 12
+Tokens: Persian, literature, includes, some, of, the, most, beautiful, poetry, in, the, world,, with, poets, like, Rumi, and, Hafez.
+POS Tags: 1, 8, 3, 0, 9, 4, 6, 7, 8, 3, 8, 5, 5, 5, 6, 4, 8, 9
+Chunk Tags: 10, 7, 7, 8, 9, 4, 6, 3, 8, 4, 9, 5, 7, 4, 9, 8, 3, 2
+NER Tags: 3, 7, 10, 0, 8, 8, 0, 10, 6, 0, 2, 7, 10, 3, 4, 6, 9, 3
+
+ID: 13
+Tokens: Iran, has, a, diverse, culture,, shaped, by, its, rich, history, and, Islamic, traditions.
+POS Tags: 9, 4, 10, 1, 10, 4, 6, 5, 4, 6, 9, 1, 6
+Chunk Tags: 9, 7, 5, 0, 0, 5, 5, 0, 8, 7, 7, 1, 6
+NER Tags: 4, 4, 8, 7, 8, 8, 6, 4, 3, 5, 9, 4, 7
+
+ID: 14
+Tokens: The, Iranian, capital,, Tehran,, is, a, bustling, metropolis, with, a, mix, of, modern, and, traditional, architecture.
+POS Tags: 0, 1, 9, 6, 5, 3, 2, 4, 4, 6, 3, 5, 2, 10, 7, 4
+Chunk Tags: 10, 7, 5, 5, 0, 10, 6, 3, 5, 2, 6, 8, 10, 7, 10, 4
+NER Tags: 8, 3, 3, 5, 10, 10, 10, 4, 1, 0, 0, 8, 0, 6, 6, 3
+
+ID: 15
+Tokens: Isfahan, is, a, city, in, Iran,, renowned, for, its, stunning, Islamic, architecture, and, historic, bridges.
+POS Tags: 6, 1, 5, 3, 2, 9, 6, 4, 9, 1, 10, 5, 2, 4, 1
+Chunk Tags: 3, 0, 6, 6, 9, 1, 0, 3, 2, 0, 9, 4, 0, 0, 3
+NER Tags: 9, 2, 0, 2, 6, 5, 1, 0, 10, 8, 5, 3, 5, 5, 9
+
+ID: 16
+Tokens: Kerman,, located, in, southeastern, Iran,, is, known, for, its, rich, cultural, heritage, and, historic, sites.
+POS Tags: 5, 0, 0, 4, 2, 1, 0, 10, 7, 10, 5, 2, 5, 5, 9
+Chunk Tags: 4, 9, 6, 10, 9, 9, 9, 4, 7, 0, 9, 0, 2, 7, 4
+NER Tags: 2, 7, 3, 2, 10, 8, 8, 0, 6, 3, 6, 10, 6, 6, 8
+
+ID: 17
+Tokens: Khorasan,, a, region, in, northeastern, Iran,, has, a, long, history, as, a, center, of, Persian, culture.
+POS Tags: 1, 7, 4, 6, 8, 5, 2, 3, 0, 7, 6, 6, 6, 2, 9, 9
+Chunk Tags: 2, 3, 0, 9, 10, 1, 2, 3, 5, 4, 4, 9, 10, 3, 2, 10
+NER Tags: 1, 9, 0, 6, 10, 1, 6, 8, 3, 6, 3, 9, 5, 1, 8, 3
+
+ID: 18
+Tokens: Persia,, now, known, as, Iran,, was, once, one, of, the, world’s, greatest, empires, under, leaders, like, Cyrus, the, Great.
+POS Tags: 9, 3, 8, 9, 1, 5, 1, 1, 0, 5, 8, 3, 9, 7, 3, 9, 7, 5, 2
+Chunk Tags: 10, 0, 10, 4, 6, 3, 4, 0, 4, 4, 8, 9, 9, 6, 8, 5, 3, 3, 10
+NER Tags: 4, 8, 3, 5, 1, 7, 8, 6, 4, 5, 8, 7, 9, 8, 2, 4, 7, 0, 7
+
+ID: 19
+Tokens: Persian, rugs, are, famous, for, their, intricate, designs, and, craftsmanship,, admired, worldwide.
+POS Tags: 3, 10, 7, 7, 3, 5, 10, 2, 4, 7, 10, 9
+Chunk Tags: 0, 5, 6, 1, 7, 10, 1, 8, 3, 2, 5, 5
+NER Tags: 3, 9, 8, 2, 6, 8, 1, 5, 6, 10, 2, 5
+
+ID: 20
+Tokens: Nepali, is, the, official, language, of, Nepal,, spoken, by, millions, of, people, across, the, Himalayan, region.
+POS Tags: 8, 0, 8, 3, 5, 6, 2, 3, 9, 4, 5, 2, 5, 1, 0, 10
+Chunk Tags: 6, 0, 3, 7, 5, 5, 3, 7, 5, 1, 7, 8, 0, 3, 3, 3
+NER Tags: 0, 3, 3, 0, 8, 1, 0, 5, 3, 1, 0, 9, 8, 2, 0, 5
+
+ID: 21
+Tokens: Bhutan,, a, small, kingdom, in, the, Himalayas,, is, known, for, its, philosophy, of, Gross, National, Happiness.
+POS Tags: 10, 0, 2, 2, 5, 9, 2, 2, 5, 0, 0, 6, 7, 1, 9, 0
+Chunk Tags: 0, 9, 4, 0, 10, 2, 8, 2, 8, 4, 3, 8, 7, 2, 10, 2
+NER Tags: 9, 3, 4, 0, 1, 9, 0, 6, 6, 9, 5, 2, 5, 0, 3, 2
+
+ID: 22
+Tokens: The, Dalai, Lama, is, the, spiritual, leader, of, Tibetan, Buddhism,, advocating, for, peace, and, compassion, worldwide.
+POS Tags: 9, 6, 10, 9, 9, 2, 9, 5, 2, 5, 6, 10, 3, 10, 7, 1
+Chunk Tags: 1, 5, 1, 0, 10, 4, 8, 9, 4, 4, 9, 2, 2, 1, 1, 3
+NER Tags: 1, 5, 4, 6, 8, 3, 3, 4, 1, 7, 10, 5, 0, 10, 0, 10
+
+ID: 23
+Tokens: The, Himalayan, region, is, home, to, some, of, the, highest, peaks, in, the, world,, including, Mount, Everest.
+POS Tags: 1, 4, 6, 5, 9, 3, 6, 4, 2, 4, 8, 1, 4, 1, 2, 0, 5
+Chunk Tags: 3, 6, 0, 10, 6, 0, 10, 6, 3, 5, 5, 2, 0, 8, 9, 8, 7
+NER Tags: 3, 9, 8, 1, 0, 0, 8, 6, 2, 0, 7, 2, 4, 10, 8, 6, 8
+
+ID: 24
+Tokens: Kathmandu,, the, capital, of, Nepal,, is, a, city, rich, in, history,, culture,, and, religious, diversity.
+POS Tags: 4, 1, 5, 3, 0, 8, 1, 4, 2, 0, 5, 9, 0, 7, 0
+Chunk Tags: 3, 2, 6, 10, 8, 8, 2, 1, 2, 6, 0, 8, 6, 6, 2
+NER Tags: 4, 2, 3, 5, 7, 9, 6, 7, 6, 2, 10, 10, 1, 7, 2
+
+ID: 25
+Tokens: The, Lama, is, a, respected, teacher, in, Tibetan, Buddhism,, often, guiding, followers, in, their, spiritual, journey.
+POS Tags: 8, 0, 4, 7, 4, 7, 9, 0, 10, 10, 7, 4, 8, 10, 4, 9
+Chunk Tags: 7, 7, 9, 9, 9, 0, 2, 8, 1, 4, 9, 4, 4, 7, 7, 2
+NER Tags: 3, 8, 9, 10, 6, 0, 3, 3, 4, 1, 6, 1, 6, 2, 4, 6
+
+ID: 26
+Tokens: Nepal, is, a, landlocked, country, nestled, in, the, Himalayas,, known, for, its, mountains, and, vibrant, culture.
+POS Tags: 2, 3, 4, 2, 1, 6, 3, 6, 3, 0, 5, 8, 8, 4, 9, 4
+Chunk Tags: 9, 1, 5, 10, 0, 0, 3, 2, 9, 8, 3, 9, 0, 10, 9, 5
+NER Tags: 2, 10, 1, 8, 8, 2, 7, 9, 10, 3, 8, 9, 7, 0, 7, 7
+
+ID: 27
+Tokens: Nepalese, culture, is, deeply, influenced, by, its, Hindu, and, Buddhist, traditions,, with, festivals, celebrated, year-round.
+POS Tags: 7, 10, 3, 8, 9, 0, 0, 5, 10, 10, 8, 7, 5, 4, 9
+Chunk Tags: 7, 5, 5, 6, 2, 7, 8, 3, 10, 3, 6, 1, 1, 1, 9
+NER Tags: 8, 4, 5, 9, 7, 0, 10, 4, 4, 7, 8, 0, 0, 3, 1
+
+ID: 28
+Tokens: Tibet, has, a, rich, spiritual, history,, with, Tibetan, Buddhism, playing, a, central, role, in, its, culture.
+POS Tags: 7, 10, 6, 6, 4, 1, 10, 7, 2, 10, 10, 9, 10, 5, 6, 9
+Chunk Tags: 2, 2, 1, 3, 1, 10, 5, 6, 2, 8, 4, 2, 10, 5, 7, 2
+NER Tags: 2, 7, 6, 2, 3, 2, 1, 5, 9, 6, 9, 0, 10, 6, 9, 3
+
+ID: 29
+Tokens: The, Tibetan, plateau, is, often, called, the, 'Roof, of, the, World,', due, to, its, high, altitude.
+POS Tags: 0, 10, 1, 1, 7, 8, 7, 3, 9, 4, 0, 5, 3, 5, 1, 1
+Chunk Tags: 10, 8, 4, 10, 7, 0, 1, 7, 0, 7, 6, 1, 2, 1, 7, 8
+NER Tags: 3, 0, 0, 5, 8, 7, 1, 9, 4, 6, 1, 7, 10, 5, 5, 9
+
+ID: 30
+Tokens: The, BWF,, or, Badminton, World, Federation,, oversees, the, sport, of, badminton, globally.
+POS Tags: 5, 2, 4, 7, 3, 10, 2, 8, 1, 4, 1, 1
+Chunk Tags: 3, 6, 9, 2, 8, 2, 10, 4, 0, 8, 10, 2
+NER Tags: 6, 0, 0, 7, 3, 4, 10, 2, 3, 3, 5, 4
+
+ID: 31
+Tokens: The, Jain, community, in, India, is, known, for, its, principles, of, non-violence, and, strict, vegetarianism.
+POS Tags: 9, 6, 1, 8, 5, 7, 9, 6, 3, 0, 0, 8, 10, 2, 6
+Chunk Tags: 7, 2, 9, 8, 7, 6, 0, 5, 8, 6, 6, 7, 6, 9, 4
+NER Tags: 8, 8, 6, 6, 8, 1, 7, 9, 5, 5, 2, 4, 8, 10, 10
+
+ID: 32
+Tokens: Pandit, Ravi, Shankar, was, a, renowned, sitar, virtuoso,, bringing, Indian, classical, music, to, the, global, stage.
+POS Tags: 1, 1, 6, 5, 8, 4, 10, 8, 5, 7, 7, 2, 6, 3, 3, 4
+Chunk Tags: 9, 1, 3, 8, 8, 5, 8, 6, 6, 2, 5, 9, 4, 7, 0, 10
+NER Tags: 7, 2, 5, 3, 7, 1, 7, 7, 7, 5, 0, 5, 1, 10, 1, 10
+
+ID: 33
+Tokens: Rajput, warriors, were, historically, known, for, their, valor, and, loyalty, to, their, kings, and, kingdoms.
+POS Tags: 1, 6, 0, 4, 0, 3, 5, 10, 8, 9, 10, 4, 3, 7, 5
+Chunk Tags: 0, 4, 9, 3, 4, 2, 9, 6, 6, 7, 2, 4, 4, 9, 6
+NER Tags: 1, 0, 6, 9, 7, 8, 4, 4, 3, 7, 2, 3, 4, 6, 9
+
+ID: 34
+Tokens: Prince, Albert, of, Saxe-Coburg, and, Gotha, was, the, husband, of, Queen, Victoria, and, an, influential, figure, in, British, politics.
+POS Tags: 9, 9, 1, 10, 9, 7, 6, 1, 10, 1, 8, 5, 2, 3, 7, 4, 2, 6, 1
+Chunk Tags: 2, 9, 6, 5, 7, 4, 1, 4, 1, 6, 9, 7, 1, 8, 5, 4, 2, 3, 2
+NER Tags: 5, 6, 7, 5, 8, 1, 1, 4, 2, 4, 1, 5, 4, 6, 4, 7, 9, 2, 10
+
+ID: 35
+Tokens: Sharma, is, a, common, surname, in, India,, particularly, among, Brahmins, and, other, Hindu, communities.
+POS Tags: 9, 9, 5, 3, 0, 0, 6, 4, 3, 6, 3, 4, 2, 10
+Chunk Tags: 1, 7, 7, 2, 6, 1, 1, 0, 4, 9, 3, 10, 1, 2
+NER Tags: 8, 5, 4, 4, 3, 1, 8, 8, 9, 9, 1, 10, 7, 2
+
+ID: 36
+Tokens: Singh, is, a, popular, surname, among, Sikhs,, symbolizing, the, bravery, and, leadership, of, the, community.
+POS Tags: 4, 3, 8, 6, 3, 7, 7, 5, 10, 6, 6, 8, 5, 4, 3
+Chunk Tags: 6, 7, 2, 4, 1, 4, 0, 9, 10, 5, 1, 2, 7, 7, 0
+NER Tags: 0, 9, 3, 3, 3, 8, 10, 6, 9, 2, 8, 8, 5, 2, 7
+
+ID: 37
+Tokens: Thakur, is, a, title, used, by, feudal, lords, in, India,, often, associated, with, landowners, and, nobles.
+POS Tags: 0, 10, 4, 2, 3, 8, 6, 8, 10, 7, 5, 6, 4, 5, 8, 8
+Chunk Tags: 1, 8, 2, 2, 6, 1, 10, 8, 10, 9, 7, 0, 0, 0, 2, 10
+NER Tags: 8, 7, 2, 5, 9, 6, 0, 10, 2, 8, 8, 6, 3, 7, 1, 4
+
+ID: 38
+Tokens: Yadav, is, a, common, surname, in, India,, with, roots, in, the, ancient, Yadu, dynasty, mentioned, in, Hindu, texts.
+POS Tags: 5, 6, 6, 3, 10, 4, 10, 3, 2, 3, 6, 4, 6, 3, 4, 6, 9, 10
+Chunk Tags: 9, 9, 0, 7, 10, 9, 0, 2, 6, 8, 0, 8, 2, 9, 5, 2, 3, 10
+NER Tags: 1, 9, 4, 2, 9, 9, 10, 1, 9, 0, 9, 2, 10, 5, 2, 3, 2, 5
+
+ID: 39
+Tokens: Indonesia, is, the, largest, archipelago, in, the, world,, with, over, 17,000, islands, and, a, diverse, culture.
+POS Tags: 10, 5, 7, 1, 10, 8, 2, 6, 8, 3, 5, 8, 10, 7, 6, 8
+Chunk Tags: 0, 6, 0, 3, 1, 10, 6, 1, 9, 2, 8, 8, 6, 10, 3, 2
+NER Tags: 5, 1, 0, 7, 8, 1, 4, 5, 2, 3, 4, 7, 4, 4, 3, 4
+
+ID: 40
+Tokens: Bali, is, one, of, Indonesia’s, most, famous, islands,, known, for, its, beaches,, temples,, and, vibrant, culture.
+POS Tags: 1, 8, 4, 1, 3, 7, 7, 8, 4, 6, 10, 10, 9, 7, 6, 7
+Chunk Tags: 3, 2, 10, 7, 5, 7, 4, 4, 1, 10, 7, 10, 3, 8, 7, 6
+NER Tags: 10, 6, 4, 3, 8, 9, 6, 3, 9, 8, 3, 3, 10, 3, 10, 1
+
+ID: 41
+Tokens: Indonesia, is, a, country, in, Southeast, Asia, with, a, rich, history, and, a, diverse, mix, of, ethnic, groups.
+POS Tags: 4, 4, 8, 4, 2, 7, 9, 2, 4, 2, 9, 7, 0, 3, 10, 7, 7, 1
+Chunk Tags: 8, 9, 3, 9, 4, 2, 1, 6, 9, 10, 9, 10, 9, 7, 9, 0, 9, 4
+NER Tags: 2, 5, 2, 4, 3, 4, 9, 6, 4, 10, 2, 3, 2, 9, 6, 8, 4, 9
+
+ID: 42
+Tokens: Jakarta,, the, capital, of, Indonesia,, is, a, sprawling, city, known, for, its, economic, and, cultural, significance.
+POS Tags: 6, 8, 10, 1, 5, 1, 8, 3, 9, 2, 2, 2, 4, 7, 1, 6
+Chunk Tags: 4, 8, 1, 1, 6, 3, 2, 8, 3, 6, 6, 2, 7, 2, 10, 5
+NER Tags: 3, 1, 9, 6, 5, 2, 9, 2, 5, 6, 8, 4, 2, 2, 5, 4
+
+ID: 43
+Tokens: Java, is, Indonesia’s, most, populous, island,, home, to, the, capital,, Jakarta,, and, many, cultural, landmarks.
+POS Tags: 0, 5, 8, 8, 4, 2, 3, 1, 0, 4, 7, 3, 8, 9, 9
+Chunk Tags: 3, 4, 6, 1, 6, 9, 8, 2, 8, 7, 5, 8, 4, 10, 1
+NER Tags: 6, 0, 7, 10, 1, 5, 8, 2, 10, 6, 4, 2, 5, 7, 2
+
+ID: 44
+Tokens: Javanese, culture,, with, its, unique, language, and, traditions,, plays, a, central, role, in, Indonesia's, identity.
+POS Tags: 10, 3, 3, 7, 7, 4, 2, 4, 2, 2, 9, 3, 9, 5, 8
+Chunk Tags: 8, 9, 5, 2, 6, 0, 3, 10, 2, 3, 7, 4, 5, 1, 4
+NER Tags: 1, 3, 2, 0, 6, 9, 8, 1, 2, 3, 8, 10, 0, 4, 5
+
+ID: 45
+Tokens: Sumatra, is, one, of, Indonesia’s, largest, islands,, known, for, its, rainforests, and, diverse, wildlife.
+POS Tags: 10, 1, 6, 8, 10, 7, 9, 7, 5, 9, 6, 4, 5, 5
+Chunk Tags: 9, 2, 8, 0, 2, 5, 8, 3, 10, 9, 2, 6, 1, 6
+NER Tags: 4, 4, 5, 8, 10, 1, 4, 8, 2, 4, 5, 3, 9, 5
+
+ID: 46
+Tokens: Ceylon,, now, Sri, Lanka,, was, a, key, player, in, the, global, tea, trade, during, British, colonial, rule.
+POS Tags: 9, 10, 1, 3, 7, 1, 9, 5, 10, 8, 1, 10, 6, 0, 5, 7, 3
+Chunk Tags: 6, 8, 2, 1, 8, 1, 10, 3, 5, 3, 7, 2, 4, 2, 9, 8, 1
+NER Tags: 1, 5, 7, 10, 0, 5, 6, 4, 10, 9, 1, 2, 0, 5, 6, 9, 8
+
+ID: 47
+Tokens: Colombo, is, the, commercial, capital, of, Sri, Lanka,, known, for, its, colonial, buildings, and, modern, skyscrapers.
+POS Tags: 2, 4, 3, 5, 9, 1, 7, 8, 6, 4, 3, 8, 8, 10, 0, 1
+Chunk Tags: 9, 10, 3, 2, 2, 3, 10, 0, 2, 10, 7, 10, 7, 2, 5, 0
+NER Tags: 4, 0, 6, 0, 7, 1, 9, 5, 2, 2, 4, 2, 3, 5, 8, 6
+
+ID: 48
+Tokens: Sri, Lanka, is, an, island, nation, in, South, Asia,, famous, for, its, tea, plantations, and, ancient, history.
+POS Tags: 8, 8, 3, 7, 4, 0, 5, 8, 0, 3, 7, 10, 6, 5, 8, 7, 8
+Chunk Tags: 8, 1, 9, 1, 4, 2, 2, 6, 10, 7, 5, 0, 7, 3, 4, 0, 3
+NER Tags: 1, 3, 0, 2, 3, 9, 8, 7, 7, 4, 5, 10, 10, 7, 0, 7, 6
+
+ID: 49
+Tokens: The, Lankan, civil, war, had, a, profound, impact, on, the, nation,, shaping, its, modern, political, landscape.
+POS Tags: 7, 8, 0, 4, 10, 10, 7, 8, 0, 9, 8, 10, 0, 6, 6, 6
+Chunk Tags: 8, 3, 1, 0, 5, 2, 6, 7, 9, 8, 9, 5, 5, 0, 10, 7
+NER Tags: 1, 0, 8, 1, 4, 8, 9, 6, 6, 3, 0, 9, 9, 2, 5, 3
+
+ID: 50
+Tokens: Sinha, is, a, common, Sri, Lankan, surname,, particularly, among, the, Sinhalese, ethnic, group.
+POS Tags: 2, 2, 0, 2, 3, 5, 2, 10, 1, 10, 7, 10, 10
+Chunk Tags: 3, 4, 9, 1, 2, 5, 7, 2, 0, 5, 10, 5, 8
+NER Tags: 1, 6, 1, 10, 4, 2, 5, 4, 10, 2, 2, 10, 6
+
+ID: 51
+Tokens: Sri, Lankan, cuisine, is, known, for, its, spicy, curries, and, use, of, coconut,, reflecting, the, island’s, tropical, climate.
+POS Tags: 5, 3, 2, 3, 4, 8, 10, 2, 6, 4, 6, 7, 10, 9, 10, 6, 10, 9
+Chunk Tags: 6, 9, 2, 9, 2, 1, 7, 9, 2, 6, 4, 9, 0, 0, 6, 2, 8, 3
+NER Tags: 3, 5, 9, 9, 9, 6, 4, 10, 1, 3, 1, 0, 1, 6, 9, 9, 2, 4
+
+ID: 52
+Tokens: Afghan, culture, is, rich, in, history,, with, influences, from, Persia,, Central, Asia,, and, the, Indian, subcontinent.
+POS Tags: 9, 3, 4, 0, 0, 9, 4, 4, 4, 3, 3, 1, 3, 6, 4, 4
+Chunk Tags: 0, 1, 1, 6, 1, 3, 2, 2, 5, 4, 5, 7, 5, 9, 8, 1
+NER Tags: 8, 9, 1, 10, 5, 5, 1, 6, 2, 6, 0, 7, 7, 2, 7, 1
+
+ID: 53
+Tokens: Afghanistan, has, faced, decades, of, conflict,, but, its, people, remain, resilient, in, the, face, of, adversity.
+POS Tags: 10, 8, 2, 8, 8, 10, 1, 8, 2, 7, 5, 0, 4, 0, 9, 0
+Chunk Tags: 9, 9, 1, 0, 5, 6, 4, 1, 10, 4, 0, 5, 9, 10, 1, 2
+NER Tags: 3, 5, 3, 10, 8, 5, 1, 0, 9, 6, 1, 10, 7, 1, 2, 3
+
+ID: 54
+Tokens: Kabul,, the, capital, of, Afghanistan,, has, a, long, history, as, a, key, city, on, the, ancient, Silk, Road.
+POS Tags: 3, 8, 5, 2, 1, 8, 1, 7, 1, 4, 2, 5, 6, 4, 5, 6, 2, 4
+Chunk Tags: 3, 1, 4, 0, 6, 7, 6, 10, 7, 0, 2, 3, 6, 7, 9, 7, 9, 4
+NER Tags: 1, 7, 4, 5, 0, 2, 8, 8, 0, 3, 3, 1, 0, 9, 0, 0, 8, 3
+
+ID: 55
+Tokens: The, Taliban,, a, fundamentalist, group,, has, had, a, significant, impact, on, the, political, and, social, landscape, of, Afghanistan.
+POS Tags: 6, 7, 5, 2, 7, 1, 10, 10, 6, 6, 6, 4, 6, 4, 4, 0, 5, 0
+Chunk Tags: 9, 7, 10, 5, 7, 6, 6, 5, 10, 5, 5, 7, 6, 0, 6, 6, 8, 6
+NER Tags: 4, 10, 3, 5, 0, 0, 0, 5, 8, 4, 6, 2, 5, 6, 1, 9, 1, 3
+
+ID: 56
+Tokens: The, Mandal, Commission, was, established, in, India, to, identify, the, socially, and, educationally, backward, classes.
+POS Tags: 4, 6, 5, 3, 8, 10, 4, 2, 9, 0, 9, 7, 2, 3, 5
+Chunk Tags: 6, 4, 1, 6, 5, 4, 7, 2, 10, 7, 3, 4, 7, 6, 10
+NER Tags: 3, 0, 7, 7, 8, 1, 0, 9, 1, 1, 8, 10, 0, 6, 1
+
+ID: 57
+Tokens: Taluk, refers, to, a, subdivision, of, districts, in, India,, used, for, administrative, purposes.
+POS Tags: 0, 9, 3, 3, 10, 4, 3, 3, 0, 10, 3, 7, 3
+Chunk Tags: 6, 9, 0, 1, 2, 8, 0, 7, 10, 5, 9, 7, 2
+NER Tags: 6, 3, 9, 0, 4, 9, 4, 9, 4, 8, 3, 4, 4
+
+ID: 58
+Tokens: Tehsil, is, another, term, for, administrative, divisions, in, India,, similar, to, a, county, or, district.
+POS Tags: 0, 4, 4, 0, 3, 8, 5, 3, 3, 7, 4, 0, 9, 5, 6
+Chunk Tags: 6, 2, 3, 0, 4, 0, 2, 10, 2, 4, 0, 0, 1, 7, 6
+NER Tags: 0, 5, 3, 0, 4, 6, 1, 7, 10, 5, 6, 3, 2, 0, 5
+
+ID: 59
+Tokens: The, Bharatiya, Janata, Party, (BJP), is, one, of, the, two, major, political, parties, in, India,, advocating, for, Hindu, nationalism.
+POS Tags: 0, 2, 7, 0, 4, 0, 4, 8, 7, 3, 8, 3, 0, 8, 7, 4, 1, 3, 10
+Chunk Tags: 5, 8, 8, 10, 1, 8, 1, 2, 10, 7, 7, 1, 0, 5, 4, 0, 4, 10, 10
+NER Tags: 0, 5, 4, 10, 10, 5, 6, 0, 10, 9, 9, 6, 4, 6, 4, 7, 5, 2, 6
+
+ID: 60
+Tokens: The, Janata, Party, was, a, political, coalition, in, India, formed, after, the, Emergency,, aiming, to, restore, democracy.
+POS Tags: 0, 8, 10, 6, 2, 8, 8, 8, 5, 4, 8, 10, 0, 0, 4, 2, 3
+Chunk Tags: 7, 3, 10, 6, 0, 9, 7, 3, 2, 6, 5, 8, 5, 8, 1, 6, 0
+NER Tags: 8, 3, 8, 3, 8, 1, 1, 4, 6, 9, 10, 1, 1, 5, 4, 5, 8
+
+ID: 61
+Tokens: The, Burmese, language, is, spoken, primarily, in, Myanmar,, also, known, as, Burma.
+POS Tags: 7, 4, 9, 7, 8, 1, 2, 3, 4, 3, 0, 7
+Chunk Tags: 9, 5, 1, 8, 2, 3, 10, 5, 7, 2, 8, 1
+NER Tags: 4, 8, 3, 0, 1, 9, 2, 8, 0, 7, 2, 0
+
+ID: 62
+Tokens: Thai, cuisine, is, famous, for, its, balance, of, sweet,, sour,, salty,, and, spicy, flavors.
+POS Tags: 5, 4, 5, 3, 7, 1, 1, 5, 2, 9, 1, 8, 4, 3
+Chunk Tags: 3, 1, 0, 7, 0, 6, 0, 7, 9, 0, 6, 10, 0, 7
+NER Tags: 2, 3, 8, 9, 4, 5, 0, 8, 1, 9, 1, 3, 7, 8
+
+ID: 63
+Tokens: Vietnam, is, known, for, its, beautiful, landscapes,, from, the, Mekong, Delta, to, Ha, Long, Bay.
+POS Tags: 7, 0, 8, 1, 1, 0, 0, 8, 8, 9, 6, 3, 8, 5, 1
+Chunk Tags: 3, 3, 5, 10, 1, 8, 1, 0, 9, 10, 8, 4, 1, 7, 1
+NER Tags: 1, 2, 4, 3, 0, 6, 6, 9, 8, 0, 10, 8, 3, 10, 2
+
+ID: 64
+Tokens: Bangkok, is, a, bustling, metropolis, and, the, capital, of, Thailand,, known, for, its, vibrant, street, life.
+POS Tags: 0, 4, 7, 5, 0, 8, 3, 6, 9, 10, 6, 0, 6, 9, 9, 2
+Chunk Tags: 10, 3, 4, 9, 6, 8, 1, 2, 3, 2, 6, 9, 4, 8, 2, 0
+NER Tags: 8, 10, 0, 9, 6, 9, 3, 6, 0, 10, 4, 7, 7, 10, 0, 4
+
+ID: 65
+Tokens: Burma,, now, officially, Myanmar,, has, a, rich, cultural, history, and, a, diverse, ethnic, population.
+POS Tags: 5, 6, 10, 8, 4, 7, 3, 4, 2, 1, 6, 10, 6, 5
+Chunk Tags: 7, 3, 1, 8, 3, 8, 9, 1, 10, 6, 3, 9, 10, 7
+NER Tags: 4, 10, 8, 1, 8, 7, 5, 5, 6, 2, 0, 1, 10, 4
+
+ID: 66
+Tokens: Cambodia, is, home, to, the, ancient, temple, complex, of, Angkor, Wat,, a, UNESCO, World, Heritage, site.
+POS Tags: 8, 1, 4, 6, 9, 4, 5, 3, 6, 1, 5, 3, 7, 2, 7, 0
+Chunk Tags: 6, 6, 1, 10, 3, 3, 0, 0, 8, 1, 7, 5, 1, 0, 1, 6
+NER Tags: 3, 6, 7, 10, 10, 7, 0, 4, 3, 4, 10, 8, 1, 2, 7, 1
+
+ID: 67
+Tokens: The, Cambodian, people, have, a, deep, connection, to, their, heritage,, particularly, through, the, Khmer, culture.
+POS Tags: 6, 1, 8, 4, 9, 1, 4, 0, 1, 1, 10, 10, 2, 7, 7
+Chunk Tags: 10, 2, 10, 1, 9, 8, 0, 3, 5, 8, 8, 6, 7, 7, 3
+NER Tags: 8, 2, 3, 5, 5, 2, 8, 5, 0, 5, 8, 9, 5, 1, 10
+
+ID: 68
+Tokens: Hanoi,, the, capital, of, Vietnam,, is, famous, for, its, centuries-old, architecture, and, a, rich, culture, influenced, by, Southeast, Asian,, Chinese,, and, French, history.
+POS Tags: 7, 10, 6, 1, 5, 8, 3, 6, 10, 10, 7, 9, 7, 6, 10, 8, 7, 6, 10, 10, 3, 10, 9
+Chunk Tags: 9, 1, 8, 4, 5, 1, 5, 2, 6, 2, 5, 8, 9, 8, 6, 3, 5, 3, 2, 3, 2, 10, 2
+NER Tags: 5, 10, 10, 3, 8, 9, 5, 8, 0, 9, 2, 1, 2, 8, 7, 2, 10, 5, 1, 6, 6, 10, 1
+
+ID: 69
+Tokens: Indochina, was, once, a, French, colony, that, included, modern-day, Vietnam,, Cambodia,, and, Laos.
+POS Tags: 2, 1, 9, 0, 8, 0, 8, 4, 1, 7, 0, 1, 10
+Chunk Tags: 6, 3, 1, 8, 8, 7, 8, 10, 10, 1, 6, 5, 9
+NER Tags: 2, 8, 5, 9, 6, 7, 0, 9, 2, 6, 4, 8, 7
+
+ID: 70
+Tokens: The, Khmer, Empire, was, one, of, the, most, powerful, empires, in, Southeast, Asia,, and, its, influence, is, still, evident, in, Cambodia, today.
+POS Tags: 4, 2, 6, 2, 5, 10, 1, 0, 6, 7, 5, 3, 5, 10, 9, 8, 4, 4, 4, 4, 3, 6
+Chunk Tags: 6, 7, 0, 8, 0, 4, 2, 1, 7, 5, 0, 1, 1, 8, 5, 6, 0, 4, 10, 7, 4, 6
+NER Tags: 4, 6, 2, 2, 8, 8, 1, 0, 5, 2, 8, 9, 9, 9, 2, 0, 0, 3, 10, 10, 0, 1
+
+ID: 71
+Tokens: Lao, is, the, official, language, of, Laos, and, is, closely, related, to, Thai.
+POS Tags: 4, 0, 0, 0, 8, 6, 4, 10, 6, 1, 3, 6, 0
+Chunk Tags: 7, 8, 8, 5, 3, 8, 5, 2, 4, 1, 2, 3, 3
+NER Tags: 4, 1, 9, 1, 3, 9, 3, 10, 0, 5, 10, 9, 2
+
+ID: 72
+Tokens: Laos, is, a, landlocked, country, in, Southeast, Asia,, known, for, its, mountainous, terrain, and, Buddhist, monasteries.
+POS Tags: 4, 4, 10, 6, 2, 9, 6, 2, 1, 3, 9, 1, 8, 6, 3, 9
+Chunk Tags: 9, 7, 1, 4, 5, 8, 4, 7, 4, 6, 6, 0, 2, 7, 2, 10
+NER Tags: 0, 3, 1, 7, 0, 2, 2, 4, 6, 5, 9, 7, 1, 10, 2, 0
+
+ID: 73
+Tokens: Myanmar, has, undergone, significant, political, changes, in, recent, years,, moving, towards, democracy.
+POS Tags: 9, 2, 1, 8, 1, 6, 4, 2, 9, 3, 1, 4
+Chunk Tags: 6, 8, 10, 5, 0, 2, 10, 5, 10, 10, 8, 7
+NER Tags: 4, 5, 2, 7, 5, 9, 6, 3, 10, 10, 8, 10
+
+ID: 74
+Tokens: Saigon,, now, called, Ho, Chi, Minh, City,, is, the, largest, city, in, Vietnam, and, a, major, economic, hub.
+POS Tags: 7, 7, 0, 1, 7, 4, 7, 2, 9, 0, 6, 2, 1, 3, 2, 0, 8, 7
+Chunk Tags: 9, 10, 4, 0, 10, 4, 4, 2, 8, 3, 5, 6, 0, 6, 9, 3, 4, 1
+NER Tags: 8, 2, 10, 8, 1, 1, 0, 9, 4, 0, 6, 3, 6, 2, 1, 8, 6, 5
+
+ID: 75
+Tokens: Siam,, now, known, as, Thailand,, has, never, been, colonized, by, a, Western, power,, unlike, its, neighbors.
+POS Tags: 10, 10, 8, 5, 1, 5, 0, 0, 2, 6, 8, 0, 4, 9, 2, 8
+Chunk Tags: 9, 5, 8, 0, 3, 6, 9, 10, 10, 8, 5, 3, 9, 1, 9, 6
+NER Tags: 1, 4, 10, 7, 1, 6, 6, 3, 1, 3, 2, 9, 2, 2, 1, 6
+
+ID: 76
+Tokens: Thai, people, are, known, for, their, warm, hospitality, and, rich, cultural, traditions.
+POS Tags: 8, 8, 6, 7, 0, 10, 1, 0, 6, 6, 3, 4
+Chunk Tags: 6, 8, 6, 0, 3, 3, 7, 1, 7, 2, 10, 9
+NER Tags: 7, 8, 6, 9, 5, 8, 8, 7, 6, 2, 6, 7
+
+ID: 77
+Tokens: Thailand, is, famous, for, its, tropical, beaches,, opulent, royal, palaces,, and, ornate, temples.
+POS Tags: 5, 6, 9, 5, 5, 1, 5, 3, 5, 1, 6, 0, 5
+Chunk Tags: 7, 2, 9, 9, 1, 2, 8, 0, 9, 9, 10, 7, 5
+NER Tags: 5, 6, 4, 5, 7, 6, 9, 3, 4, 0, 5, 8, 1
+
+ID: 78
+Tokens: The, Viet, people, form, the, majority, ethnic, group, in, Vietnam,, with, a, long, history, of, struggle, and, resilience.
+POS Tags: 1, 3, 5, 6, 7, 6, 2, 4, 8, 5, 0, 0, 7, 2, 1, 10, 1, 2
+Chunk Tags: 7, 5, 6, 8, 4, 2, 3, 5, 6, 9, 8, 8, 8, 3, 0, 1, 4, 4
+NER Tags: 10, 2, 7, 9, 8, 3, 6, 9, 5, 7, 8, 9, 5, 0, 1, 6, 10, 1
+
+ID: 79
+Tokens: Vietnam, is, a, country, in, Southeast, Asia, known, for, its, history,, culture,, and, beautiful, landscapes.
+POS Tags: 2, 5, 4, 0, 1, 3, 3, 2, 8, 7, 5, 8, 3, 5, 3
+Chunk Tags: 2, 5, 3, 10, 9, 9, 8, 4, 0, 6, 10, 6, 3, 9, 7
+NER Tags: 9, 5, 0, 3, 8, 1, 8, 6, 9, 3, 0, 7, 8, 0, 0
+
+ID: 80
+Tokens: Vietnamese, food, is, renowned, worldwide, for, its, fresh, ingredients,, fragrant, herbs,, and, bold, flavors.
+POS Tags: 10, 7, 3, 7, 0, 9, 8, 6, 4, 5, 3, 7, 9, 0
+Chunk Tags: 6, 2, 10, 10, 2, 3, 2, 0, 4, 9, 7, 8, 0, 1
+NER Tags: 6, 4, 3, 0, 4, 1, 7, 2, 3, 10, 0, 1, 8, 4
+
+ID: 81
+Tokens: The, Malay, Archipelago, is, a, group, of, islands, in, Southeast, Asia,, including, parts, of, Malaysia, and, Indonesia.
+POS Tags: 7, 6, 9, 1, 4, 8, 7, 8, 0, 5, 3, 8, 3, 3, 8, 10, 2
+Chunk Tags: 5, 1, 4, 0, 2, 1, 6, 2, 3, 1, 2, 10, 6, 6, 5, 9, 7
+NER Tags: 4, 1, 4, 6, 3, 7, 10, 2, 5, 9, 9, 1, 6, 1, 1, 5, 2
+
+ID: 82
+Tokens: Borneo, is, the, third-largest, island, in, the, world, and, is, divided, among, Malaysia,, Brunei,, and, Indonesia.
+POS Tags: 9, 0, 7, 7, 3, 1, 4, 3, 2, 9, 6, 10, 6, 1, 8, 6
+Chunk Tags: 4, 8, 7, 3, 5, 1, 1, 6, 9, 1, 4, 9, 5, 10, 8, 5
+NER Tags: 2, 0, 2, 10, 8, 8, 10, 3, 10, 6, 2, 1, 5, 9, 1, 3
+
+ID: 83
+Tokens: Brunei, is, a, small, but, wealthy, nation, on, the, island, of, Borneo,, known, for, its, oil, reserves.
+POS Tags: 0, 10, 3, 3, 0, 3, 9, 2, 9, 0, 2, 0, 7, 8, 8, 8, 9
+Chunk Tags: 3, 9, 1, 10, 2, 10, 1, 9, 6, 8, 9, 1, 9, 5, 9, 8, 9
+NER Tags: 8, 4, 2, 5, 4, 10, 6, 10, 9, 2, 6, 0, 7, 1, 3, 1, 9
+
+ID: 84
+Tokens: Bukit, Bintang, is, a, major, shopping, and, entertainment, district, in, Kuala, Lumpur,, Malaysia.
+POS Tags: 5, 7, 0, 5, 5, 1, 2, 6, 3, 5, 8, 9, 5
+Chunk Tags: 4, 2, 7, 6, 9, 4, 6, 6, 9, 5, 10, 9, 0
+NER Tags: 7, 6, 2, 10, 9, 5, 6, 7, 3, 3, 5, 8, 2
+
+ID: 85
+Tokens: Datu, is, an, honorific, title, used, in, Malaysia,, Brunei,, and, the, Philippines,, indicating, nobility, or, leadership.
+POS Tags: 9, 0, 6, 2, 8, 4, 5, 4, 3, 4, 7, 7, 4, 6, 4, 4
+Chunk Tags: 0, 9, 6, 2, 9, 3, 0, 7, 0, 6, 10, 3, 0, 10, 3, 0
+NER Tags: 3, 7, 7, 5, 7, 9, 8, 3, 6, 7, 1, 2, 4, 6, 9, 10
+
+ID: 86
+Tokens: Jalan, means, 'street', in, Malay,, and, many, streets, in, Malaysia, and, Indonesia, are, named, with, this, prefix.
+POS Tags: 9, 10, 4, 4, 7, 0, 2, 0, 1, 7, 10, 9, 3, 10, 8, 6, 7
+Chunk Tags: 6, 2, 2, 7, 3, 2, 7, 7, 8, 1, 3, 3, 6, 10, 0, 3, 7
+NER Tags: 5, 2, 10, 4, 5, 2, 3, 9, 5, 10, 2, 5, 7, 0, 1, 1, 9
+
+ID: 87
+Tokens: Johor, is, the, southernmost, state, of, Malaysia,, known, for, its, economic, and, industrial, development.
+POS Tags: 8, 10, 10, 1, 3, 2, 6, 2, 4, 6, 0, 2, 8, 1
+Chunk Tags: 2, 3, 6, 3, 4, 10, 4, 3, 1, 5, 8, 10, 3, 2
+NER Tags: 6, 3, 6, 3, 6, 8, 4, 7, 5, 8, 7, 9, 2, 7
+
+ID: 88
+Tokens: Kuala, Lumpur, is, the, capital, city, of, Malaysia,, famous, for, its, modern, skyline, dominated, by, the, Petronas, Towers.
+POS Tags: 9, 1, 10, 6, 3, 8, 7, 4, 8, 4, 2, 5, 4, 1, 9, 7, 10, 5
+Chunk Tags: 0, 7, 4, 8, 1, 7, 7, 5, 5, 7, 6, 7, 2, 8, 10, 9, 1, 4
+NER Tags: 8, 0, 4, 5, 8, 3, 1, 6, 1, 6, 7, 9, 8, 4, 8, 6, 1, 2
+
+ID: 89
+Tokens: Malacca, is, a, historical, city, in, Malaysia,, with, a, rich, heritage, from, its, time, as, a, major, trading, port.
+POS Tags: 9, 7, 10, 2, 6, 0, 4, 8, 4, 10, 3, 3, 4, 1, 8, 1, 1, 2, 5
+Chunk Tags: 1, 2, 2, 6, 10, 10, 4, 7, 6, 2, 2, 10, 1, 6, 10, 0, 1, 6, 8
+NER Tags: 1, 7, 5, 0, 1, 10, 7, 0, 3, 5, 8, 0, 0, 5, 10, 1, 6, 4, 8
+
+ID: 90
+Tokens: Malay, is, the, national, language, of, Malaysia, and, Indonesia,, with, a, rich, history, of, literature, and, culture.
+POS Tags: 3, 8, 8, 5, 1, 4, 10, 10, 4, 1, 4, 6, 2, 6, 9, 6, 3
+Chunk Tags: 4, 1, 9, 10, 6, 5, 6, 9, 0, 3, 8, 8, 6, 5, 8, 8, 5
+NER Tags: 3, 7, 4, 3, 9, 6, 3, 1, 2, 0, 7, 10, 8, 5, 7, 4, 10
+
+ID: 91
+Tokens: Malaya, was, the, name, of, the, region, that, now, makes, up, Peninsular, Malaysia, before, it, gained, independence.
+POS Tags: 9, 6, 7, 5, 9, 1, 5, 7, 10, 3, 1, 6, 4, 8, 8, 10, 6
+Chunk Tags: 6, 5, 9, 0, 2, 8, 3, 10, 6, 8, 1, 7, 6, 3, 0, 5, 0
+NER Tags: 3, 7, 3, 8, 2, 4, 10, 0, 6, 3, 7, 0, 4, 3, 4, 4, 7
+
+ID: 92
+Tokens: Malaysia, is, a, diverse, country, in, Southeast, Asia,, known, for, its, mix, of, Malay,, Chinese,, and, Indian, cultures.
+POS Tags: 10, 3, 8, 5, 2, 1, 4, 6, 1, 1, 8, 6, 4, 4, 8, 5, 10, 8
+Chunk Tags: 1, 1, 2, 4, 10, 4, 2, 3, 0, 2, 2, 5, 5, 1, 8, 7, 9, 8
+NER Tags: 2, 10, 3, 1, 5, 7, 3, 6, 5, 6, 10, 0, 2, 1, 0, 2, 5, 2
+
+ID: 93
+Tokens: Malaysian, cuisine, is, a, fusion, of, Malay,, Chinese,, and, Indian, influences,, creating, a, unique, culinary, tradition.
+POS Tags: 10, 4, 10, 3, 9, 1, 4, 9, 1, 0, 10, 8, 8, 9, 1, 7
+Chunk Tags: 10, 10, 5, 1, 6, 8, 5, 4, 8, 10, 6, 3, 1, 3, 9, 10
+NER Tags: 4, 7, 2, 2, 10, 2, 3, 5, 0, 3, 10, 2, 9, 8, 8, 4
+
+ID: 94
+Tokens: Penang, is, an, island, in, Malaysia, known, for, its, colonial, architecture, and, street, food.
+POS Tags: 10, 6, 0, 5, 8, 1, 3, 3, 2, 6, 5, 8, 8, 6
+Chunk Tags: 6, 6, 6, 0, 0, 8, 3, 8, 0, 4, 9, 5, 8, 3
+NER Tags: 1, 1, 7, 0, 2, 0, 1, 6, 4, 3, 3, 9, 8, 0
+
+ID: 95
+Tokens: Sarawak,, located, on, the, island, of, Borneo,, is, one, of, the, largest, states, in, Malaysia,, famous, for, its, rainforests.
+POS Tags: 1, 9, 5, 10, 6, 6, 4, 2, 0, 1, 6, 3, 6, 0, 6, 6, 8, 10, 5
+Chunk Tags: 3, 4, 3, 3, 10, 8, 9, 8, 6, 6, 5, 4, 5, 10, 0, 0, 5, 9, 8
+NER Tags: 7, 8, 9, 8, 5, 4, 2, 5, 5, 10, 2, 1, 8, 8, 8, 5, 7, 7, 2
+
+ID: 96
+Tokens: Selangor, is, the, most, developed, state, in, Malaysia,, surrounding, the, capital,, Kuala, Lumpur.
+POS Tags: 1, 10, 2, 6, 3, 9, 10, 0, 0, 3, 0, 4, 9
+Chunk Tags: 8, 0, 5, 3, 9, 9, 10, 8, 7, 10, 1, 4, 3
+NER Tags: 3, 2, 0, 10, 7, 7, 7, 2, 6, 2, 7, 9, 6
+
+ID: 97
+Tokens: Singapore, is, a, city-state, at, the, southern, tip, of, the, Malay, Peninsula,, known, for, its, economic, success.
+POS Tags: 7, 2, 7, 2, 9, 1, 0, 10, 7, 7, 5, 7, 3, 10, 9, 6, 6
+Chunk Tags: 9, 6, 7, 4, 1, 9, 2, 8, 0, 0, 8, 3, 1, 2, 6, 7, 3
+NER Tags: 6, 7, 1, 8, 2, 8, 7, 1, 9, 0, 7, 1, 2, 2, 8, 9, 5
+
+ID: 98
+Tokens: Pakistan, is, a, country, in, South, Asia, with, a, rich, history, and, diverse, cultural, heritage.
+POS Tags: 1, 4, 1, 3, 0, 9, 5, 0, 6, 6, 6, 2, 8, 10, 9
+Chunk Tags: 2, 9, 5, 8, 5, 8, 1, 6, 9, 9, 8, 5, 3, 4, 10
+NER Tags: 7, 2, 4, 3, 10, 2, 8, 9, 2, 4, 3, 8, 7, 5, 0
+
+ID: 99
+Tokens: Urdu, is, the, national, language, of, Pakistan,, spoken, by, millions, of, people, across, the, country.
+POS Tags: 2, 0, 0, 6, 4, 2, 9, 6, 3, 0, 4, 7, 3, 10, 4
+Chunk Tags: 6, 1, 7, 1, 10, 8, 3, 6, 3, 6, 1, 0, 1, 5, 3
+NER Tags: 2, 9, 10, 6, 5, 2, 6, 8, 0, 8, 3, 7, 3, 10, 4
+
+ID: 100
+Tokens: Islamabad,, the, capital, city, of, Pakistan,, is, known, for, its, modern, architecture, and, green, spaces.
+POS Tags: 10, 4, 3, 2, 1, 8, 5, 6, 2, 6, 5, 0, 2, 4, 8
+Chunk Tags: 2, 3, 2, 9, 3, 9, 3, 10, 2, 3, 2, 2, 4, 2, 4
+NER Tags: 7, 2, 7, 2, 5, 9, 5, 1, 4, 6, 2, 7, 2, 3, 8
+
+ID: 101
+Tokens: Karachi, is, the, largest, city, in, Pakistan, and, a, major, port, on, the, Arabian, Sea.
+POS Tags: 8, 5, 6, 9, 7, 3, 6, 0, 4, 8, 10, 7, 1, 9, 7
+Chunk Tags: 8, 3, 4, 8, 3, 5, 10, 4, 9, 10, 4, 6, 8, 0, 4
+NER Tags: 8, 3, 4, 2, 0, 8, 7, 5, 5, 7, 4, 1, 4, 0, 7
+
+ID: 102
+Tokens: Kashmir, is, a, disputed, region, between, India, and, Pakistan,, known, for, its, beautiful, landscapes, and, rich, culture.
+POS Tags: 10, 2, 10, 4, 0, 6, 0, 4, 8, 5, 2, 2, 5, 6, 0, 7, 3
+Chunk Tags: 3, 1, 4, 10, 4, 8, 1, 0, 2, 9, 4, 0, 0, 10, 5, 2, 3
+NER Tags: 2, 3, 4, 3, 1, 2, 2, 3, 4, 4, 5, 4, 1, 0, 10, 9, 2
+
+ID: 103
+Tokens: The, Khyber, Pass, is, a, historic, mountain, pass, linking, Pakistan, and, Afghanistan,, used, by, traders, and, invaders, for, centuries.
+POS Tags: 6, 5, 1, 10, 10, 2, 5, 9, 6, 7, 9, 4, 10, 3, 4, 8, 8, 7, 10
+Chunk Tags: 4, 5, 9, 4, 2, 2, 1, 7, 9, 9, 3, 6, 4, 6, 3, 5, 8, 3, 6
+NER Tags: 0, 2, 1, 4, 3, 10, 2, 6, 5, 8, 8, 3, 7, 10, 1, 5, 5, 10, 10
+
+ID: 104
+Tokens: Lahore, is, a, cultural, hub, of, Pakistan,, famous, for, its, Mughal, architecture, and, vibrant, arts, scene.
+POS Tags: 4, 2, 0, 10, 3, 5, 1, 6, 5, 7, 6, 2, 7, 2, 3, 8
+Chunk Tags: 10, 3, 7, 3, 8, 2, 9, 0, 5, 9, 2, 3, 3, 5, 10, 2
+NER Tags: 0, 10, 0, 9, 3, 8, 1, 8, 9, 10, 3, 8, 3, 4, 9, 8
+
+ID: 105
+Tokens: Pakistani, cuisine, is, known, for, its, rich, flavors,, featuring, dishes, like, biryani, and, kebabs.
+POS Tags: 10, 4, 2, 1, 0, 1, 5, 6, 4, 5, 6, 3, 2, 8
+Chunk Tags: 5, 3, 7, 10, 4, 3, 1, 10, 1, 8, 5, 6, 2, 2
+NER Tags: 5, 3, 7, 1, 9, 3, 7, 4, 7, 7, 5, 0, 9, 6
+
+ID: 106
+Tokens: The, Pakistani, people, are, proud, of, their, country's, rich, history,, from, ancient, civilizations, to, modern, achievements.
+POS Tags: 3, 2, 9, 5, 1, 3, 3, 0, 4, 8, 8, 6, 1, 8, 0, 10
+Chunk Tags: 1, 7, 4, 9, 9, 8, 8, 1, 9, 7, 6, 0, 5, 3, 1, 3
+NER Tags: 7, 10, 4, 4, 8, 3, 0, 3, 7, 0, 8, 4, 6, 0, 0, 0
+
+ID: 107
+Tokens: Peshawar, is, one, of, the, oldest, cities, in, South, Asia,, with, a, history, dating, back, thousands, of, years.
+POS Tags: 5, 4, 10, 8, 6, 6, 7, 5, 6, 5, 2, 10, 1, 5, 9, 3, 10, 2
+Chunk Tags: 7, 6, 6, 10, 10, 9, 6, 1, 0, 10, 1, 3, 5, 7, 6, 0, 5, 0
+NER Tags: 3, 3, 5, 1, 6, 8, 10, 10, 6, 1, 6, 9, 4, 5, 1, 6, 9, 6
+
+ID: 108
+Tokens: Punjab, is, a, region, that, spans, parts, of, both, India, and, Pakistan,, known, for, its, agriculture, and, vibrant, culture.
+POS Tags: 1, 3, 5, 0, 3, 2, 8, 3, 2, 5, 4, 9, 4, 1, 8, 1, 1, 1, 3
+Chunk Tags: 5, 5, 8, 3, 5, 8, 10, 7, 5, 1, 4, 5, 0, 2, 5, 4, 0, 10, 2
+NER Tags: 9, 7, 6, 1, 9, 5, 5, 6, 4, 5, 4, 0, 2, 1, 6, 8, 3, 9, 1
+
+ID: 109
+Tokens: Punjabi, is, the, most, widely, spoken, language, in, Pakistan's, Punjab, province.
+POS Tags: 4, 0, 5, 10, 8, 5, 10, 4, 2, 4, 1
+Chunk Tags: 8, 5, 9, 3, 10, 2, 10, 8, 2, 4, 6
+NER Tags: 10, 9, 5, 8, 7, 10, 1, 7, 1, 4, 3
+
+ID: 110
+Tokens: The, Sikh, community, in, Pakistan, has, a, deep, connection, to, the, region,, particularly, the, city, of, Nankana, Sahib.
+POS Tags: 3, 9, 4, 3, 7, 2, 9, 5, 2, 10, 7, 5, 7, 5, 8, 3, 10, 9
+Chunk Tags: 4, 10, 6, 6, 7, 0, 2, 2, 1, 4, 6, 0, 10, 8, 0, 8, 5, 10
+NER Tags: 1, 8, 0, 1, 3, 2, 7, 0, 7, 5, 6, 7, 1, 4, 7, 4, 2, 7
+
+ID: 111
+Tokens: Sindh, is, a, province, in, Pakistan,, home, to, the, ancient, city, of, Mohenjo-Daro,, one, of, the, earliest, urban, centers, in, the, world.
+POS Tags: 5, 2, 6, 6, 2, 3, 8, 9, 0, 3, 4, 3, 0, 4, 10, 8, 8, 7, 6, 8, 6, 6
+Chunk Tags: 1, 0, 9, 10, 2, 6, 5, 6, 8, 6, 6, 0, 10, 7, 0, 0, 3, 2, 9, 10, 4, 8
+NER Tags: 1, 6, 1, 9, 8, 6, 5, 4, 4, 0, 3, 7, 1, 9, 10, 1, 10, 3, 2, 1, 3, 10
+
+ID: 112
+Tokens: The, Indian, subcontinent, has, been, home, to, numerous, civilizations,, from, the, Indus, Valley, to, the, Mughals.
+POS Tags: 7, 6, 7, 8, 2, 4, 10, 7, 8, 3, 9, 7, 2, 0, 8, 3
+Chunk Tags: 9, 1, 8, 4, 7, 0, 2, 4, 3, 6, 4, 9, 0, 6, 1, 10
+NER Tags: 5, 8, 7, 4, 1, 5, 4, 7, 8, 5, 6, 4, 4, 4, 10, 5
+
+ID: 113
+Tokens: Indira, Gandhi, was, India's, first, female, Prime, Minister,, known, for, her, bold, leadership.
+POS Tags: 9, 4, 5, 2, 10, 2, 8, 9, 0, 2, 10, 3, 6
+Chunk Tags: 10, 0, 2, 3, 3, 3, 8, 8, 10, 2, 4, 9, 10
+NER Tags: 0, 10, 1, 1, 9, 8, 9, 3, 4, 8, 1, 0, 7
+
+ID: 114
+Tokens: Jaya, is, a, popular, name, in, India,, symbolizing, victory, and, success.
+POS Tags: 1, 8, 9, 6, 8, 8, 2, 0, 2, 7, 2
+Chunk Tags: 4, 9, 6, 3, 4, 6, 10, 9, 9, 7, 10
+NER Tags: 6, 2, 2, 5, 7, 2, 0, 0, 5, 2, 10
+
+ID: 115
+Tokens: Kiran, Bedi, was, the, first, woman, to, join, the, Indian, Police, Service, and, is, an, iconic, figure, in, India.
+POS Tags: 8, 6, 2, 4, 3, 2, 5, 6, 6, 0, 4, 1, 4, 0, 3, 3, 6, 6, 7
+Chunk Tags: 1, 6, 4, 7, 8, 1, 6, 6, 5, 10, 6, 5, 2, 1, 1, 5, 0, 10, 6
+NER Tags: 4, 0, 5, 4, 3, 6, 0, 5, 4, 0, 10, 6, 5, 3, 0, 9, 6, 3, 8
+
+ID: 116
+Tokens: The, Maharaja, of, Mysore, was, known, for, his, patronage, of, the, arts, and, culture.
+POS Tags: 9, 7, 9, 6, 2, 5, 5, 6, 7, 4, 8, 2, 8, 1
+Chunk Tags: 5, 5, 10, 9, 10, 4, 7, 2, 2, 8, 1, 10, 7, 2
+NER Tags: 5, 7, 5, 2, 2, 4, 3, 0, 8, 5, 9, 1, 3, 3
+
+ID: 117
+Tokens: Mahatma, Gandhi's, philosophy, of, non-violence, inspired, movements, across, the, world.
+POS Tags: 3, 3, 6, 7, 2, 10, 9, 9, 6, 9
+Chunk Tags: 1, 5, 0, 9, 3, 1, 6, 2, 9, 9
+NER Tags: 3, 4, 9, 9, 6, 8, 10, 3, 5, 0
+
+ID: 118
+Tokens: Mahesh, is, a, common, name, in, India,, often, associated, with, Lord, Shiva.
+POS Tags: 5, 7, 4, 8, 1, 2, 7, 3, 1, 10, 4, 2
+Chunk Tags: 9, 0, 1, 6, 9, 2, 9, 1, 6, 0, 8, 7
+NER Tags: 9, 6, 4, 10, 4, 5, 3, 8, 0, 10, 2, 3
+
+ID: 119
+Tokens: Nair, is, a, traditional, community, from, Kerala,, known, for, its, rich, heritage.
+POS Tags: 4, 5, 10, 5, 4, 5, 8, 3, 10, 8, 8, 6
+Chunk Tags: 2, 7, 6, 8, 6, 7, 6, 5, 10, 3, 4, 8
+NER Tags: 0, 7, 4, 4, 2, 10, 7, 0, 6, 8, 5, 7
+
+ID: 120
+Tokens: Nisha, was, excited, to, start, her, new, job, at, the, tech, company, in, Bengaluru.
+POS Tags: 4, 3, 4, 7, 2, 1, 8, 10, 3, 10, 4, 3, 6, 4
+Chunk Tags: 2, 1, 5, 2, 10, 5, 0, 10, 2, 10, 2, 6, 10, 1
+NER Tags: 2, 3, 0, 3, 2, 5, 10, 10, 2, 6, 0, 8, 9, 8
+
+ID: 121
+Tokens: The, Pancha, Bhoota, are, the, five, elements—earth,, water,, fire,, air,, and, ether—in, Indian, philosophy.
+POS Tags: 4, 9, 6, 5, 6, 5, 10, 6, 1, 1, 3, 5, 7, 2
+Chunk Tags: 7, 0, 4, 10, 4, 3, 7, 7, 2, 5, 9, 9, 1, 1
+NER Tags: 0, 2, 0, 2, 3, 4, 3, 7, 5, 7, 10, 8, 4, 6
+
+ID: 122
+Tokens: The, festival, of, Parv, celebrates, the, changing, of, the, seasons, in, many, parts, of, India.
+POS Tags: 3, 1, 5, 5, 8, 7, 2, 10, 0, 7, 7, 7, 3, 5, 7
+Chunk Tags: 10, 6, 10, 9, 6, 5, 5, 7, 6, 0, 7, 8, 6, 3, 9
+NER Tags: 4, 8, 1, 6, 7, 6, 3, 4, 4, 6, 5, 8, 8, 10, 1
+
+ID: 123
+Tokens: Pillai, is, a, prominent, surname, in, South, India,, especially, among, Tamil-speaking, communities.
+POS Tags: 1, 4, 4, 7, 9, 0, 1, 1, 8, 6, 9, 10
+Chunk Tags: 1, 5, 5, 7, 8, 3, 2, 4, 8, 3, 1, 10
+NER Tags: 3, 10, 5, 10, 2, 3, 8, 0, 3, 10, 1, 1
+
+ID: 124
+Tokens: Pratap, was, a, fearless, warrior,, remembered, for, his, valor, in, battles, against, invaders.
+POS Tags: 0, 3, 7, 7, 9, 6, 8, 10, 0, 1, 7, 9, 1
+Chunk Tags: 6, 2, 0, 3, 1, 8, 1, 5, 8, 9, 0, 0, 9
+NER Tags: 3, 4, 10, 7, 6, 7, 1, 3, 10, 6, 9, 6, 5
+
+ID: 125
+Tokens: Raghu, is, a, popular, name, in, India,, often, associated, with, kings, and, dynasties, from, ancient, times.
+POS Tags: 7, 2, 8, 4, 9, 0, 3, 5, 7, 5, 1, 4, 4, 5, 10, 5
+Chunk Tags: 9, 6, 2, 5, 3, 10, 9, 10, 7, 9, 10, 10, 3, 9, 3, 8
+NER Tags: 9, 5, 7, 5, 7, 2, 6, 0, 0, 7, 0, 10, 4, 7, 2, 6
+
+ID: 126
+Tokens: Rahul, is, a, common, name, in, India,, and, one, of, its, most, famous, bearers, is, Rahul, Gandhi.
+POS Tags: 0, 9, 3, 1, 1, 1, 4, 2, 3, 3, 4, 8, 3, 10, 2, 6, 9
+Chunk Tags: 7, 9, 3, 4, 10, 2, 2, 3, 7, 5, 5, 4, 4, 3, 10, 8, 4
+NER Tags: 6, 2, 1, 3, 2, 3, 6, 8, 7, 7, 9, 7, 3, 9, 9, 5, 6
+
+ID: 127
+Tokens: The, Raj, period, in, India, was, marked, by, British, colonial, rule, and, resistance, movements.
+POS Tags: 0, 8, 5, 9, 7, 3, 6, 4, 10, 4, 2, 2, 6, 9
+Chunk Tags: 10, 2, 7, 10, 10, 4, 10, 8, 6, 10, 9, 3, 8, 4
+NER Tags: 8, 8, 2, 10, 3, 0, 8, 0, 6, 8, 5, 4, 1, 4
+
+ID: 128
+Tokens: The, Raja, of, Travancore, played, an, important, role, in, the, development, of, Kerala's, economy.
+POS Tags: 6, 6, 7, 3, 5, 8, 2, 3, 9, 9, 4, 2, 5, 0
+Chunk Tags: 10, 1, 8, 5, 4, 1, 3, 9, 5, 9, 2, 8, 2, 1
+NER Tags: 6, 5, 6, 8, 3, 1, 1, 10, 0, 8, 9, 2, 6, 5
+
+ID: 129
+Tokens: Rajendra, Prasad, was, the, first, President, of, independent, India.
+POS Tags: 4, 1, 5, 7, 5, 5, 1, 10, 9
+Chunk Tags: 6, 9, 0, 6, 4, 0, 1, 10, 3
+NER Tags: 7, 3, 2, 6, 8, 0, 8, 7, 6
+
+ID: 130
+Tokens: Raju, works, in, the, software, industry, and, has, contributed, to, many, open-source, projects.
+POS Tags: 4, 4, 0, 2, 3, 3, 9, 6, 0, 6, 6, 4, 4
+Chunk Tags: 1, 1, 1, 9, 8, 3, 6, 0, 3, 5, 4, 6, 4
+NER Tags: 9, 10, 9, 1, 10, 2, 2, 9, 8, 1, 0, 6, 7
+
+ID: 131
+Tokens: Rao, is, a, common, surname, in, South, India,, often, associated, with, Telugu-speaking, communities.
+POS Tags: 3, 0, 2, 6, 6, 7, 4, 5, 8, 6, 5, 1, 8
+Chunk Tags: 9, 1, 6, 10, 1, 0, 4, 8, 7, 9, 8, 3, 4
+NER Tags: 1, 1, 1, 7, 7, 3, 2, 9, 3, 5, 6, 3, 0
+
+ID: 132
+Tokens: Ravi, is, a, name, that, signifies, the, sun, and, is, popular, in, many, parts, of, India.
+POS Tags: 9, 3, 7, 0, 3, 0, 0, 10, 1, 0, 7, 10, 1, 1, 1, 10
+Chunk Tags: 0, 8, 7, 2, 6, 9, 6, 2, 1, 4, 2, 0, 5, 8, 2, 8
+NER Tags: 4, 1, 6, 10, 7, 2, 6, 6, 10, 2, 9, 9, 9, 5, 3, 6
+
+ID: 133
+Tokens: Reddy, is, a, well-known, surname, among, the, Telugu-speaking, people, of, Andhra, Pradesh, and, Telangana.
+POS Tags: 10, 2, 8, 9, 4, 8, 1, 4, 1, 4, 7, 7, 10, 2
+Chunk Tags: 4, 8, 1, 2, 4, 2, 2, 10, 1, 4, 2, 10, 10, 10
+NER Tags: 2, 1, 4, 0, 5, 9, 10, 3, 8, 5, 5, 3, 7, 1
+
+ID: 134
+Tokens: Rohan, is, an, enthusiastic, young, man, with, dreams, of, becoming, a, filmmaker.
+POS Tags: 9, 0, 10, 2, 1, 2, 6, 0, 0, 1, 9, 2
+Chunk Tags: 4, 9, 6, 3, 2, 8, 5, 2, 8, 9, 2, 0
+NER Tags: 4, 1, 3, 3, 10, 1, 10, 10, 0, 6, 0, 3
+
+ID: 135
+Tokens: Sanjay, is, a, versatile, actor, in, Bollywood,, known, for, his, roles, in, both, action, and, drama, films.
+POS Tags: 7, 8, 8, 5, 1, 8, 9, 7, 3, 1, 7, 8, 10, 6, 6, 10, 3
+Chunk Tags: 6, 6, 4, 4, 3, 9, 7, 5, 0, 7, 2, 6, 8, 1, 5, 6, 0
+NER Tags: 6, 7, 2, 5, 7, 7, 7, 5, 1, 5, 3, 6, 7, 3, 4, 5, 3
+
+ID: 136
+Tokens: Satya, means, truth,, and, it, holds, a, special, significance, in, Indian, philosophy, and, religion.
+POS Tags: 4, 5, 1, 1, 10, 7, 2, 9, 5, 8, 1, 7, 3, 8
+Chunk Tags: 10, 4, 3, 2, 2, 5, 1, 1, 1, 3, 1, 6, 6, 5
+NER Tags: 9, 9, 9, 1, 7, 2, 5, 0, 4, 3, 9, 0, 6, 5
+
+ID: 137
+Tokens: Sree, is, a, prefix, often, used, in, names, and, titles, in, South, India,, signifying, respect.
+POS Tags: 5, 1, 9, 6, 10, 0, 10, 3, 2, 9, 5, 3, 10, 2, 1
+Chunk Tags: 2, 1, 4, 8, 8, 7, 9, 3, 10, 4, 0, 5, 0, 9, 5
+NER Tags: 8, 3, 5, 9, 8, 7, 3, 8, 2, 10, 8, 5, 1, 7, 1
+
+ID: 138
+Tokens: Srinivas, is, a, common, name, in, India,, derived, from, the, Hindu, god, Vishnu.
+POS Tags: 6, 10, 6, 5, 5, 10, 6, 8, 6, 5, 7, 3, 4
+Chunk Tags: 1, 2, 8, 6, 7, 10, 3, 8, 3, 1, 9, 1, 10
+NER Tags: 4, 3, 4, 6, 2, 2, 3, 3, 10, 7, 8, 8, 3
+
+ID: 139
+Tokens: Sukh, means, happiness,, and, it's, a, popular, theme, in, Indian, music, and, poetry.
+POS Tags: 10, 8, 10, 10, 3, 1, 8, 3, 0, 2, 6, 0, 7
+Chunk Tags: 5, 7, 10, 6, 9, 4, 7, 6, 8, 7, 5, 0, 7
+NER Tags: 3, 2, 8, 0, 1, 5, 6, 8, 1, 4, 10, 8, 8
+
+ID: 140
+Tokens: Sundar, Pichai, is, the, CEO, of, Google,, and, he, hails, from, Tamil, Nadu.
+POS Tags: 0, 2, 6, 3, 7, 4, 1, 9, 2, 3, 1, 0, 1
+Chunk Tags: 8, 2, 6, 5, 5, 7, 3, 1, 8, 8, 2, 10, 4
+NER Tags: 5, 3, 5, 1, 8, 7, 6, 3, 2, 7, 5, 6, 3
+
+ID: 141
+Tokens: Thiru, is, a, title, of, respect, used, in, Tamil, for, addressing, men.
+POS Tags: 1, 1, 2, 6, 3, 4, 4, 6, 9, 3, 1, 10
+Chunk Tags: 8, 7, 1, 3, 6, 5, 10, 3, 1, 8, 5, 4
+NER Tags: 6, 7, 3, 3, 5, 10, 10, 1, 5, 2, 4, 5
+
+ID: 142
+Tokens: Tiruvarur, is, a, town, in, Tamil, Nadu, known, for, its, ancient, temples, and, cultural, heritage.
+POS Tags: 3, 5, 7, 2, 7, 6, 7, 0, 2, 1, 5, 2, 9, 8, 6
+Chunk Tags: 7, 7, 7, 2, 5, 7, 4, 8, 2, 5, 1, 8, 5, 9, 3
+NER Tags: 8, 5, 5, 1, 6, 6, 5, 7, 0, 3, 8, 10, 4, 4, 6
+
+ID: 143
+Tokens: Venkat, is, a, common, name, in, South, India,, associated, with, Lord, Venkateswara, of, Tirupati.
+POS Tags: 6, 2, 10, 10, 1, 3, 6, 7, 4, 2, 1, 9, 9, 3
+Chunk Tags: 8, 7, 5, 8, 8, 2, 0, 9, 7, 0, 0, 5, 3, 0
+NER Tags: 9, 9, 9, 5, 1, 3, 0, 1, 7, 9, 3, 4, 0, 1
+
+ID: 144
+Tokens: Vijay, is, a, famous, actor, in, Tamil, cinema,, known, for, his, blockbuster, films.
+POS Tags: 2, 6, 1, 0, 0, 7, 10, 2, 6, 10, 2, 4, 1
+Chunk Tags: 10, 10, 6, 3, 1, 9, 10, 2, 7, 1, 7, 1, 5
+NER Tags: 10, 5, 0, 1, 5, 6, 3, 7, 3, 0, 3, 1, 2
+
+ID: 145
+Tokens: Vijaya, Dashami, is, a, festival, celebrated, with, great, fervor, in, many, parts, of, India.
+POS Tags: 4, 5, 4, 7, 10, 10, 0, 3, 5, 9, 10, 2, 5, 6
+Chunk Tags: 3, 6, 8, 1, 1, 0, 8, 8, 6, 2, 4, 10, 2, 9
+NER Tags: 10, 3, 3, 6, 5, 0, 6, 2, 0, 6, 9, 0, 6, 3
+
+ID: 146
+Tokens: Vikram, is, a, popular, name, in, India, and, also, the, title, of, many, historical, figures, and, kings.
+POS Tags: 7, 9, 0, 3, 10, 7, 3, 2, 3, 2, 2, 10, 10, 6, 4, 8, 10
+Chunk Tags: 6, 3, 1, 2, 2, 1, 4, 7, 4, 6, 10, 2, 5, 5, 3, 10, 1
+NER Tags: 6, 4, 0, 6, 5, 3, 9, 5, 7, 10, 5, 5, 10, 2, 1, 8, 0
+
+ID: 147
+Tokens: Yash, is, a, rising, star, in, the, Kannada, film, industry,, known, for, his, blockbuster, movie, 'KGF'.
+POS Tags: 4, 9, 1, 10, 1, 0, 0, 1, 1, 5, 10, 0, 3, 8, 6, 7
+Chunk Tags: 3, 0, 0, 9, 3, 8, 0, 8, 3, 7, 5, 2, 0, 6, 9, 0
+NER Tags: 10, 3, 5, 5, 5, 4, 4, 6, 4, 6, 2, 10, 7, 3, 3, 10
+
+ID: 148
+Tokens: Bengali, is, one, of, the, major, languages, spoken, in, India,, especially, in, the, state, of, West, Bengal.
+POS Tags: 0, 1, 10, 3, 9, 0, 5, 2, 0, 0, 2, 10, 9, 2, 7, 3, 9
+Chunk Tags: 4, 3, 9, 7, 2, 9, 10, 9, 6, 1, 5, 10, 5, 1, 9, 8, 4
+NER Tags: 9, 4, 7, 6, 10, 0, 9, 10, 8, 1, 10, 10, 5, 9, 0, 9, 7
+
+ID: 149
+Tokens: Hindi, is, the, most, widely, spoken, language, in, India, and, is, one, of, the, country's, official, languages.
+POS Tags: 6, 1, 10, 0, 8, 4, 6, 0, 7, 8, 1, 7, 6, 2, 9, 0, 5
+Chunk Tags: 10, 1, 8, 1, 1, 7, 10, 0, 5, 6, 8, 0, 6, 2, 2, 10, 7
+NER Tags: 8, 5, 10, 0, 5, 10, 6, 1, 10, 9, 3, 9, 6, 4, 1, 10, 7
+
+ID: 150
+Tokens: The, Bengali, film, industry, is, known, for, producing, critically, acclaimed, movies.
+POS Tags: 2, 7, 5, 3, 2, 8, 5, 2, 8, 0, 0
+Chunk Tags: 7, 3, 2, 5, 4, 1, 10, 6, 10, 8, 2
+NER Tags: 0, 3, 7, 8, 10, 3, 0, 7, 4, 7, 3
+
+ID: 151
+Tokens: Bollywood,, the, Hindi, film, industry,, is, the, largest, in, the, world, in, terms, of, the, number, of, films, produced.
+POS Tags: 7, 10, 4, 0, 1, 7, 10, 3, 7, 5, 1, 6, 6, 6, 5, 8, 2, 8, 4
+Chunk Tags: 1, 9, 7, 1, 6, 2, 4, 10, 1, 3, 10, 5, 3, 9, 2, 5, 6, 3, 9
+NER Tags: 4, 6, 6, 5, 9, 8, 1, 10, 5, 0, 1, 6, 1, 4, 1, 2, 10, 1, 3
+
+ID: 152
+Tokens: The, Brahmin, community, has, played, a, significant, role, in, preserving, Indian, cultural, and, religious, traditions.
+POS Tags: 2, 4, 4, 5, 3, 7, 4, 2, 5, 7, 2, 6, 9, 4, 8
+Chunk Tags: 5, 5, 10, 1, 7, 5, 5, 5, 3, 10, 8, 6, 8, 1, 9
+NER Tags: 2, 4, 2, 2, 0, 8, 4, 4, 2, 1, 5, 6, 5, 1, 7
+
+ID: 153
+Tokens: The, Chola, dynasty, ruled, large, parts, of, South, India, and, Southeast, Asia, during, the, medieval, period.
+POS Tags: 3, 2, 0, 8, 0, 6, 2, 5, 2, 8, 4, 3, 2, 10, 8, 8
+Chunk Tags: 4, 4, 8, 8, 4, 8, 8, 6, 4, 7, 10, 2, 0, 0, 4, 6
+NER Tags: 5, 2, 1, 7, 3, 4, 2, 6, 9, 10, 1, 0, 6, 10, 5, 3
+
+ID: 154
+Tokens: The, Filmfare, Awards, are, considered, one, of, the, most, prestigious, honors, in, the, Indian, film, industry.
+POS Tags: 1, 1, 8, 3, 8, 7, 8, 2, 9, 2, 2, 9, 9, 4, 10, 4
+Chunk Tags: 4, 8, 0, 7, 7, 3, 3, 6, 5, 6, 0, 6, 4, 3, 7, 0
+NER Tags: 3, 8, 1, 3, 3, 7, 8, 9, 6, 8, 2, 5, 3, 1, 3, 4
+
+ID: 155
+Tokens: Hindi, is, not, only, a, language, but, also, a, major, part, of, India's, cultural, and, literary, heritage.
+POS Tags: 1, 1, 8, 4, 10, 2, 8, 4, 10, 0, 4, 7, 3, 7, 7, 6, 4
+Chunk Tags: 4, 7, 10, 6, 6, 10, 4, 3, 1, 8, 2, 5, 6, 10, 5, 10, 5
+NER Tags: 5, 0, 7, 9, 1, 10, 2, 1, 3, 3, 1, 10, 7, 8, 6, 7, 9
+
+ID: 156
+Tokens: Hinduism, is, the, world's, third-largest, religion,, with, deep, roots, in, Indian, culture, and, history.
+POS Tags: 2, 9, 2, 6, 8, 8, 7, 9, 9, 10, 2, 6, 0, 8
+Chunk Tags: 9, 3, 8, 1, 2, 8, 5, 2, 6, 3, 0, 6, 10, 5
+NER Tags: 1, 2, 3, 4, 9, 4, 0, 7, 0, 6, 8, 4, 8, 2
+
+ID: 157
+Tokens: Kannada, is, the, official, language, of, Karnataka, and, is, one, of, India's, oldest, languages.
+POS Tags: 10, 0, 4, 6, 8, 5, 9, 0, 7, 6, 0, 1, 5, 8
+Chunk Tags: 0, 2, 10, 2, 0, 7, 7, 10, 4, 2, 6, 3, 10, 2
+NER Tags: 2, 7, 7, 0, 10, 10, 7, 7, 4, 9, 0, 4, 10, 4
+
+ID: 158
+Tokens: Malayalam, is, the, official, language, of, Kerala, and, is, known, for, its, rich, literary, tradition.
+POS Tags: 8, 9, 0, 10, 8, 7, 9, 6, 1, 2, 2, 5, 9, 5, 3
+Chunk Tags: 7, 7, 1, 10, 3, 3, 10, 10, 3, 5, 8, 3, 2, 1, 1
+NER Tags: 10, 7, 4, 1, 9, 10, 1, 7, 3, 10, 3, 6, 9, 8, 5
+
+ID: 159
+Tokens: The, Maratha, Empire, played, a, significant, role, in, Indian, history,, especially, in, resisting, Mughal, domination.
+POS Tags: 8, 1, 7, 7, 3, 4, 1, 3, 5, 3, 4, 1, 7, 7, 4
+Chunk Tags: 10, 1, 1, 9, 10, 7, 1, 5, 2, 1, 2, 9, 2, 2, 8
+NER Tags: 8, 8, 9, 8, 3, 5, 9, 1, 3, 9, 10, 10, 4, 5, 3
+
+ID: 160
+Tokens: Marathi, is, the, official, language, of, Maharashtra,, a, state, known, for, its, rich, history, and, culture.
+POS Tags: 0, 0, 10, 4, 4, 6, 1, 2, 1, 3, 9, 4, 4, 5, 5, 4
+Chunk Tags: 2, 6, 5, 6, 2, 9, 9, 6, 2, 0, 5, 0, 1, 5, 8, 7
+NER Tags: 4, 4, 0, 0, 6, 10, 4, 4, 5, 3, 7, 10, 9, 10, 1, 1
+
+ID: 161
+Tokens: Pali, is, an, ancient, language, closely, associated, with, Buddhist, scriptures, and, teachings.
+POS Tags: 3, 9, 1, 9, 3, 0, 4, 1, 10, 8, 6, 2
+Chunk Tags: 8, 7, 6, 0, 7, 3, 9, 7, 0, 1, 1, 3
+NER Tags: 7, 2, 3, 0, 9, 7, 9, 9, 10, 8, 3, 10
+
+ID: 162
+Tokens: The, Puranas, are, ancient, Hindu, texts, that, contain, myths,, legends,, and, traditions, of, the, Indian, subcontinent.
+POS Tags: 4, 8, 0, 9, 1, 4, 2, 7, 7, 4, 7, 9, 7, 0, 10, 8
+Chunk Tags: 4, 10, 6, 6, 1, 5, 4, 1, 5, 5, 4, 4, 5, 6, 5, 5
+NER Tags: 4, 0, 3, 10, 4, 4, 10, 9, 9, 2, 9, 0, 4, 3, 5, 5
+
+ID: 163
+Tokens: Sahitya, means, literature,, and, Sahitya, Akademi, is, India's, National, Academy, of, Letters.
+POS Tags: 1, 1, 2, 4, 8, 4, 3, 7, 3, 7, 7, 2
+Chunk Tags: 9, 6, 9, 7, 7, 3, 6, 7, 2, 3, 4, 3
+NER Tags: 3, 4, 0, 6, 8, 10, 10, 6, 7, 6, 8, 3
+
+ID: 164
+Tokens: Sanskrit, is, one, of, the, oldest, languages, in, the, world, and, is, the, liturgical, language, of, Hinduism.
+POS Tags: 2, 3, 6, 1, 9, 10, 7, 10, 1, 0, 7, 10, 6, 10, 5, 4, 8
+Chunk Tags: 10, 10, 8, 8, 1, 10, 4, 4, 10, 1, 7, 0, 4, 5, 10, 7, 0
+NER Tags: 3, 10, 10, 0, 2, 3, 0, 7, 8, 4, 3, 7, 3, 4, 8, 5, 1
+
+ID: 165
+Tokens: Tamil, is, one, of, the, longest-surviving, classical, languages, in, the, world,, with, a, rich, literary, history.
+POS Tags: 3, 1, 2, 5, 8, 4, 5, 9, 2, 9, 2, 6, 2, 6, 10, 0
+Chunk Tags: 10, 0, 5, 0, 3, 6, 6, 10, 4, 9, 6, 3, 4, 4, 2, 9
+NER Tags: 5, 1, 8, 3, 10, 0, 6, 6, 0, 5, 1, 3, 9, 10, 4, 5
+
+ID: 166
+Tokens: Telugu, is, spoken, by, millions, in, the, Indian, states, of, Andhra, Pradesh, and, Telangana.
+POS Tags: 3, 0, 5, 9, 6, 10, 3, 7, 7, 2, 3, 1, 8, 9
+Chunk Tags: 9, 4, 9, 6, 5, 4, 4, 4, 5, 5, 6, 8, 4, 8
+NER Tags: 0, 4, 0, 1, 0, 4, 8, 4, 7, 3, 5, 10, 6, 10
+
+ID: 167
+Tokens: The, Upanishads, are, ancient, philosophical, texts, that, form, the, basis, of, Hindu, thought, and, spirituality.
+POS Tags: 7, 2, 0, 7, 3, 8, 9, 8, 1, 4, 0, 1, 8, 7, 2
+Chunk Tags: 1, 4, 8, 9, 6, 8, 10, 9, 2, 9, 3, 6, 1, 10, 7
+NER Tags: 10, 4, 1, 3, 5, 4, 1, 7, 4, 1, 7, 4, 9, 1, 6
+
+ID: 168
+Tokens: The, Veda, texts, are, the, oldest, sacred, scriptures, of, Hinduism,, written, in, Sanskrit.
+POS Tags: 4, 9, 4, 0, 9, 0, 8, 3, 10, 8, 6, 5, 3
+Chunk Tags: 9, 3, 4, 0, 4, 1, 1, 10, 7, 3, 10, 8, 8
+NER Tags: 5, 1, 2, 4, 7, 1, 7, 8, 8, 8, 9, 3, 8
+
+ID: 169
+Tokens: Vedic, literature, has, shaped, much, of, Indian, philosophy,, ritual, practices,, and, spiritual, traditions.
+POS Tags: 9, 4, 10, 0, 3, 6, 6, 0, 5, 0, 4, 2, 7
+Chunk Tags: 6, 4, 5, 1, 10, 2, 0, 0, 0, 8, 7, 5, 8
+NER Tags: 7, 2, 4, 6, 8, 9, 4, 3, 10, 8, 10, 8, 6
+
+ID: 170
+Tokens: Indira, Gandhi's, leadership, style, continues, to, be, a, topic, of, discussion, in, Indian, politics.
+POS Tags: 7, 8, 9, 4, 9, 5, 2, 9, 2, 5, 0, 5, 1, 5
+Chunk Tags: 6, 1, 3, 5, 0, 4, 9, 7, 0, 7, 1, 10, 8, 5
+NER Tags: 10, 7, 6, 9, 2, 5, 1, 5, 4, 2, 8, 0, 9, 4
+
+ID: 171
+Tokens: Jaya, Bachchan, is, a, well-known, actress, and, politician, in, India,, known, for, her, work, in, Hindi, cinema.
+POS Tags: 8, 5, 4, 9, 9, 1, 1, 8, 1, 10, 8, 10, 5, 1, 6, 5, 2
+Chunk Tags: 2, 6, 8, 6, 0, 0, 8, 3, 9, 5, 7, 10, 9, 5, 8, 2, 10
+NER Tags: 4, 1, 10, 1, 5, 9, 3, 9, 8, 1, 9, 2, 5, 1, 10, 3, 6
+
+ID: 172
+Tokens: Kiran, Desai, is, an, acclaimed, author,, known, for, her, novel, 'The, Inheritance, of, Loss'.
+POS Tags: 1, 9, 4, 8, 4, 6, 3, 7, 5, 5, 8, 2, 9, 7
+Chunk Tags: 7, 2, 8, 6, 7, 3, 8, 10, 6, 7, 3, 2, 4, 6
+NER Tags: 0, 10, 1, 0, 1, 3, 5, 2, 1, 10, 9, 8, 4, 8
+
+ID: 173
+Tokens: The, Maharaja, of, Jaipur, was, known, for, his, luxurious, lifestyle, and, contributions, to, Indian, art.
+POS Tags: 6, 10, 10, 7, 9, 9, 0, 4, 9, 8, 8, 3, 10, 10, 0
+Chunk Tags: 1, 2, 10, 6, 4, 9, 6, 9, 9, 5, 6, 9, 10, 7, 4
+NER Tags: 6, 2, 6, 1, 3, 3, 4, 4, 4, 4, 5, 0, 6, 8, 3
+
+ID: 174
+Tokens: Mahatma, Gandhi's, Dandi, March, was, a, key, event, in, India's, fight, for, independence.
+POS Tags: 10, 7, 9, 3, 5, 4, 5, 7, 0, 10, 10, 1, 1
+Chunk Tags: 1, 0, 7, 8, 5, 7, 6, 10, 5, 6, 3, 8, 9
+NER Tags: 7, 5, 9, 10, 3, 10, 6, 0, 9, 7, 0, 7, 3
+
+ID: 175
+Tokens: Mahesh, Bhatt, is, a, prominent, film, director, in, Bollywood,, known, for, his, thought-provoking, movies.
+POS Tags: 6, 7, 5, 3, 3, 9, 3, 0, 6, 7, 3, 6, 7, 6
+Chunk Tags: 9, 3, 4, 9, 9, 9, 8, 0, 10, 9, 0, 4, 3, 1
+NER Tags: 3, 3, 2, 7, 6, 5, 4, 0, 8, 7, 5, 1, 6, 1
+
+ID: 176
+Tokens: Nair, tea, estates, are, some, of, the, largest, producers, of, tea, in, Kerala.
+POS Tags: 6, 5, 9, 9, 10, 3, 7, 7, 0, 2, 10, 3, 4
+Chunk Tags: 9, 6, 5, 4, 1, 1, 8, 5, 8, 6, 0, 9, 1
+NER Tags: 8, 4, 10, 3, 0, 2, 8, 8, 9, 9, 9, 10, 9
+
+ID: 177
+Tokens: Nisha, won, the, award, for, the, best, software, developer, in, her, company.
+POS Tags: 8, 1, 0, 10, 3, 1, 3, 4, 2, 1, 8, 7
+Chunk Tags: 3, 10, 1, 3, 2, 9, 8, 4, 8, 1, 1, 10
+NER Tags: 0, 3, 3, 2, 2, 5, 2, 1, 6, 6, 6, 1
+
+ID: 178
+Tokens: The, Pancha, Kanya, are, five, ideal, women, mentioned, in, Hindu, epics, and, scriptures.
+POS Tags: 10, 5, 8, 0, 5, 3, 9, 3, 5, 0, 5, 4, 3
+Chunk Tags: 3, 0, 1, 8, 10, 4, 10, 5, 7, 4, 1, 5, 4
+NER Tags: 4, 9, 2, 8, 7, 9, 5, 4, 8, 6, 5, 1, 3
+
+ID: 179
+Tokens: The, Parv, festival, marks, the, transition, of, seasons, and, is, celebrated, across, India.
+POS Tags: 7, 8, 6, 4, 10, 6, 2, 7, 4, 4, 7, 3, 6
+Chunk Tags: 8, 2, 4, 3, 10, 7, 8, 5, 2, 6, 9, 3, 5
+NER Tags: 4, 0, 10, 6, 0, 7, 1, 7, 3, 8, 2, 0, 10
+
+ID: 180
+Tokens: Pillai, is, a, respected, surname, in, Tamil, Nadu,, associated, with, the, Tamil-speaking, community.
+POS Tags: 4, 8, 8, 5, 8, 7, 6, 3, 9, 7, 10, 1, 10
+Chunk Tags: 1, 0, 2, 10, 7, 3, 8, 3, 4, 0, 9, 0, 3
+NER Tags: 6, 8, 3, 10, 3, 9, 0, 2, 9, 9, 8, 4, 6
+
+ID: 181
+Tokens: Pratap, Singh, led, his, kingdom, to, victory, in, many, battles,, becoming, a, symbol, of, resistance.
+POS Tags: 1, 9, 7, 6, 2, 9, 0, 7, 9, 10, 4, 5, 2, 10, 9
+Chunk Tags: 10, 1, 2, 9, 7, 6, 7, 6, 7, 0, 9, 1, 10, 6, 4
+NER Tags: 4, 8, 2, 6, 0, 5, 6, 2, 4, 3, 0, 4, 3, 3, 9
+
+ID: 182
+Tokens: Raghu, is, a, name, often, linked, to, the, Raghu, dynasty,, which, finds, mention, in, ancient, Hindu, texts.
+POS Tags: 2, 8, 1, 2, 2, 9, 4, 7, 1, 3, 1, 6, 5, 0, 5, 10, 4
+Chunk Tags: 6, 4, 2, 9, 7, 2, 10, 5, 9, 5, 6, 9, 4, 2, 10, 0, 8
+NER Tags: 8, 3, 4, 6, 6, 6, 7, 5, 9, 0, 10, 6, 7, 4, 0, 9, 1
+
+ID: 183
+Tokens: Rahul, Dravid, is, one, of, India's, greatest, cricketers,, known, for, his, discipline, and, sportsmanship.
+POS Tags: 10, 3, 0, 10, 9, 5, 8, 3, 8, 1, 9, 7, 5, 3
+Chunk Tags: 4, 7, 2, 2, 8, 6, 3, 9, 1, 7, 9, 1, 9, 5
+NER Tags: 4, 4, 1, 8, 3, 8, 6, 0, 6, 10, 8, 3, 1, 1
+
+ID: 184
+Tokens: The, Raj, era, was, marked, by, the, British, colonization, of, India,, which, lasted, nearly, 200, years.
+POS Tags: 10, 5, 1, 7, 8, 0, 9, 3, 9, 3, 0, 7, 10, 1, 8, 0
+Chunk Tags: 9, 8, 10, 8, 4, 4, 4, 7, 7, 8, 4, 2, 0, 6, 4, 0
+NER Tags: 7, 0, 8, 8, 0, 10, 10, 4, 4, 5, 3, 6, 8, 5, 8, 7
+
+ID: 185
+Tokens: The, Raja, of, Udaipur, was, known, for, his, efforts, to, preserve, the, art, and, culture, of, Rajasthan.
+POS Tags: 1, 7, 2, 2, 10, 10, 4, 7, 3, 2, 7, 0, 9, 10, 10, 5, 7
+Chunk Tags: 9, 1, 2, 2, 0, 7, 8, 2, 10, 9, 9, 6, 0, 2, 3, 1, 0
+NER Tags: 7, 6, 0, 10, 2, 6, 0, 1, 10, 3, 6, 9, 1, 2, 10, 9, 6
+
+ID: 186
+Tokens: Rajendra, Prasad, was, an, important, figure, in, the, Indian, independence, movement, and, later, became, president.
+POS Tags: 10, 5, 3, 5, 7, 1, 6, 3, 5, 6, 6, 8, 4, 5, 9
+Chunk Tags: 1, 7, 4, 10, 4, 7, 0, 8, 8, 5, 9, 10, 8, 6, 8
+NER Tags: 1, 0, 1, 5, 0, 1, 5, 4, 0, 5, 0, 7, 5, 0, 10
+
+ID: 187
+Tokens: Raju, is, a, hardworking, farmer, in, Andhra, Pradesh,, dedicated, to, his, land, and, family.
+POS Tags: 8, 0, 4, 10, 0, 3, 6, 3, 9, 10, 10, 3, 3, 8
+Chunk Tags: 10, 5, 7, 9, 7, 6, 7, 7, 1, 2, 10, 0, 4, 1
+NER Tags: 9, 5, 6, 2, 3, 0, 2, 8, 0, 2, 5, 10, 8, 7
+
+ID: 188
+Tokens: Rao, Bahadur, was, a, title, awarded, during, the, British, Raj, to, recognize, contributions, to, society.
+POS Tags: 3, 10, 4, 4, 7, 5, 10, 3, 7, 3, 7, 2, 5, 1, 1
+Chunk Tags: 5, 2, 4, 2, 4, 2, 1, 9, 8, 9, 5, 8, 6, 4, 3
+NER Tags: 1, 10, 7, 2, 9, 1, 8, 4, 3, 9, 6, 3, 7, 9, 8
+
+ID: 189
+Tokens: Ravi, Shankar, was, a, world-renowned, sitar, maestro, who, introduced, Indian, classical, music, to, the, West.
+POS Tags: 9, 0, 0, 5, 8, 9, 8, 7, 9, 6, 0, 9, 6, 9, 8
+Chunk Tags: 1, 8, 7, 0, 6, 7, 1, 9, 8, 8, 4, 2, 0, 2, 1
+NER Tags: 4, 6, 6, 6, 7, 0, 1, 2, 2, 3, 9, 6, 0, 2, 5
+
+ID: 190
+Tokens: Reddy, is, a, name, associated, with, many, prominent, leaders, and, politicians, from, South, India.
+POS Tags: 5, 5, 2, 2, 7, 10, 2, 10, 6, 4, 2, 7, 0, 6
+Chunk Tags: 3, 1, 6, 5, 9, 4, 4, 10, 2, 10, 10, 10, 1, 6
+NER Tags: 0, 0, 6, 10, 3, 0, 7, 6, 9, 3, 2, 10, 6, 0
+
+ID: 191
+Tokens: Rohan, was, excited, to, visit, Kolkata, for, the, Durga, Puja, celebrations.
+POS Tags: 4, 3, 4, 10, 8, 6, 3, 0, 10, 9, 9
+Chunk Tags: 0, 4, 3, 5, 6, 7, 0, 3, 5, 5, 9
+NER Tags: 10, 2, 5, 3, 6, 2, 2, 9, 8, 4, 7
+
+ID: 192
+Tokens: Sanjay, Leela, Bhansali, is, a, famous, Bollywood, director, known, for, his, grand, cinematic, style.
+POS Tags: 8, 0, 3, 2, 0, 5, 8, 9, 7, 3, 7, 6, 6, 4
+Chunk Tags: 7, 9, 5, 5, 7, 0, 5, 8, 5, 7, 9, 4, 2, 5
+NER Tags: 2, 9, 6, 7, 4, 3, 6, 4, 8, 10, 4, 5, 9, 7
+
+ID: 193
+Tokens: Satya, Nadella, is, the, CEO, of, Microsoft, and, hails, from, Hyderabad,, India.
+POS Tags: 5, 9, 3, 5, 0, 10, 1, 3, 10, 1, 10, 9
+Chunk Tags: 0, 4, 9, 2, 1, 10, 0, 2, 7, 8, 0, 5
+NER Tags: 6, 5, 10, 0, 1, 7, 2, 10, 3, 4, 10, 4
+
+ID: 194
+Tokens: Sree, Lakshmi, is, a, revered, goddess, in, Hinduism,, symbolizing, wealth, and, prosperity.
+POS Tags: 4, 2, 3, 9, 10, 3, 5, 2, 8, 10, 8, 10
+Chunk Tags: 9, 7, 0, 6, 0, 6, 5, 7, 9, 4, 0, 3
+NER Tags: 7, 0, 8, 0, 6, 1, 6, 5, 1, 10, 10, 8
+
+ID: 195
+Tokens: Srinivas, is, pursuing, his, PhD, in, computer, science, at, a, prestigious, university.
+POS Tags: 0, 2, 1, 7, 7, 0, 10, 8, 2, 0, 7, 9
+Chunk Tags: 4, 1, 4, 5, 2, 9, 5, 2, 3, 2, 9, 6
+NER Tags: 3, 10, 1, 8, 10, 0, 6, 10, 4, 9, 8, 3
+
+ID: 196
+Tokens: Sukhdev, was, a, revolutionary, freedom, fighter, who, gave, his, life, for, India's, independence.
+POS Tags: 8, 10, 3, 5, 3, 5, 5, 8, 10, 8, 1, 3, 7
+Chunk Tags: 3, 0, 6, 4, 0, 3, 7, 9, 7, 3, 3, 0, 6
+NER Tags: 0, 4, 8, 9, 8, 3, 2, 1, 3, 8, 3, 2, 9
+
+ID: 197
+Tokens: Sundar, works, at, a, multinational, tech, company, in, Bengaluru, as, a, senior, software, engineer.
+POS Tags: 2, 0, 3, 9, 1, 3, 1, 1, 7, 0, 3, 3, 5, 7
+Chunk Tags: 5, 2, 4, 4, 5, 7, 1, 9, 7, 5, 9, 1, 10, 9
+NER Tags: 0, 5, 1, 9, 6, 9, 7, 3, 9, 8, 9, 7, 6, 3
+
+ID: 198
+Tokens: Thiru, was, honored, for, his, contributions, to, Tamil, literature, at, the, awards, ceremony.
+POS Tags: 0, 0, 0, 6, 8, 6, 6, 5, 5, 8, 0, 7, 9
+Chunk Tags: 8, 0, 5, 8, 9, 2, 5, 6, 5, 3, 7, 5, 5
+NER Tags: 6, 8, 3, 3, 5, 1, 8, 7, 10, 7, 4, 8, 5
+
+ID: 199
+Tokens: Tiruvarur, temple, is, famous, for, its, annual, chariot, festival,, attracting, thousands, of, devotees.
+POS Tags: 6, 6, 1, 8, 0, 2, 7, 4, 6, 10, 6, 0, 0
+Chunk Tags: 10, 4, 6, 0, 5, 0, 2, 6, 7, 6, 3, 6, 6
+NER Tags: 8, 1, 5, 7, 3, 7, 6, 4, 1, 0, 10, 3, 1
+
+ID: 200
+Tokens: Venkatraman, was, a, notable, Indian, scientist, who, made, significant, contributions, to, space, research.
+POS Tags: 5, 5, 2, 1, 6, 6, 3, 8, 10, 7, 6, 3, 4
+Chunk Tags: 4, 4, 0, 1, 10, 4, 2, 9, 1, 9, 5, 3, 3
+NER Tags: 7, 4, 7, 5, 2, 0, 0, 10, 3, 1, 4, 8, 4
+
+ID: 201
+Tokens: Vijay, Deverakonda, is, a, rising, star, in, the, Telugu, film, industry,, known, for, his, intense, performances.
+POS Tags: 4, 4, 7, 9, 10, 6, 1, 6, 1, 9, 9, 1, 1, 1, 10, 1
+Chunk Tags: 8, 10, 1, 2, 1, 1, 7, 10, 10, 10, 3, 6, 4, 4, 1, 2
+NER Tags: 3, 1, 4, 3, 1, 8, 1, 5, 2, 1, 3, 1, 10, 8, 1, 8
+
+ID: 202
+Tokens: Vijaya, Lakshmi, Pandit, was, a, prominent, diplomat, and, the, sister, of, Jawaharlal, Nehru.
+POS Tags: 2, 0, 9, 3, 5, 1, 4, 7, 2, 2, 2, 4, 5
+Chunk Tags: 4, 4, 7, 9, 5, 1, 3, 5, 0, 10, 7, 5, 4
+NER Tags: 2, 4, 4, 4, 4, 5, 8, 8, 8, 9, 6, 7, 2
+
+ID: 203
+Tokens: Vikram, Sarabhai, is, considered, the, father, of, India's, space, program.
+POS Tags: 1, 9, 7, 1, 7, 2, 6, 3, 1, 8
+Chunk Tags: 10, 2, 1, 3, 3, 7, 7, 6, 2, 5
+NER Tags: 7, 9, 6, 5, 2, 9, 4, 10, 5, 3
+
+ID: 204
+Tokens: Yash, Chopra, was, a, legendary, filmmaker, in, Bollywood,, known, for, his, romantic, films.
+POS Tags: 3, 9, 5, 6, 1, 5, 4, 10, 8, 7, 5, 0, 4
+Chunk Tags: 6, 4, 2, 1, 10, 4, 3, 0, 9, 10, 9, 5, 8
+NER Tags: 0, 0, 4, 5, 0, 7, 2, 10, 5, 6, 1, 9, 7
+
+ID: 205
+Tokens: The, Bengali, language, has, a, rich, literary, history,, with, Nobel, laureate, Rabindranath, Tagore, as, one, of, its, greatest, poets.
+POS Tags: 0, 10, 4, 0, 10, 3, 1, 9, 0, 1, 6, 3, 1, 3, 1, 2, 5, 7, 9
+Chunk Tags: 10, 2, 8, 8, 7, 0, 8, 4, 7, 2, 10, 2, 1, 0, 4, 9, 8, 10, 3
+NER Tags: 3, 0, 1, 4, 1, 5, 2, 10, 1, 6, 6, 4, 3, 3, 2, 0, 5, 4, 1
+
+ID: 206
+Tokens: The, Hindi, film, industry,, or, Bollywood,, produces, more, movies, than, any, other, industry, in, the, world.
+POS Tags: 7, 1, 2, 8, 6, 1, 8, 8, 3, 8, 2, 9, 5, 3, 5, 10
+Chunk Tags: 6, 5, 6, 4, 9, 7, 8, 4, 1, 3, 8, 10, 6, 10, 7, 4
+NER Tags: 8, 1, 8, 4, 5, 8, 1, 10, 9, 1, 6, 6, 7, 1, 2, 9
+
+ID: 207
+Tokens: Bengali, cinema, has, produced, iconic, films,, such, as, 'Pather, Panchali',, that, have, won, international, acclaim.
+POS Tags: 10, 1, 10, 5, 8, 2, 1, 0, 10, 7, 3, 3, 8, 1, 8
+Chunk Tags: 7, 10, 1, 7, 7, 5, 4, 8, 2, 3, 4, 1, 2, 7, 3
+NER Tags: 7, 0, 1, 2, 7, 8, 4, 7, 9, 9, 0, 0, 10, 5, 8
+
+ID: 208
+Tokens: Bollywood, stars, are, known, for, their, widespread, influence, on, Indian, popular, culture.
+POS Tags: 2, 8, 4, 6, 8, 9, 5, 7, 7, 2, 3, 4
+Chunk Tags: 10, 9, 3, 10, 2, 3, 8, 0, 1, 8, 0, 5
+NER Tags: 6, 2, 2, 3, 2, 10, 9, 4, 7, 8, 4, 5
+
+ID: 209
+Tokens: Brahmin, priests, have, been, the, custodians, of, Vedic, knowledge, for, millennia, in, India.
+POS Tags: 2, 2, 2, 2, 5, 0, 5, 4, 7, 0, 9, 9, 3
+Chunk Tags: 1, 9, 6, 2, 0, 2, 6, 3, 9, 5, 8, 6, 10
+NER Tags: 3, 3, 10, 7, 5, 8, 10, 4, 3, 1, 3, 0, 4
+
+ID: 210
+Tokens: The, Chola, empire, left, a, lasting, legacy, with, its, monumental, temples, and, art, in, South, India.
+POS Tags: 6, 0, 10, 1, 3, 10, 8, 8, 0, 5, 5, 1, 5, 0, 1, 3
+Chunk Tags: 8, 6, 2, 2, 9, 5, 9, 10, 0, 5, 1, 5, 5, 9, 10, 9
+NER Tags: 3, 1, 7, 6, 1, 10, 8, 2, 1, 2, 2, 7, 5, 2, 4, 3
+
+ID: 211
+Tokens: Filmfare, Awards, are, the, most, prestigious, awards, in, the, Indian, film, industry,, honoring, cinematic, excellence.
+POS Tags: 8, 2, 2, 7, 6, 3, 4, 10, 3, 7, 1, 4, 8, 3, 6
+Chunk Tags: 9, 3, 10, 1, 8, 7, 9, 10, 3, 0, 10, 8, 10, 5, 3
+NER Tags: 2, 10, 6, 6, 2, 10, 8, 1, 4, 2, 8, 2, 10, 5, 8
+
+ID: 212
+Tokens: Hindi, is, one, of, the, official, languages, of, India,, spoken, by, millions, across, the, country.
+POS Tags: 7, 5, 7, 9, 9, 7, 6, 6, 0, 7, 8, 5, 6, 0, 3
+Chunk Tags: 3, 2, 2, 0, 3, 4, 8, 7, 1, 8, 6, 5, 8, 8, 8
+NER Tags: 6, 10, 10, 8, 0, 10, 2, 4, 8, 8, 5, 3, 1, 7, 5
+
+ID: 213
+Tokens: Hinduism, is, one, of, the, oldest, religions, in, the, world,, deeply, rooted, in, Indian, culture.
+POS Tags: 7, 6, 1, 9, 3, 10, 0, 2, 0, 8, 2, 7, 9, 7, 2
+Chunk Tags: 8, 2, 8, 0, 1, 9, 9, 9, 7, 5, 10, 2, 10, 8, 9
+NER Tags: 2, 9, 6, 2, 1, 7, 7, 1, 1, 8, 7, 8, 3, 1, 5
+
+ID: 214
+Tokens: India, gained, independence, in, 1947, after, years, of, struggle, against, colonial, rule.
+POS Tags: 0, 8, 3, 8, 8, 4, 1, 2, 4, 7, 2, 6
+Chunk Tags: 10, 6, 3, 10, 10, 2, 5, 1, 4, 1, 4, 8
+NER Tags: 0, 1, 4, 8, 9, 10, 5, 5, 9, 7, 2, 4
+
+ID: 215
+Tokens: In, 1922,, the, Non-Cooperation, Movement, led, by, Mahatma, Gandhi, shook, British, authority, in, India.
+POS Tags: 5, 7, 4, 3, 10, 10, 2, 3, 5, 9, 9, 4, 3, 8
+Chunk Tags: 1, 8, 1, 9, 3, 2, 4, 4, 2, 3, 10, 10, 10, 4
+NER Tags: 1, 10, 3, 2, 0, 3, 6, 8, 2, 8, 5, 9, 10, 3
+
+ID: 216
+Tokens: The, outbreak, of, World, War, II, in, 1939, had, a, significant, impact, on, India's, independence, movement.
+POS Tags: 6, 10, 0, 8, 10, 9, 0, 2, 9, 10, 7, 4, 6, 1, 5, 3
+Chunk Tags: 2, 3, 1, 10, 10, 1, 6, 10, 8, 7, 3, 3, 0, 2, 8, 5
+NER Tags: 6, 1, 2, 1, 1, 7, 7, 6, 7, 8, 2, 7, 6, 4, 6, 0
+
+ID: 217
+Tokens: Ahmedabad, is, known, for, its, textile, industry, and, played, a, crucial, role, in, India's, freedom, struggle.
+POS Tags: 9, 4, 2, 0, 3, 2, 5, 6, 1, 9, 4, 4, 2, 7, 5, 6
+Chunk Tags: 1, 7, 4, 8, 6, 1, 2, 1, 5, 10, 0, 6, 0, 4, 1, 8
+NER Tags: 0, 2, 2, 1, 10, 1, 5, 6, 10, 3, 9, 10, 8, 1, 4, 8
+
+ID: 218
+Tokens: Allahabad, is, historically, significant,, being, the, site, of, many, important, political, and, cultural, events, in, India.
+POS Tags: 0, 10, 9, 10, 0, 8, 6, 5, 6, 8, 7, 2, 2, 4, 1, 1
+Chunk Tags: 10, 8, 0, 8, 1, 9, 1, 8, 2, 0, 5, 1, 6, 2, 0, 1
+NER Tags: 9, 10, 1, 8, 10, 8, 10, 10, 5, 3, 0, 10, 7, 7, 7, 1
+
+ID: 219
+Tokens: Andhra, Pradesh, is, known, for, its, rich, cultural, heritage, and, diverse, languages.
+POS Tags: 2, 4, 10, 5, 2, 5, 0, 4, 4, 10, 9, 9
+Chunk Tags: 7, 4, 2, 8, 0, 1, 2, 5, 3, 2, 9, 5
+NER Tags: 8, 0, 5, 9, 9, 2, 9, 7, 1, 10, 6, 9
+
+ID: 220
+Tokens: Assam, is, famous, for, its, tea, plantations, and, the, Brahmaputra, River, that, flows, through, the, state.
+POS Tags: 5, 4, 6, 6, 6, 7, 3, 7, 9, 9, 5, 5, 4, 6, 9, 7
+Chunk Tags: 5, 2, 7, 1, 3, 5, 9, 8, 10, 8, 4, 0, 0, 3, 9, 8
+NER Tags: 1, 2, 6, 7, 7, 3, 8, 8, 0, 10, 5, 3, 10, 5, 1, 8
+
+ID: 221
+Tokens: Bangalore,, now, known, as, Bengaluru,, is, India's, leading, IT, hub, and, a, major, center, for, innovation.
+POS Tags: 9, 8, 2, 4, 2, 8, 2, 3, 10, 3, 4, 4, 0, 6, 0, 9
+Chunk Tags: 6, 0, 4, 8, 0, 7, 0, 7, 7, 8, 7, 1, 4, 2, 3, 8
+NER Tags: 6, 0, 4, 1, 4, 6, 8, 2, 2, 10, 7, 10, 0, 0, 4, 9
+
+ID: 222
+Tokens: Bangladesh,, formerly, East, Pakistan,, gained, independence, in, 1971, after, a, brutal, war.
+POS Tags: 6, 8, 0, 7, 6, 6, 2, 5, 4, 8, 0, 2
+Chunk Tags: 8, 3, 3, 0, 9, 8, 1, 8, 2, 6, 5, 2
+NER Tags: 10, 1, 8, 8, 9, 8, 4, 8, 8, 6, 1, 2
+
+ID: 223
+Tokens: Bengal, was, once, the, heart, of, India's, intellectual, and, cultural, renaissance, during, British, rule.
+POS Tags: 1, 6, 7, 10, 4, 6, 3, 8, 3, 2, 0, 10, 5, 8
+Chunk Tags: 1, 0, 5, 0, 9, 10, 8, 7, 4, 6, 0, 1, 6, 10
+NER Tags: 9, 0, 10, 3, 0, 4, 7, 0, 7, 3, 3, 2, 9, 1
+
+ID: 224
+Tokens: Bhopal,, the, capital, of, Madhya, Pradesh,, witnessed, a, tragic, gas, leak, disaster, in, 1984.
+POS Tags: 10, 2, 1, 4, 0, 4, 2, 8, 9, 9, 10, 1, 0, 5
+Chunk Tags: 8, 5, 7, 8, 6, 1, 7, 5, 9, 3, 2, 10, 1, 5
+NER Tags: 1, 2, 1, 3, 4, 8, 8, 10, 6, 0, 3, 8, 8, 2
+
+ID: 225
+Tokens: Bihar, is, one, of, the, oldest, inhabited, places, in, the, world,, known, for, its, rich, history, and, culture.
+POS Tags: 9, 9, 1, 6, 8, 10, 7, 0, 2, 3, 5, 0, 8, 1, 8, 7, 2, 10
+Chunk Tags: 0, 10, 3, 4, 6, 3, 2, 8, 9, 8, 2, 6, 8, 1, 6, 6, 9, 5
+NER Tags: 8, 0, 4, 4, 2, 5, 3, 9, 4, 3, 2, 1, 6, 7, 2, 3, 6, 9
+
+ID: 226
+Tokens: Bombay,, now, Mumbai,, has, grown, into, one, of, the, largest, and, most, dynamic, cities, in, the, world.
+POS Tags: 0, 7, 10, 9, 5, 9, 4, 2, 6, 3, 4, 0, 0, 9, 10, 6, 7
+Chunk Tags: 4, 9, 3, 9, 2, 7, 3, 7, 2, 7, 7, 3, 8, 9, 8, 2, 10
+NER Tags: 7, 2, 8, 9, 4, 1, 2, 10, 1, 8, 0, 4, 6, 3, 1, 10, 2
+
+ID: 227
+Tokens: Calcutta,, now, Kolkata,, was, the, capital, of, British, India, until, 1911, and, remains, a, cultural, capital.
+POS Tags: 3, 3, 2, 4, 1, 8, 3, 8, 5, 1, 3, 8, 4, 5, 6, 7
+Chunk Tags: 6, 6, 7, 0, 10, 7, 0, 8, 4, 2, 1, 9, 5, 2, 0, 3
+NER Tags: 0, 7, 8, 9, 7, 9, 5, 9, 6, 6, 10, 1, 2, 7, 6, 9
+
+ID: 228
+Tokens: Chennai, is, famous, for, its, temples,, classical, dance,, and, music, traditions.
+POS Tags: 7, 9, 6, 9, 4, 5, 1, 4, 2, 6, 8
+Chunk Tags: 5, 8, 10, 6, 10, 7, 7, 1, 7, 4, 6
+NER Tags: 3, 5, 9, 8, 5, 7, 8, 5, 5, 1, 0
+
+ID: 229
+Tokens: Cochin,, also, known, as, Kochi,, has, a, rich, maritime, history, and, was, once, a, major, spice, trade, center.
+POS Tags: 2, 1, 4, 2, 4, 2, 7, 10, 2, 10, 5, 8, 1, 5, 8, 8, 0, 5
+Chunk Tags: 1, 4, 3, 2, 6, 4, 0, 2, 0, 3, 9, 7, 9, 1, 10, 4, 9, 6
+NER Tags: 8, 3, 10, 9, 2, 2, 0, 1, 0, 7, 6, 2, 2, 2, 6, 10, 3, 8
+
+ID: 230
+Tokens: Delhi,, the, capital, of, India,, is, a, city, with, a, blend, of, ancient, history, and, modern, infrastructure.
+POS Tags: 6, 1, 3, 7, 0, 7, 10, 0, 0, 6, 5, 2, 5, 3, 8, 9, 0
+Chunk Tags: 5, 3, 1, 2, 1, 10, 9, 9, 1, 7, 0, 8, 6, 10, 4, 5, 7
+NER Tags: 10, 9, 8, 5, 9, 6, 2, 3, 10, 5, 0, 10, 0, 2, 1, 6, 4
+
+ID: 231
+Tokens: Dhaka,, the, capital, of, Bangladesh,, was, part, of, India, before, the, partition, in, 1947.
+POS Tags: 9, 2, 2, 4, 6, 0, 7, 2, 5, 8, 7, 7, 3, 10
+Chunk Tags: 6, 1, 1, 1, 9, 5, 5, 5, 6, 3, 9, 2, 8, 9
+NER Tags: 9, 2, 5, 1, 1, 8, 3, 6, 7, 5, 6, 1, 4, 0
+
+ID: 232
+Tokens: Goa, is, known, for, its, beautiful, beaches, and, vibrant, cultural, festivals.
+POS Tags: 5, 4, 9, 7, 10, 2, 9, 3, 2, 5, 8
+Chunk Tags: 7, 5, 1, 10, 6, 1, 5, 8, 3, 0, 1
+NER Tags: 3, 7, 8, 2, 9, 1, 7, 3, 1, 6, 10
+
+ID: 233
+Tokens: Gujarat, is, the, home, state, of, Mahatma, Gandhi, and, a, center, for, trade, and, industry.
+POS Tags: 8, 10, 4, 9, 2, 4, 3, 10, 8, 4, 5, 1, 3, 9, 7
+Chunk Tags: 10, 10, 5, 4, 1, 3, 5, 6, 9, 6, 2, 1, 9, 3, 9
+NER Tags: 2, 6, 8, 10, 2, 4, 4, 3, 1, 10, 8, 1, 6, 7, 0
+
+ID: 234
+Tokens: Haryana, is, known, for, its, contribution, to, India's, agriculture, and, its, historical, significance.
+POS Tags: 7, 3, 2, 5, 2, 1, 4, 8, 10, 8, 3, 2, 5
+Chunk Tags: 0, 9, 8, 5, 1, 2, 5, 3, 8, 4, 7, 0, 10
+NER Tags: 7, 9, 9, 6, 0, 5, 6, 5, 0, 7, 1, 7, 0
+
+ID: 235
+Tokens: Himachal, Pradesh, is, famous, for, its, scenic, landscapes, and, hill, stations, like, Shimla, and, Manali.
+POS Tags: 4, 2, 1, 1, 2, 1, 3, 2, 4, 5, 0, 8, 0, 7, 1
+Chunk Tags: 6, 8, 4, 10, 2, 9, 1, 9, 0, 0, 1, 10, 1, 3, 0
+NER Tags: 10, 9, 10, 6, 1, 1, 10, 5, 9, 3, 2, 5, 7, 8, 3
+
+ID: 236
+Tokens: Hindustan, is, a, historical, term, that, has, been, used, to, refer, to, the, Indian, subcontinent.
+POS Tags: 3, 5, 8, 0, 8, 3, 9, 6, 10, 0, 1, 1, 1, 10, 4
+Chunk Tags: 9, 1, 10, 6, 9, 4, 9, 3, 7, 2, 9, 9, 1, 8, 2
+NER Tags: 8, 6, 5, 6, 10, 2, 3, 8, 10, 9, 9, 8, 8, 6, 3
+
+ID: 237
+Tokens: Hyderabad,, the, city, of, pearls,, is, known, for, its, rich, history, and, technological, growth.
+POS Tags: 7, 1, 6, 1, 5, 4, 0, 3, 5, 3, 4, 6, 8, 6
+Chunk Tags: 9, 7, 0, 8, 4, 7, 9, 9, 10, 7, 7, 10, 10, 7
+NER Tags: 4, 5, 10, 9, 5, 3, 2, 6, 2, 1, 4, 10, 6, 5
+
+ID: 238
+Tokens: India's, diversity, is, one, of, its, greatest, strengths,, with, various, languages,, cultures,, and, religions.
+POS Tags: 2, 9, 8, 10, 8, 7, 6, 8, 6, 5, 1, 3, 5, 0
+Chunk Tags: 8, 1, 10, 6, 10, 10, 5, 1, 4, 7, 1, 1, 10, 10
+NER Tags: 9, 8, 10, 3, 0, 4, 0, 1, 8, 8, 5, 5, 8, 4
+
+ID: 239
+Tokens: The, Indian, Ocean, has, been, a, vital, route, for, trade, and, cultural, exchange, for, centuries.
+POS Tags: 0, 8, 4, 5, 2, 5, 10, 4, 1, 0, 3, 0, 0, 7, 9
+Chunk Tags: 7, 4, 9, 4, 4, 9, 3, 6, 0, 3, 0, 0, 7, 0, 2
+NER Tags: 7, 5, 6, 7, 9, 9, 7, 10, 7, 10, 3, 2, 2, 0, 8
+
+ID: 240
+Tokens: The, Indo-Pak, conflict, has, shaped, much, of, the, geopolitical, dynamics, in, South, Asia.
+POS Tags: 3, 1, 2, 1, 2, 4, 0, 0, 2, 7, 10, 4, 1
+Chunk Tags: 8, 10, 1, 5, 3, 9, 8, 2, 2, 7, 9, 9, 1
+NER Tags: 2, 8, 8, 2, 1, 1, 8, 9, 10, 6, 6, 1, 5
+
+ID: 241
+Tokens: Jaipur,, known, as, the, Pink, City,, is, famous, for, its, forts,, palaces,, and, rich, cultural, heritage.
+POS Tags: 7, 5, 8, 6, 0, 3, 8, 0, 10, 4, 9, 9, 4, 5, 5, 0
+Chunk Tags: 4, 0, 5, 10, 8, 3, 4, 6, 10, 3, 5, 5, 9, 6, 10, 9
+NER Tags: 8, 3, 8, 2, 3, 6, 8, 10, 10, 0, 8, 0, 10, 6, 7, 9
+
+ID: 242
+Tokens: Jammu, is, the, winter, capital, of, Jammu, and, Kashmir,, known, for, its, temples, and, scenic, beauty.
+POS Tags: 9, 9, 1, 1, 5, 1, 8, 7, 9, 1, 6, 5, 2, 0, 0, 3
+Chunk Tags: 1, 3, 6, 2, 3, 9, 7, 1, 2, 0, 10, 7, 1, 9, 10, 9
+NER Tags: 6, 1, 1, 4, 4, 8, 0, 6, 7, 4, 2, 5, 6, 2, 2, 2
+
+ID: 243
+Tokens: Jharkhand, is, rich, in, minerals, and, forests,, contributing, significantly, to, India's, economy.
+POS Tags: 1, 6, 7, 8, 3, 0, 0, 8, 3, 5, 0, 10
+Chunk Tags: 3, 9, 1, 10, 1, 1, 1, 1, 9, 8, 8, 7
+NER Tags: 1, 9, 2, 3, 2, 7, 5, 5, 5, 9, 5, 10
+
+ID: 244
+Tokens: Karnataka, is, famous, for, its, technological, hub, in, Bengaluru, and, its, rich, cultural, history.
+POS Tags: 7, 6, 7, 5, 9, 10, 0, 10, 10, 10, 9, 5, 6, 5
+Chunk Tags: 6, 2, 9, 8, 3, 5, 0, 2, 5, 10, 6, 3, 6, 3
+NER Tags: 0, 4, 6, 2, 10, 3, 9, 2, 3, 3, 10, 5, 7, 10
+
+ID: 245
+Tokens: Kerala, is, known, for, its, backwaters,, beaches,, and, unique, traditions, like, Kathakali.
+POS Tags: 7, 4, 2, 10, 0, 7, 5, 8, 5, 5, 5, 2
+Chunk Tags: 6, 3, 6, 1, 6, 2, 8, 4, 9, 3, 8, 1
+NER Tags: 5, 10, 2, 0, 5, 6, 7, 2, 0, 5, 5, 5
+
+ID: 246
+Tokens: Kolkata,, formerly, Calcutta,, is, a, city, known, for, its, colonial, architecture, and, intellectual, legacy.
+POS Tags: 2, 10, 8, 8, 9, 8, 8, 4, 4, 6, 0, 5, 8, 10
+Chunk Tags: 3, 8, 4, 3, 10, 7, 7, 7, 5, 10, 8, 10, 3, 2
+NER Tags: 5, 6, 0, 6, 10, 6, 10, 8, 0, 7, 3, 6, 5, 2
+
+ID: 247
+Tokens: Lucknow, is, famous, for, its, Nawabi, culture,, food,, and, monuments, such, as, the, Bara, Imambara.
+POS Tags: 3, 1, 0, 9, 3, 7, 1, 10, 5, 4, 5, 3, 8, 6, 9
+Chunk Tags: 1, 9, 2, 3, 0, 7, 10, 5, 9, 10, 0, 5, 0, 5, 6
+NER Tags: 0, 3, 9, 3, 1, 7, 2, 3, 5, 2, 2, 1, 9, 2, 3
+
+ID: 248
+Tokens: Madhya, Pradesh, is, known, as, the, 'Heart, of, India', due, to, its, central, location, and, historical, significance.
+POS Tags: 7, 6, 7, 2, 8, 6, 6, 1, 2, 6, 5, 4, 3, 7, 8, 4, 4
+Chunk Tags: 9, 9, 9, 2, 0, 4, 0, 2, 2, 7, 10, 6, 5, 6, 8, 8, 5
+NER Tags: 6, 9, 7, 3, 4, 0, 8, 2, 10, 9, 7, 2, 8, 3, 2, 1, 3
+
+ID: 249
+Tokens: Madras,, now, known, as, Chennai,, is, a, major, cultural, and, economic, center, in, South, India.
+POS Tags: 9, 2, 5, 10, 6, 2, 2, 8, 9, 6, 0, 8, 1, 6, 2
+Chunk Tags: 4, 4, 7, 8, 10, 6, 1, 0, 3, 3, 4, 0, 10, 8, 4
+NER Tags: 10, 2, 8, 1, 8, 3, 6, 4, 3, 4, 7, 10, 5, 5, 8
+
+ID: 250
+Tokens: Madurai, is, one, of, the, oldest, cities, in, India,, known, for, the, Meenakshi, Temple.
+POS Tags: 4, 8, 10, 9, 2, 2, 2, 1, 0, 9, 10, 4, 3, 0
+Chunk Tags: 5, 6, 3, 6, 8, 4, 2, 8, 4, 8, 7, 3, 6, 4
+NER Tags: 7, 3, 7, 8, 10, 2, 8, 8, 10, 3, 1, 9, 3, 0
+
+ID: 251
+Tokens: Maharashtra, is, one, of, the, most, populous, states, in, India,, with, Mumbai, as, its, capital.
+POS Tags: 10, 4, 2, 8, 6, 10, 1, 10, 1, 10, 7, 3, 4, 6, 7
+Chunk Tags: 5, 10, 2, 0, 5, 0, 6, 6, 1, 3, 4, 4, 2, 2, 1
+NER Tags: 5, 1, 1, 8, 9, 5, 8, 10, 2, 2, 4, 10, 4, 0, 1
+
+ID: 252
+Tokens: The, Malabar, Coast, in, Kerala, has, been, a, hub, for, spice, trade, for, centuries.
+POS Tags: 2, 7, 0, 0, 2, 4, 1, 4, 5, 3, 1, 0, 9, 3
+Chunk Tags: 5, 6, 7, 0, 2, 9, 6, 4, 7, 10, 4, 4, 4, 9
+NER Tags: 8, 1, 3, 1, 5, 9, 1, 8, 0, 5, 8, 1, 8, 1
+
+ID: 253
+Tokens: Manipur, is, known, for, its, vibrant, culture, and, the, traditional, dance, form, of, Manipuri.
+POS Tags: 10, 6, 3, 2, 10, 3, 8, 1, 4, 7, 1, 7, 6, 4
+Chunk Tags: 4, 3, 10, 7, 0, 1, 9, 3, 6, 6, 3, 6, 9, 1
+NER Tags: 8, 2, 5, 7, 6, 6, 6, 2, 6, 2, 10, 3, 4, 3
+
+ID: 254
+Tokens: Mumbai, is, the, financial, capital, of, India, and, home, to, Bollywood,, the, largest, film, industry, in, the, world.
+POS Tags: 9, 6, 9, 10, 2, 9, 6, 1, 3, 2, 0, 10, 1, 10, 9, 10, 10, 8
+Chunk Tags: 0, 1, 9, 5, 3, 3, 7, 3, 5, 4, 6, 4, 8, 7, 10, 2, 4, 2
+NER Tags: 5, 10, 5, 1, 6, 10, 0, 3, 8, 2, 7, 7, 6, 2, 5, 6, 8, 1
+
+ID: 255
+Tokens: Mysore, is, famous, for, its, palaces,, silk,, and, the, grand, Dussehra, festival.
+POS Tags: 7, 9, 6, 8, 7, 1, 0, 5, 6, 10, 0, 8
+Chunk Tags: 10, 5, 10, 7, 8, 9, 10, 10, 7, 5, 6, 1
+NER Tags: 2, 4, 8, 2, 0, 10, 0, 0, 2, 6, 2, 0
+
+ID: 256
+Tokens: Tamil, Nadu, is, renowned, for, its, Dravidian-style, temples, and, classical, arts.
+POS Tags: 1, 1, 0, 2, 10, 10, 3, 7, 6, 8, 2
+Chunk Tags: 9, 6, 5, 3, 6, 2, 8, 2, 1, 10, 3
+NER Tags: 10, 4, 10, 6, 3, 6, 7, 7, 7, 4, 3
+
+ID: 257
+Tokens: Nagpur,, known, for, its, oranges,, is, also, a, major, political, and, commercial, center, in, Maharashtra.
+POS Tags: 10, 5, 3, 1, 2, 8, 4, 4, 3, 7, 6, 10, 10, 10, 5
+Chunk Tags: 2, 0, 9, 2, 0, 3, 6, 9, 8, 10, 10, 0, 7, 4, 4
+NER Tags: 0, 7, 3, 3, 0, 1, 6, 3, 6, 10, 6, 4, 4, 7, 1
+
+ID: 258
+Tokens: Odisha, is, famous, for, its, ancient, temples,, especially, the, Sun, Temple, in, Konark.
+POS Tags: 5, 1, 0, 5, 10, 2, 9, 6, 0, 7, 8, 3, 8
+Chunk Tags: 10, 0, 4, 9, 3, 6, 10, 0, 7, 6, 9, 4, 5
+NER Tags: 5, 9, 5, 5, 7, 1, 5, 9, 6, 4, 1, 7, 6
+
+ID: 259
+Tokens: Uttar, Pradesh, and, Andhra, Pradesh, are, two, of, the, largest, states, in, India, by, population.
+POS Tags: 5, 5, 3, 1, 10, 9, 5, 7, 10, 4, 0, 10, 0, 3, 8
+Chunk Tags: 3, 6, 0, 6, 8, 5, 3, 10, 1, 10, 9, 8, 9, 10, 6
+NER Tags: 0, 4, 5, 2, 9, 7, 6, 7, 9, 0, 9, 4, 7, 2, 7
+
+ID: 260
+Tokens: Pune, is, known, for, its, educational, institutions, and, historical, significance, in, the, Maratha, Empire.
+POS Tags: 3, 5, 10, 2, 4, 5, 10, 0, 9, 8, 10, 9, 5, 0
+Chunk Tags: 9, 3, 3, 3, 6, 8, 0, 10, 4, 0, 3, 4, 10, 6
+NER Tags: 0, 1, 10, 5, 9, 8, 8, 8, 2, 7, 9, 0, 2, 4
+
+ID: 261
+Tokens: Rajasthan, is, known, for, its, desert, landscapes,, forts,, and, palaces,, especially, in, Jaipur, and, Jodhpur.
+POS Tags: 9, 7, 5, 0, 0, 6, 2, 7, 9, 1, 6, 6, 5, 3, 0
+Chunk Tags: 8, 7, 6, 1, 3, 6, 1, 4, 7, 4, 10, 10, 7, 4, 10
+NER Tags: 6, 9, 9, 3, 6, 0, 8, 2, 7, 4, 0, 6, 0, 6, 10
+
+ID: 262
+Tokens: Sikkim,, nestled, in, the, Himalayas,, is, known, for, its, biodiversity, and, Buddhist, monasteries.
+POS Tags: 3, 9, 2, 7, 1, 1, 4, 1, 5, 6, 10, 0, 4
+Chunk Tags: 9, 4, 0, 4, 5, 8, 8, 0, 2, 5, 2, 2, 9
+NER Tags: 6, 7, 3, 6, 4, 9, 6, 8, 8, 1, 2, 7, 0
+
+ID: 263
+Tokens: Telangana,, formed, in, 2014,, has, Hyderabad, as, its, capital, and, is, known, for, its, IT, industry.
+POS Tags: 3, 8, 7, 1, 7, 8, 6, 3, 3, 3, 1, 6, 5, 7, 0, 3
+Chunk Tags: 9, 6, 8, 7, 0, 6, 5, 0, 2, 8, 1, 10, 8, 3, 3, 6
+NER Tags: 6, 10, 9, 0, 10, 0, 2, 8, 2, 1, 7, 6, 7, 0, 7, 9
+
+ID: 264
+Tokens: Travancore, was, a, princely, state, in, Kerala,, known, for, its, progressive, reforms, and, rich, culture.
+POS Tags: 0, 4, 10, 0, 10, 7, 10, 6, 7, 7, 1, 0, 6, 2, 8
+Chunk Tags: 4, 3, 6, 9, 8, 3, 3, 10, 9, 8, 8, 4, 1, 4, 9
+NER Tags: 6, 3, 1, 6, 4, 9, 6, 4, 10, 9, 0, 1, 6, 6, 2
+
+ID: 265
+Tokens: Uttar, Pradesh, is, India's, most, populous, state,, with, a, rich, history, and, religious, significance.
+POS Tags: 0, 0, 5, 1, 6, 5, 5, 9, 4, 2, 10, 7, 6, 2
+Chunk Tags: 1, 3, 8, 0, 6, 10, 5, 10, 4, 3, 5, 3, 6, 10
+NER Tags: 6, 2, 4, 10, 8, 5, 6, 5, 2, 5, 9, 10, 6, 0
+
+ID: 266
+Tokens: Arjun,, the, legendary, warrior, from, the, Mahabharata,, is, an, enduring, symbol, of, duty, and, righteousness.
+POS Tags: 2, 1, 5, 3, 3, 6, 9, 4, 0, 1, 3, 1, 3, 2, 3
+Chunk Tags: 8, 2, 2, 2, 8, 5, 7, 8, 6, 9, 3, 5, 9, 4, 9
+NER Tags: 0, 4, 0, 3, 8, 10, 8, 8, 8, 9, 1, 10, 2, 8, 7
+
+ID: 267
+Tokens: Arvi, is, a, small, town, in, Maharashtra,, known, for, its, cotton, production.
+POS Tags: 2, 9, 1, 2, 8, 0, 4, 9, 8, 6, 3, 7
+Chunk Tags: 8, 2, 9, 8, 3, 10, 10, 1, 4, 0, 9, 5
+NER Tags: 3, 2, 9, 2, 0, 8, 0, 8, 5, 4, 0, 2
+
+ID: 268
+Tokens: Bhar, was, a, historical, region, in, India,, playing, a, significant, role, in, ancient, trade, routes.
+POS Tags: 6, 8, 5, 6, 8, 8, 2, 5, 2, 6, 6, 3, 5, 0, 6
+Chunk Tags: 9, 0, 5, 1, 2, 6, 3, 9, 0, 7, 1, 1, 4, 7, 8
+NER Tags: 8, 7, 7, 10, 7, 10, 8, 3, 0, 3, 2, 1, 1, 2, 10
+
+ID: 269
+Tokens: Bharat, is, the, traditional, name, for, India, in, many, of, its, native, languages.
+POS Tags: 1, 7, 5, 6, 5, 5, 3, 7, 4, 5, 1, 8, 0
+Chunk Tags: 4, 4, 5, 2, 7, 5, 8, 0, 9, 0, 6, 0, 8
+NER Tags: 8, 0, 10, 8, 9, 8, 10, 10, 8, 2, 10, 4, 1
+
+ID: 270
+Tokens: India's, independence, movement,, led, by, figures, like, Gandhi, and, Nehru,, reshaped, the, nation.
+POS Tags: 2, 7, 9, 9, 4, 3, 4, 2, 4, 2, 9, 7, 7
+Chunk Tags: 0, 5, 1, 1, 9, 7, 5, 10, 3, 6, 6, 8, 10
+NER Tags: 10, 1, 2, 10, 0, 3, 2, 9, 2, 2, 10, 6, 3
+
+ID: 271
+Tokens: In, 1922,, Gandhi, launched, the, Non-Cooperation, Movement,, urging, Indians, to, boycott, British, goods.
+POS Tags: 7, 4, 8, 0, 5, 5, 8, 9, 9, 10, 0, 3, 5
+Chunk Tags: 8, 10, 6, 4, 3, 1, 0, 0, 9, 7, 3, 3, 5
+NER Tags: 1, 8, 9, 9, 5, 7, 0, 4, 6, 8, 8, 10, 0
+
+ID: 272
+Tokens: The, year, 1939, saw, the, start, of, World, War, II,, which, had, repercussions, on, India's, freedom, struggle.
+POS Tags: 9, 5, 5, 10, 1, 1, 3, 0, 1, 0, 1, 1, 0, 6, 6, 4, 1
+Chunk Tags: 5, 6, 6, 0, 9, 8, 3, 0, 4, 10, 4, 7, 8, 8, 1, 6, 8
+NER Tags: 1, 7, 4, 1, 10, 10, 9, 1, 8, 5, 4, 7, 10, 5, 2, 2, 6
+
+ID: 273
+Tokens: Ahmedabad, is, known, for, its, historical, significance, in, the, Indian, independence, movement.
+POS Tags: 7, 0, 3, 1, 3, 9, 8, 2, 3, 4, 10, 8
+Chunk Tags: 2, 5, 3, 8, 8, 1, 9, 6, 4, 4, 1, 3
+NER Tags: 4, 6, 9, 0, 4, 2, 4, 1, 3, 9, 0, 9
+
+ID: 274
+Tokens: Allahabad,, now, Prayagraj,, is, a, major, religious, hub,, especially, during, the, Kumbh, Mela.
+POS Tags: 5, 2, 4, 5, 3, 9, 4, 9, 7, 0, 8, 2, 4
+Chunk Tags: 1, 2, 6, 8, 9, 3, 0, 2, 3, 10, 5, 5, 5
+NER Tags: 6, 8, 5, 3, 8, 9, 10, 4, 2, 7, 4, 2, 4
+
+ID: 275
+Tokens: Andhra, Pradesh, is, known, for, its, diverse, landscape,, ranging, from, coastal, areas, to, mountains.
+POS Tags: 3, 4, 0, 7, 3, 7, 9, 5, 8, 1, 0, 10, 5, 10
+Chunk Tags: 1, 7, 2, 3, 1, 7, 7, 1, 9, 2, 6, 9, 8, 3
+NER Tags: 3, 4, 6, 5, 10, 9, 1, 5, 7, 6, 4, 7, 10, 4
+
+ID: 276
+Tokens: Assam's, tea, plantations, are, world-famous,, and, the, state, plays, a, key, role, in, India's, tea, industry.
+POS Tags: 2, 8, 10, 9, 6, 3, 6, 5, 9, 10, 5, 5, 8, 5, 5, 10
+Chunk Tags: 4, 2, 4, 3, 5, 0, 6, 9, 8, 8, 5, 8, 5, 7, 5, 0
+NER Tags: 9, 7, 8, 8, 5, 7, 10, 3, 5, 3, 6, 3, 9, 3, 8, 1
+
+ID: 277
+Tokens: Bangalore, is, often, referred, to, as, the, 'Silicon, Valley, of, India', due, to, its, booming, tech, industry.
+POS Tags: 7, 3, 1, 0, 6, 4, 5, 5, 4, 6, 10, 8, 1, 8, 1, 2, 10
+Chunk Tags: 0, 4, 2, 1, 4, 6, 6, 10, 9, 7, 9, 2, 4, 7, 5, 7, 9
+NER Tags: 3, 10, 3, 8, 1, 9, 2, 6, 4, 0, 6, 1, 1, 5, 3, 8, 9
+
+ID: 278
+Tokens: Bangladesh, was, part, of, British, India, until, 1947,, when, it, became, part, of, Pakistan, before, gaining, independence.
+POS Tags: 6, 5, 7, 3, 1, 7, 9, 10, 3, 5, 8, 9, 8, 3, 8, 2, 0
+Chunk Tags: 1, 3, 2, 2, 2, 9, 2, 7, 7, 5, 4, 0, 6, 9, 10, 5, 6
+NER Tags: 1, 2, 3, 0, 8, 0, 9, 1, 3, 2, 5, 2, 9, 1, 10, 5, 1
+
+ID: 279
+Tokens: Bengal, has, a, rich, literary, and, cultural, heritage,, with, figures, like, Rabindranath, Tagore, hailing, from, the, region.
+POS Tags: 3, 10, 5, 6, 5, 4, 4, 2, 3, 0, 7, 3, 6, 3, 3, 6, 0
+Chunk Tags: 9, 3, 6, 6, 1, 5, 8, 1, 6, 1, 3, 3, 9, 1, 10, 5, 4
+NER Tags: 1, 5, 7, 2, 1, 3, 5, 9, 10, 1, 10, 7, 0, 7, 1, 6, 8
+
+ID: 280
+Tokens: Bhopal's, historical, legacy, includes, both, Mughal, and, British, influences, in, architecture, and, culture.
+POS Tags: 2, 0, 7, 7, 9, 7, 1, 3, 2, 2, 1, 2, 7
+Chunk Tags: 9, 0, 4, 1, 10, 3, 2, 6, 8, 3, 10, 1, 5
+NER Tags: 5, 7, 6, 2, 8, 10, 2, 1, 0, 3, 6, 0, 6
+
+ID: 281
+Tokens: Bihar, has, played, a, significant, role, in, Indian, history,, being, the, birthplace, of, Buddhism, and, Jainism.
+POS Tags: 4, 9, 7, 8, 0, 3, 3, 2, 9, 0, 10, 2, 8, 4, 0, 1
+Chunk Tags: 4, 3, 4, 0, 8, 7, 2, 4, 2, 7, 3, 4, 10, 9, 1, 0
+NER Tags: 4, 0, 1, 7, 10, 7, 3, 0, 2, 3, 10, 1, 9, 6, 4, 5
+
+ID: 282
+Tokens: Bombay,, now, Mumbai,, was, the, commercial, capital, of, British, India, and, remains, so, today.
+POS Tags: 0, 2, 7, 9, 1, 3, 1, 4, 2, 7, 9, 0, 8, 8
+Chunk Tags: 2, 7, 8, 10, 2, 4, 4, 7, 10, 2, 9, 3, 6, 0
+NER Tags: 5, 1, 9, 3, 1, 6, 8, 7, 3, 6, 5, 3, 2, 6
+
+ID: 283
+Tokens: Calcutta,, as, the, capital, of, British, India,, was, a, center, of, political, and, cultural, change, in, the, 19th, century.
+POS Tags: 3, 4, 9, 9, 7, 10, 3, 8, 9, 7, 4, 7, 10, 8, 9, 3, 3, 4, 1
+Chunk Tags: 4, 10, 1, 7, 8, 8, 4, 2, 5, 3, 6, 2, 7, 7, 1, 0, 9, 9, 7
+NER Tags: 4, 4, 6, 7, 5, 6, 4, 1, 6, 2, 4, 4, 9, 10, 1, 7, 9, 10, 8
+
+ID: 284
+Tokens: Chennai, is, one, of, the, major, cultural, capitals, of, South, India,, with, a, rich, tradition, in, music, and, dance.
+POS Tags: 7, 3, 3, 9, 4, 0, 7, 5, 6, 7, 8, 4, 3, 8, 5, 5, 5, 9, 7
+Chunk Tags: 0, 6, 8, 6, 8, 1, 9, 8, 0, 2, 0, 0, 3, 10, 5, 5, 9, 8, 4
+NER Tags: 7, 10, 8, 5, 7, 6, 2, 4, 3, 6, 10, 7, 0, 10, 3, 1, 2, 9, 0
+
+ID: 285
+Tokens: Cochin,, known, for, its, trade, history,, was, a, key, point, in, India's, spice, trade, routes.
+POS Tags: 4, 3, 6, 3, 4, 4, 0, 9, 6, 5, 4, 5, 7, 2, 7
+Chunk Tags: 1, 0, 5, 2, 3, 0, 8, 3, 3, 3, 3, 5, 5, 7, 9
+NER Tags: 6, 7, 10, 9, 10, 3, 5, 10, 6, 10, 10, 2, 9, 5, 3
+
+ID: 286
+Tokens: Delhi,, with, its, mix, of, ancient, monuments, and, modern, architecture,, represents, the, heart, of, India.
+POS Tags: 2, 7, 0, 6, 5, 5, 6, 3, 4, 6, 4, 2, 1, 6, 3
+Chunk Tags: 1, 5, 1, 8, 2, 10, 1, 4, 7, 4, 0, 8, 1, 4, 6
+NER Tags: 2, 5, 6, 1, 8, 2, 4, 4, 4, 6, 3, 8, 2, 10, 2
+
+ID: 287
+Tokens: Dhaka,, once, part, of, India,, became, the, capital, of, Bangladesh, after, the, 1971, war, of, independence.
+POS Tags: 6, 0, 9, 7, 6, 4, 6, 9, 2, 1, 1, 10, 5, 9, 2, 5
+Chunk Tags: 6, 4, 0, 4, 7, 0, 7, 2, 6, 2, 5, 4, 10, 9, 5, 5
+NER Tags: 7, 4, 9, 9, 8, 6, 6, 3, 9, 4, 8, 1, 1, 1, 7, 4
+
+ID: 288
+Tokens: Goa's, unique, culture, is, a, blend, of, Portuguese, influence, and, Indian, traditions.
+POS Tags: 1, 5, 10, 1, 0, 2, 8, 5, 8, 5, 1, 2
+Chunk Tags: 10, 9, 5, 9, 3, 8, 8, 8, 0, 3, 6, 6
+NER Tags: 4, 7, 1, 2, 6, 4, 6, 6, 6, 10, 6, 2
+
+ID: 289
+Tokens: Gujarat, is, known, for, its, business-friendly, environment, and, as, the, birthplace, of, Mahatma, Gandhi.
+POS Tags: 9, 2, 7, 10, 10, 9, 5, 6, 4, 8, 1, 0, 2, 0
+Chunk Tags: 5, 5, 0, 10, 5, 1, 4, 0, 3, 8, 9, 4, 6, 3
+NER Tags: 1, 4, 10, 7, 8, 3, 5, 8, 1, 9, 4, 2, 2, 5
+
+ID: 290
+Tokens: Haryana, is, one, of, India's, leading, states, in, agriculture,, especially, in, wheat, and, rice, production.
+POS Tags: 3, 0, 3, 0, 9, 7, 2, 4, 10, 2, 6, 0, 8, 0, 10
+Chunk Tags: 6, 7, 1, 10, 2, 4, 7, 2, 4, 10, 4, 8, 8, 2, 5
+NER Tags: 0, 5, 0, 2, 7, 7, 0, 3, 2, 8, 6, 2, 1, 9, 2
+
+ID: 291
+Tokens: Himachal, Pradesh's, scenic, beauty, attracts, tourists, from, all, over, the, world, to, its, hill, stations.
+POS Tags: 10, 1, 6, 7, 7, 3, 4, 6, 2, 1, 5, 0, 8, 3, 10
+Chunk Tags: 8, 2, 8, 5, 9, 8, 1, 5, 6, 7, 0, 6, 7, 5, 6
+NER Tags: 9, 9, 8, 7, 3, 5, 2, 2, 9, 8, 0, 1, 2, 10, 5
+
+ID: 292
+Tokens: Hindustan, is, a, term, used, historically, to, refer, to, the, northern, parts, of, India,, especially, during, the, Mughal, era.
+POS Tags: 6, 8, 4, 0, 2, 1, 2, 4, 9, 7, 10, 2, 7, 0, 7, 1, 7, 10, 1
+Chunk Tags: 1, 1, 0, 6, 0, 7, 6, 1, 5, 4, 8, 2, 10, 2, 5, 2, 9, 2, 0
+NER Tags: 2, 6, 5, 2, 6, 3, 0, 8, 0, 6, 8, 6, 8, 7, 9, 0, 7, 7, 1
+
+ID: 293
+Tokens: Hyderabad, is, famous, for, its, rich, history,, biryani,, and, as, a, growing, IT, hub.
+POS Tags: 7, 6, 0, 10, 6, 0, 5, 8, 3, 2, 8, 8, 1, 7
+Chunk Tags: 2, 5, 6, 2, 6, 9, 9, 8, 5, 2, 7, 4, 4, 8
+NER Tags: 1, 5, 3, 2, 2, 2, 2, 8, 8, 1, 4, 3, 4, 1
+
+ID: 294
+Tokens: India's, cultural, diversity, is, reflected, in, its, numerous, festivals,, languages,, and, traditions.
+POS Tags: 2, 2, 2, 1, 9, 5, 0, 0, 6, 2, 1, 4
+Chunk Tags: 5, 5, 8, 1, 8, 7, 0, 2, 2, 8, 6, 8
+NER Tags: 1, 10, 2, 2, 9, 10, 8, 6, 8, 3, 3, 7
+
+ID: 295
+Tokens: The, Indian, subcontinent, has, been, a, cradle, of, ancient, civilizations, like, the, Indus, Valley.
+POS Tags: 4, 6, 10, 3, 3, 10, 0, 8, 1, 3, 1, 5, 1, 9
+Chunk Tags: 7, 5, 10, 9, 9, 2, 7, 3, 5, 10, 9, 4, 4, 5
+NER Tags: 10, 8, 8, 3, 6, 1, 2, 5, 7, 3, 5, 4, 8, 3
+
+ID: 296
+Tokens: The, Indo-Pak, border, has, been, a, site, of, both, conflict, and, cooperation, over, the, years.
+POS Tags: 3, 7, 10, 7, 3, 10, 0, 4, 7, 8, 8, 0, 0, 3, 4
+Chunk Tags: 5, 6, 10, 7, 7, 8, 6, 10, 1, 5, 4, 6, 1, 2, 0
+NER Tags: 7, 8, 10, 7, 0, 0, 6, 8, 9, 6, 4, 8, 2, 1, 3
+
+ID: 297
+Tokens: Jaipur,, with, its, pink-hued, buildings,, is, a, UNESCO, World, Heritage, site.
+POS Tags: 10, 4, 3, 4, 4, 8, 9, 5, 3, 4, 5
+Chunk Tags: 10, 5, 0, 7, 8, 10, 5, 3, 4, 9, 7
+NER Tags: 9, 5, 0, 6, 9, 1, 8, 9, 4, 2, 0
+
+ID: 298
+Tokens: Jammu, is, a, gateway, to, the, scenic, valleys, of, Kashmir, and, is, known, for, its, temples.
+POS Tags: 10, 9, 6, 0, 1, 10, 0, 6, 4, 2, 9, 4, 3, 0, 4, 8
+Chunk Tags: 1, 1, 1, 8, 0, 5, 4, 9, 5, 10, 0, 9, 10, 4, 9, 10
+NER Tags: 0, 6, 6, 9, 4, 4, 6, 3, 10, 7, 3, 5, 6, 6, 5, 9
+
+ID: 299
+Tokens: Jharkhand, is, rich, in, mineral, resources,, contributing, significantly, to, India's, industrial, growth.
+POS Tags: 7, 4, 4, 7, 7, 1, 5, 0, 7, 7, 10, 0
+Chunk Tags: 3, 2, 7, 5, 5, 1, 0, 10, 10, 2, 3, 5
+NER Tags: 9, 5, 0, 5, 3, 2, 9, 9, 4, 9, 1, 5
+
+ID: 300
+Tokens: Karnataka's, capital,, Bengaluru,, is, at, the, forefront, of, India's, technology, boom.
+POS Tags: 0, 3, 2, 5, 9, 10, 0, 1, 4, 8, 2
+Chunk Tags: 3, 8, 0, 7, 6, 10, 5, 4, 10, 4, 2
+NER Tags: 2, 8, 0, 2, 2, 5, 6, 4, 7, 3, 10
+
+ID: 301
+Tokens: Kerala's, literacy, rate, is, the, highest, in, India,, and, the, state, is, known, for, its, progressive, social, policies.
+POS Tags: 9, 2, 3, 6, 4, 3, 6, 0, 7, 10, 6, 2, 7, 8, 7, 2, 4, 7
+Chunk Tags: 1, 8, 9, 4, 7, 10, 7, 6, 9, 7, 5, 2, 10, 7, 2, 5, 5, 6
+NER Tags: 10, 8, 7, 0, 7, 8, 5, 3, 6, 2, 5, 4, 9, 5, 3, 5, 6, 10
+
+ID: 302
+Tokens: Kolkata, is, known, for, its, intellectuals,, poets,, and, revolutionary, figures, in, India's, independence, movement.
+POS Tags: 8, 6, 4, 6, 0, 9, 0, 9, 4, 8, 9, 10, 8, 0
+Chunk Tags: 5, 6, 8, 7, 5, 5, 5, 9, 6, 2, 10, 9, 4, 7
+NER Tags: 8, 5, 6, 9, 1, 10, 2, 4, 2, 7, 10, 3, 10, 8
+
+ID: 303
+Tokens: Lucknow, is, known, for, its, historical, architecture, and, as, a, center, of, Urdu, poetry, and, literature.
+POS Tags: 2, 6, 2, 9, 7, 6, 4, 3, 8, 5, 1, 5, 5, 0, 10, 9
+Chunk Tags: 6, 6, 6, 4, 5, 5, 1, 8, 2, 4, 8, 2, 2, 8, 4, 2
+NER Tags: 1, 6, 8, 7, 6, 0, 6, 8, 6, 9, 8, 2, 6, 2, 8, 1
+
+ID: 304
+Tokens: Madhya, Pradesh, is, home, to, ancient, Buddhist, monuments, like, Sanchi, and, rock, paintings, in, Bhimbetka.
+POS Tags: 5, 3, 3, 8, 8, 3, 3, 7, 6, 10, 1, 10, 10, 2, 5
+Chunk Tags: 9, 8, 5, 4, 1, 5, 6, 1, 9, 4, 6, 0, 7, 10, 10
+NER Tags: 2, 6, 0, 8, 2, 0, 10, 0, 2, 3, 10, 2, 8, 6, 6
+
+ID: 305
+Tokens: Madras, was, one, of, the, first, British, trading, posts, in, India, and, grew, into, a, major, colonial, city.
+POS Tags: 9, 7, 8, 8, 6, 0, 5, 3, 6, 0, 2, 6, 10, 10, 10, 2, 7, 9
+Chunk Tags: 2, 5, 8, 9, 7, 2, 9, 1, 3, 6, 7, 8, 3, 2, 6, 10, 0, 6
+NER Tags: 3, 6, 0, 10, 7, 8, 3, 0, 6, 10, 8, 10, 10, 2, 6, 9, 5, 6
+
+ID: 306
+Tokens: Madurai's, Meenakshi, Temple, is, a, masterpiece, of, Dravidian, architecture, and, a, major, pilgrimage, site.
+POS Tags: 2, 0, 3, 3, 2, 10, 6, 8, 8, 4, 9, 5, 4, 2
+Chunk Tags: 6, 0, 4, 7, 6, 10, 5, 8, 4, 9, 5, 8, 3, 1
+NER Tags: 8, 1, 0, 3, 8, 6, 6, 0, 8, 4, 7, 3, 8, 10
+
+ID: 307
+Tokens: Maharashtra, is, home, to, India's, financial, capital,, Mumbai,, and, a, hub, for, arts, and, culture.
+POS Tags: 8, 3, 5, 0, 0, 2, 0, 1, 7, 0, 6, 2, 2, 8, 0
+Chunk Tags: 2, 5, 6, 10, 3, 5, 7, 2, 10, 7, 10, 6, 7, 3, 2
+NER Tags: 1, 1, 9, 5, 6, 10, 1, 5, 8, 5, 8, 6, 4, 6, 6
+
+ID: 308
+Tokens: Arya's, wisdom, was, renowned, across, the, kingdom,, where, she, was, revered, as, a, great, leader.
+POS Tags: 4, 4, 4, 9, 0, 1, 2, 9, 2, 4, 10, 3, 1, 8, 9
+Chunk Tags: 2, 3, 7, 8, 8, 2, 1, 0, 1, 1, 2, 1, 3, 7, 6
+NER Tags: 10, 9, 8, 7, 2, 7, 4, 4, 10, 2, 1, 2, 6, 7, 5
+
+ID: 309
+Tokens: Baba, spent, his, days, meditating, near, the, river,, offering, blessings, to, those, who, sought, his, guidance.
+POS Tags: 10, 8, 9, 0, 10, 1, 10, 7, 1, 8, 0, 8, 9, 9, 4, 5
+Chunk Tags: 1, 4, 7, 8, 4, 1, 6, 5, 5, 2, 7, 8, 1, 9, 8, 2
+NER Tags: 1, 3, 10, 8, 0, 6, 3, 4, 3, 0, 8, 1, 5, 2, 10, 0
+
+ID: 310
+Tokens: Babu, was, a, skilled, craftsman,, known, for, carving, intricate, statues, of, Hindu, deities.
+POS Tags: 7, 0, 4, 2, 4, 9, 10, 2, 8, 1, 10, 2, 2
+Chunk Tags: 8, 9, 0, 10, 6, 9, 7, 9, 6, 8, 2, 0, 3
+NER Tags: 1, 10, 9, 1, 9, 2, 0, 8, 4, 1, 10, 6, 10
+
+ID: 311
+Tokens: Bahadur, led, his, people, with, courage, and, strength,, never, backing, down, in, the, face, of, adversity.
+POS Tags: 0, 8, 1, 4, 3, 3, 6, 5, 3, 9, 6, 5, 7, 9, 10, 3
+Chunk Tags: 3, 4, 9, 10, 4, 7, 7, 8, 2, 3, 2, 7, 1, 9, 5, 7
+NER Tags: 8, 2, 8, 2, 5, 10, 8, 1, 2, 4, 5, 7, 1, 6, 0, 10
+
+ID: 312
+Tokens: Bala's, teachings, on, love, and, compassion, drew, followers, from, all, walks, of, life.
+POS Tags: 1, 10, 5, 7, 7, 5, 10, 5, 10, 5, 1, 5, 8
+Chunk Tags: 2, 10, 3, 5, 9, 0, 7, 8, 9, 10, 3, 4, 6
+NER Tags: 1, 9, 10, 0, 2, 4, 5, 5, 3, 4, 3, 10, 10
+
+ID: 313
+Tokens: The, Bara, family, held, an, annual, festival, in, honor, of, the, goddess, Durga,, drawing, thousands, of, devotees.
+POS Tags: 9, 9, 0, 4, 4, 0, 1, 9, 5, 5, 4, 8, 0, 1, 8, 8, 0
+Chunk Tags: 0, 9, 9, 5, 4, 5, 9, 8, 4, 7, 4, 3, 1, 10, 10, 1, 2
+NER Tags: 3, 7, 4, 0, 6, 9, 5, 9, 5, 2, 6, 3, 7, 4, 1, 2, 8
+
+ID: 314
+Tokens: Bha, was, a, term, of, respect, used, by, the, villagers, when, addressing, their, elders.
+POS Tags: 1, 7, 5, 5, 10, 6, 1, 1, 8, 9, 0, 5, 6, 0
+Chunk Tags: 3, 0, 6, 5, 2, 10, 7, 9, 1, 9, 4, 5, 7, 10
+NER Tags: 6, 0, 8, 8, 3, 8, 8, 7, 7, 1, 6, 5, 1, 1
+
+ID: 315
+Tokens: Bhan, guided, the, tribe, through, treacherous, terrain, during, their, pilgrimage, to, the, holy, site.
+POS Tags: 5, 0, 4, 2, 1, 0, 4, 8, 1, 9, 7, 5, 5, 10
+Chunk Tags: 7, 6, 3, 10, 9, 4, 7, 2, 1, 9, 8, 9, 9, 7
+NER Tags: 1, 1, 4, 8, 10, 9, 0, 2, 9, 6, 0, 5, 0, 1
+
+ID: 316
+Tokens: The, Bhavan, was, a, large, and, ornate, building, dedicated, to, spiritual, gatherings, and, prayers.
+POS Tags: 10, 5, 2, 0, 8, 8, 9, 2, 7, 4, 9, 9, 9, 2
+Chunk Tags: 2, 4, 2, 9, 4, 7, 0, 10, 0, 8, 1, 3, 8, 0
+NER Tags: 9, 3, 4, 9, 4, 3, 7, 5, 3, 5, 10, 5, 6, 8
+
+ID: 317
+Tokens: Brahma, is, considered, the, creator, of, the, universe, in, Hindu, mythology,, a, central, figure, in, their, cosmology.
+POS Tags: 5, 7, 10, 1, 6, 0, 8, 5, 6, 10, 10, 10, 1, 7, 9, 5, 3
+Chunk Tags: 8, 9, 10, 6, 7, 4, 6, 1, 2, 3, 0, 6, 6, 4, 8, 5, 3
+NER Tags: 1, 2, 6, 3, 10, 9, 3, 3, 10, 7, 5, 10, 5, 1, 1, 1, 3
+
+ID: 318
+Tokens: The, Brahman, caste, has, historically, been, associated, with, religious, duties, and, priesthood.
+POS Tags: 6, 4, 0, 8, 10, 3, 2, 6, 1, 4, 2, 3
+Chunk Tags: 5, 4, 8, 8, 7, 3, 3, 7, 3, 10, 7, 10
+NER Tags: 3, 4, 2, 1, 5, 7, 2, 8, 7, 1, 9, 9
+
+ID: 319
+Tokens: The, ancient, chakra, system, is, believed, to, represent, energy, centers, in, the, human, body.
+POS Tags: 9, 9, 10, 9, 0, 8, 8, 4, 6, 6, 8, 1, 5, 4
+Chunk Tags: 4, 0, 3, 10, 9, 1, 3, 10, 0, 8, 7, 6, 2, 1
+NER Tags: 6, 6, 0, 10, 3, 8, 3, 6, 7, 0, 4, 3, 6, 8
+
+ID: 320
+Tokens: Chand, sat, by, the, lake, at, night,, watching, the, moonlight, reflect, on, the, water.
+POS Tags: 0, 4, 4, 8, 6, 7, 10, 0, 0, 3, 1, 4, 4, 3
+Chunk Tags: 0, 9, 3, 2, 6, 9, 9, 3, 10, 3, 8, 9, 3, 10
+NER Tags: 6, 6, 10, 7, 8, 5, 0, 4, 0, 1, 5, 4, 9, 10
+
+ID: 321
+Tokens: Chandra's, temple, was, one, of, the, most, famous, landmarks,, attracting, pilgrims, from, afar.
+POS Tags: 9, 6, 10, 9, 5, 10, 7, 9, 6, 0, 4, 2, 7
+Chunk Tags: 8, 1, 0, 7, 5, 5, 9, 9, 7, 10, 4, 2, 10
+NER Tags: 3, 0, 6, 7, 9, 9, 0, 0, 7, 3, 6, 2, 0
+
+ID: 322
+Tokens: The, donation, totaled, one, crore, rupees,, a, generous, offering, to, the, village, fund.
+POS Tags: 7, 10, 2, 6, 4, 4, 7, 2, 8, 10, 6, 6, 5
+Chunk Tags: 3, 9, 8, 4, 8, 2, 2, 0, 8, 3, 2, 8, 4
+NER Tags: 3, 1, 1, 4, 6, 10, 10, 5, 2, 8, 2, 10, 3
+
+ID: 323
+Tokens: Dali,, an, artist, by, trade,, incorporated, Hindu, mythology, into, his, intricate, paintings.
+POS Tags: 4, 10, 2, 5, 0, 4, 7, 0, 0, 4, 9, 1
+Chunk Tags: 10, 1, 1, 8, 8, 9, 1, 5, 4, 10, 3, 9
+NER Tags: 5, 2, 5, 2, 8, 9, 10, 6, 8, 0, 6, 5
+
+ID: 324
+Tokens: Dhan, was, known, for, his, charitable, nature,, often, donating, large, sums, to, the, local, mandir.
+POS Tags: 8, 3, 4, 6, 0, 8, 6, 4, 10, 8, 5, 9, 1, 1, 8
+Chunk Tags: 6, 10, 3, 7, 6, 9, 4, 7, 4, 10, 4, 8, 5, 4, 10
+NER Tags: 9, 8, 9, 5, 7, 1, 6, 3, 3, 8, 7, 6, 10, 5, 1
+
+ID: 325
+Tokens: Dharma, was, the, central, teaching, of, the, guru,, who, emphasized, righteous, living, and, moral, conduct.
+POS Tags: 10, 2, 8, 10, 9, 3, 6, 3, 3, 1, 10, 2, 4, 8, 1
+Chunk Tags: 1, 8, 1, 3, 0, 0, 4, 8, 6, 4, 10, 5, 6, 7, 5
+NER Tags: 10, 10, 3, 5, 3, 6, 8, 0, 1, 8, 9, 7, 10, 3, 5
+
+ID: 326
+Tokens: The, festival, of, Durga, Puja, was, celebrated, with, fervor,, honoring, the, goddess, Durga, for, her, strength.
+POS Tags: 9, 5, 9, 9, 2, 4, 4, 2, 8, 3, 1, 1, 0, 3, 1, 7
+Chunk Tags: 3, 6, 2, 1, 1, 6, 10, 10, 5, 6, 9, 2, 3, 5, 9, 0
+NER Tags: 0, 4, 3, 3, 9, 3, 2, 7, 4, 6, 0, 5, 9, 6, 9, 7
+
+ID: 327
+Tokens: Gaj's, family, had, been, elephant, keepers, for, generations,, a, tradition, passed, down, through, centuries.
+POS Tags: 2, 1, 9, 3, 7, 6, 7, 0, 6, 9, 2, 10, 5, 10
+Chunk Tags: 2, 2, 8, 7, 1, 9, 7, 9, 4, 4, 9, 4, 7, 0
+NER Tags: 2, 6, 6, 1, 7, 4, 8, 5, 6, 3, 4, 4, 10, 9
+
+ID: 328
+Tokens: The, Gand, river, was, considered, holy, by, the, locals,, who, performed, rituals, on, its, banks.
+POS Tags: 8, 10, 7, 8, 4, 4, 8, 9, 10, 3, 5, 7, 1, 2, 7
+Chunk Tags: 8, 5, 10, 2, 8, 1, 8, 1, 0, 0, 4, 5, 8, 9, 1
+NER Tags: 7, 8, 6, 6, 5, 9, 7, 8, 9, 2, 3, 7, 7, 5, 0
+
+ID: 329
+Tokens: Ganesh, is, one, of, the, most, beloved, gods, in, Hinduism,, symbolizing, wisdom, and, prosperity.
+POS Tags: 9, 10, 8, 6, 2, 1, 6, 8, 10, 1, 2, 7, 2, 10
+Chunk Tags: 7, 0, 7, 6, 0, 8, 6, 8, 9, 1, 2, 10, 4, 9
+NER Tags: 2, 9, 4, 8, 6, 3, 6, 3, 3, 10, 0, 5, 4, 3
+
+ID: 330
+Tokens: The, Ganga, River, holds, a, sacred, place, in, Hindu, culture,, where, millions, come, to, bathe, and, seek, blessings.
+POS Tags: 1, 4, 1, 3, 6, 2, 3, 7, 8, 0, 1, 2, 9, 2, 0, 6, 7, 0
+Chunk Tags: 0, 0, 5, 7, 4, 9, 1, 6, 7, 4, 4, 2, 10, 8, 8, 0, 8, 10
+NER Tags: 2, 0, 0, 4, 9, 1, 3, 0, 4, 6, 9, 3, 8, 1, 9, 5, 6, 1
+
+ID: 331
+Tokens: Gopal, was, a, devout, follower, of, Krishna,, often, leading, the, village, in, devotional, songs.
+POS Tags: 3, 3, 5, 7, 10, 10, 8, 7, 1, 6, 3, 1, 7, 6
+Chunk Tags: 1, 9, 6, 9, 0, 6, 9, 5, 7, 10, 6, 8, 2, 1
+NER Tags: 3, 8, 6, 8, 6, 5, 0, 4, 3, 6, 9, 2, 6, 7
+
+ID: 332
+Tokens: Hanuman's, bravery, is, celebrated, in, stories, where, he, plays, a, crucial, role, in, the, Ramayana.
+POS Tags: 7, 8, 2, 0, 1, 7, 3, 2, 1, 9, 0, 0, 8, 3, 8
+Chunk Tags: 6, 9, 6, 0, 6, 10, 1, 7, 9, 3, 1, 1, 8, 9, 6
+NER Tags: 9, 10, 4, 4, 4, 8, 9, 1, 10, 0, 3, 0, 8, 2, 1
+
+ID: 333
+Tokens: Hari, led, the, prayers, at, the, temple, every, morning,, guiding, the, community, in, their, worship.
+POS Tags: 10, 2, 8, 9, 6, 9, 2, 1, 0, 8, 8, 2, 0, 9, 6
+Chunk Tags: 3, 6, 7, 5, 5, 7, 1, 4, 1, 7, 9, 10, 0, 5, 8
+NER Tags: 9, 5, 5, 9, 1, 5, 5, 7, 3, 1, 5, 2, 10, 2, 10
+
+ID: 334
+Tokens: Jagger, loved, listening, to, Sitar, music, while, reading, about, Indian, spiritual, traditions.
+POS Tags: 4, 7, 9, 4, 2, 3, 2, 5, 5, 6, 10, 2
+Chunk Tags: 2, 7, 5, 5, 4, 10, 3, 9, 9, 5, 7, 2
+NER Tags: 10, 10, 4, 4, 2, 3, 4, 10, 7, 4, 8, 1
+
+ID: 335
+Tokens: The, Kalyan, mandir, was, beautifully, decorated, with, flowers, and, lights, during, the, annual, festival.
+POS Tags: 0, 9, 4, 4, 2, 5, 7, 8, 9, 4, 6, 1, 9, 4
+Chunk Tags: 6, 0, 2, 4, 7, 7, 9, 3, 0, 7, 5, 9, 5, 6
+NER Tags: 3, 8, 4, 4, 4, 0, 1, 10, 2, 2, 8, 10, 0, 7
+
+ID: 336
+Tokens: Krishna's, teachings, in, the, Bhagavad, Gita, offer, deep, insights, into, life,, duty,, and, spirituality.
+POS Tags: 5, 4, 1, 5, 8, 0, 9, 4, 0, 4, 5, 10, 9, 1
+Chunk Tags: 9, 2, 5, 9, 3, 6, 7, 7, 0, 3, 4, 0, 2, 6
+NER Tags: 0, 1, 5, 6, 7, 7, 7, 5, 6, 8, 1, 9, 7, 0
+
+ID: 337
+Tokens: Kumar, was, a, famous, actor, known, for, portraying, gods, and, heroes, in, religious, plays.
+POS Tags: 10, 0, 9, 10, 10, 4, 9, 10, 2, 10, 8, 7, 7, 10
+Chunk Tags: 9, 10, 10, 10, 4, 9, 3, 6, 6, 6, 9, 5, 3, 10
+NER Tags: 1, 0, 6, 8, 8, 9, 6, 9, 1, 5, 0, 10, 2, 10
+
+ID: 338
+Tokens: The, house, was, worth, over, a, lakh, rupees,, making, it, one, of, the, most, valuable, properties, in, the, area.
+POS Tags: 7, 1, 3, 4, 10, 7, 10, 6, 10, 0, 5, 3, 3, 9, 9, 4, 4, 9, 0
+Chunk Tags: 5, 1, 0, 2, 2, 6, 9, 4, 10, 3, 10, 0, 9, 3, 0, 10, 1, 3, 7
+NER Tags: 1, 6, 4, 10, 8, 6, 2, 0, 8, 4, 9, 3, 3, 7, 8, 2, 8, 3, 2
+
+ID: 339
+Tokens: Madhav, was, a, scholar, of, Sanskrit, literature, and, often, quoted, ancient, texts, in, his, lectures.
+POS Tags: 10, 3, 7, 9, 3, 9, 0, 0, 10, 4, 2, 0, 1, 7, 10
+Chunk Tags: 6, 9, 6, 6, 4, 5, 7, 3, 0, 10, 0, 3, 2, 5, 1
+NER Tags: 4, 7, 9, 10, 3, 9, 9, 8, 4, 5, 9, 8, 9, 6, 3
+
+ID: 340
+Tokens: Madhu, opened, a, sweets, shop, that, became, famous, for, its, delicacies, during, the, Hindu, festivals.
+POS Tags: 7, 4, 6, 0, 10, 6, 5, 4, 2, 3, 1, 10, 9, 1, 5
+Chunk Tags: 9, 7, 5, 9, 1, 2, 10, 7, 10, 10, 0, 7, 1, 7, 6
+NER Tags: 6, 9, 0, 1, 8, 2, 2, 3, 0, 0, 7, 8, 9, 9, 2
+
+ID: 341
+Tokens: The, Maha, Kumbh, Mela, is, the, largest, religious, gathering, in, the, world,, attracting, millions, of, devotees.
+POS Tags: 3, 10, 2, 0, 7, 5, 4, 3, 3, 4, 1, 1, 2, 1, 7, 2
+Chunk Tags: 4, 6, 9, 5, 3, 3, 10, 5, 1, 7, 7, 3, 4, 2, 7, 0
+NER Tags: 2, 3, 2, 0, 7, 9, 5, 2, 5, 8, 4, 5, 9, 2, 4, 10
+
+ID: 342
+Tokens: Mahadev,, or, Lord, Shiva,, is, one, of, the, principal, deities, in, Hinduism,, revered, as, the, destroyer, of, evil.
+POS Tags: 10, 7, 4, 0, 9, 3, 3, 9, 6, 9, 10, 1, 4, 4, 8, 1, 5, 0
+Chunk Tags: 5, 7, 4, 9, 7, 1, 2, 6, 2, 0, 7, 4, 7, 9, 3, 0, 4, 8
+NER Tags: 1, 1, 0, 6, 6, 3, 6, 3, 4, 0, 9, 1, 10, 7, 8, 6, 3, 5
+
+ID: 343
+Tokens: The, Maharaj, ruled, his, kingdom, with, fairness,, consulting, the, village, elders, on, important, matters.
+POS Tags: 9, 4, 9, 7, 1, 7, 9, 0, 9, 9, 6, 8, 4, 4
+Chunk Tags: 3, 3, 6, 3, 4, 4, 3, 10, 2, 6, 9, 5, 2, 5
+NER Tags: 10, 0, 3, 7, 4, 10, 4, 8, 1, 8, 9, 1, 1, 6
+
+ID: 344
+Tokens: The, Mandir, was, beautifully, decorated, with, flowers, and, lamps, for, the, festival, of, lights.
+POS Tags: 2, 1, 10, 4, 6, 3, 8, 10, 3, 5, 10, 7, 5, 4
+Chunk Tags: 9, 2, 1, 2, 6, 8, 1, 2, 2, 8, 6, 3, 0, 3
+NER Tags: 7, 4, 4, 9, 7, 9, 9, 3, 5, 0, 1, 3, 2, 5
+
+ID: 345
+Tokens: Mohan, was, a, skilled, musician, who, played, devotional, songs, in, honor, of, Krishna.
+POS Tags: 6, 5, 0, 0, 9, 7, 9, 9, 5, 7, 1, 7, 10
+Chunk Tags: 4, 6, 9, 3, 2, 4, 0, 6, 3, 9, 3, 1, 6
+NER Tags: 3, 4, 3, 8, 3, 6, 6, 3, 6, 6, 5, 9, 1
+
+ID: 346
+Tokens: Nandi,, Shiva's, loyal, bull,, stands, as, a, symbol, of, strength, and, devotion, in, many, temples.
+POS Tags: 3, 9, 5, 1, 8, 5, 10, 0, 8, 7, 6, 0, 0, 7, 10
+Chunk Tags: 1, 7, 8, 2, 9, 6, 7, 8, 3, 8, 3, 9, 4, 9, 9
+NER Tags: 0, 6, 8, 0, 5, 1, 7, 4, 5, 6, 7, 1, 2, 3, 1
+
+ID: 347
+Tokens: Narayan, is, a, name, often, used, to, refer, to, the, preserver, aspect, of, Lord, Vishnu.
+POS Tags: 0, 5, 6, 10, 3, 8, 10, 8, 2, 8, 5, 5, 8, 10, 9
+Chunk Tags: 8, 4, 2, 9, 9, 6, 7, 9, 3, 2, 3, 9, 1, 4, 4
+NER Tags: 2, 5, 7, 9, 4, 0, 10, 1, 0, 1, 9, 1, 6, 0, 7
+
+ID: 348
+Tokens: The, Nava, Rathri, festival, celebrates, nine, nights, of, devotion, to, the, goddess, Durga.
+POS Tags: 7, 7, 3, 10, 0, 5, 7, 9, 3, 0, 8, 5, 8
+Chunk Tags: 8, 7, 8, 9, 7, 7, 10, 5, 6, 2, 6, 5, 0
+NER Tags: 8, 2, 4, 1, 5, 7, 4, 3, 0, 2, 1, 9, 9
+
+ID: 349
+Tokens: The, Padma, flower, is, often, associated, with, purity, and, is, frequently, depicted, in, Hindu, iconography.
+POS Tags: 5, 1, 8, 2, 3, 8, 0, 9, 2, 6, 2, 8, 4, 10, 3
+Chunk Tags: 2, 1, 7, 0, 8, 8, 2, 2, 0, 7, 3, 0, 8, 10, 2
+NER Tags: 1, 0, 1, 2, 4, 5, 3, 5, 2, 5, 4, 3, 1, 0, 5
+
+ID: 350
+Tokens: The, panchayat, met, to, discuss, the, village's, needs, and, distribute, funds, for, community, projects.
+POS Tags: 4, 3, 8, 1, 0, 10, 7, 0, 7, 7, 4, 3, 6, 8
+Chunk Tags: 6, 10, 0, 1, 9, 8, 5, 9, 10, 6, 2, 10, 9, 3
+NER Tags: 10, 10, 5, 6, 7, 0, 8, 2, 8, 2, 9, 6, 5, 1
+
+ID: 351
+Tokens: Pooja, was, held, every, evening, at, the, temple,, where, the, devotees, offered, prayers, and, flowers.
+POS Tags: 7, 3, 10, 9, 1, 0, 0, 1, 0, 4, 4, 5, 7, 2, 0
+Chunk Tags: 10, 6, 4, 4, 2, 5, 10, 1, 0, 6, 0, 2, 8, 2, 6
+NER Tags: 3, 7, 5, 2, 1, 4, 1, 5, 0, 1, 3, 8, 8, 1, 5
+
+ID: 352
+Tokens: Prasad, was, distributed, among, the, devotees, after, the, special, ceremony, at, the, mandir.
+POS Tags: 3, 1, 2, 1, 2, 7, 9, 9, 10, 0, 9, 5, 9
+Chunk Tags: 10, 6, 9, 2, 5, 5, 3, 8, 5, 2, 5, 1, 7
+NER Tags: 4, 3, 2, 2, 10, 9, 4, 4, 3, 2, 6, 9, 5
+
+ID: 353
+Tokens: Radha's, devotion, to, Krishna, is, one, of, the, most, celebrated, love, stories, in, Hindu, mythology.
+POS Tags: 4, 8, 9, 0, 4, 5, 8, 7, 0, 3, 6, 7, 9, 3, 1
+Chunk Tags: 4, 10, 10, 3, 7, 5, 3, 6, 8, 3, 6, 9, 10, 4, 4
+NER Tags: 5, 10, 0, 1, 7, 10, 2, 3, 8, 9, 0, 2, 5, 7, 4
+
+ID: 354
+Tokens: Rama's, victory, over, Ravana, is, celebrated, annually, during, the, festival, of, Dussehra.
+POS Tags: 6, 5, 6, 6, 9, 3, 4, 6, 5, 7, 10, 8
+Chunk Tags: 6, 6, 1, 8, 10, 0, 2, 6, 7, 3, 8, 6
+NER Tags: 5, 6, 5, 1, 5, 8, 1, 9, 9, 10, 3, 9
+
+ID: 355
+Tokens: The, Ramakrishna, Mission, works, to, spread, the, teachings, of, Swami, Ramakrishna, across, the, world.
+POS Tags: 7, 10, 2, 1, 1, 9, 8, 1, 6, 0, 8, 3, 9, 3
+Chunk Tags: 3, 0, 8, 2, 9, 8, 5, 5, 6, 8, 7, 9, 10, 6
+NER Tags: 0, 7, 7, 7, 5, 4, 4, 1, 10, 9, 7, 4, 6, 8
+
+ID: 356
+Tokens: The, Rath, Yatra, festival,, featuring, massive, chariots,, is, a, major, event, in, the, city, every, year.
+POS Tags: 5, 0, 6, 8, 7, 10, 2, 10, 3, 9, 8, 6, 9, 1, 2, 2
+Chunk Tags: 5, 8, 4, 0, 1, 10, 5, 8, 7, 2, 6, 9, 9, 0, 6, 8
+NER Tags: 4, 6, 5, 6, 5, 0, 0, 0, 7, 2, 8, 0, 1, 5, 4, 4
+
+ID: 357
+Tokens: The, Sabha, gathered, to, discuss, issues, concerning, the, local, community, and, to, resolve, disputes.
+POS Tags: 3, 3, 2, 8, 7, 1, 9, 1, 4, 4, 10, 7, 9, 5
+Chunk Tags: 10, 8, 8, 7, 3, 3, 5, 6, 7, 6, 0, 6, 4, 7
+NER Tags: 0, 8, 2, 5, 3, 4, 5, 9, 9, 3, 6, 4, 3, 8
+
+ID: 358
+Tokens: Sagar's, stories, about, the, divine, filled, the, room, with, a, sense, of, wonder, and, devotion.
+POS Tags: 7, 1, 4, 2, 3, 7, 0, 2, 1, 9, 9, 4, 1, 9, 8
+Chunk Tags: 8, 3, 8, 10, 9, 2, 2, 7, 6, 1, 7, 6, 2, 4, 7
+NER Tags: 0, 7, 10, 4, 9, 4, 4, 5, 5, 2, 7, 9, 3, 1, 1
+
+ID: 359
+Tokens: Saha, was, a, respected, elder, in, the, village,, often, sought, out, for, advice, and, guidance.
+POS Tags: 7, 7, 4, 10, 5, 6, 2, 6, 1, 6, 6, 10, 8, 1, 8
+Chunk Tags: 5, 2, 5, 1, 0, 7, 4, 1, 3, 8, 1, 4, 3, 0, 3
+NER Tags: 2, 10, 4, 2, 10, 4, 4, 3, 4, 8, 7, 7, 3, 2, 2
+
+ID: 360
+Tokens: The, Samaj, was, established, to, promote, social, welfare, and, cultural, preservation, in, the, region.
+POS Tags: 7, 4, 5, 2, 7, 8, 3, 10, 3, 4, 4, 8, 9, 7
+Chunk Tags: 0, 4, 6, 7, 5, 8, 10, 4, 10, 1, 9, 2, 8, 3
+NER Tags: 10, 1, 7, 0, 2, 1, 10, 10, 9, 0, 4, 4, 0, 1
+
+ID: 361
+Tokens: The, Sangeet, festival, celebrated, classical, Indian, music,, with, performances, by, renowned, artists.
+POS Tags: 4, 5, 7, 7, 0, 0, 6, 9, 1, 1, 8, 4
+Chunk Tags: 9, 3, 6, 6, 5, 2, 8, 7, 1, 5, 1, 10
+NER Tags: 9, 5, 0, 8, 7, 7, 6, 10, 3, 2, 9, 1
+
+ID: 362
+Tokens: Sant, was, a, revered, sage, whose, teachings, on, spirituality, drew, followers, from, across, the, land.
+POS Tags: 7, 4, 8, 7, 7, 3, 4, 10, 6, 10, 6, 10, 5, 7, 8
+Chunk Tags: 1, 9, 8, 1, 2, 5, 4, 8, 9, 8, 8, 9, 2, 6, 3
+NER Tags: 6, 2, 0, 10, 3, 0, 6, 9, 7, 6, 9, 8, 9, 6, 2
+
+ID: 363
+Tokens: Saro's, garden, was, known, for, its, serene, beauty,, with, blooming, flowers, that, symbolized, life, and, rebirth.
+POS Tags: 0, 1, 3, 3, 3, 5, 1, 3, 4, 10, 6, 2, 1, 0, 4, 10
+Chunk Tags: 10, 8, 8, 1, 8, 7, 5, 3, 10, 2, 7, 5, 8, 1, 5, 4
+NER Tags: 3, 7, 3, 7, 9, 2, 4, 1, 7, 4, 9, 1, 10, 3, 4, 5
+
+ID: 364
+Tokens: Shakti, is, the, personification, of, divine, feminine, energy, in, Hinduism,, symbolizing, strength, and, power.
+POS Tags: 4, 2, 1, 9, 0, 9, 9, 0, 10, 9, 6, 2, 10, 10
+Chunk Tags: 10, 2, 3, 7, 0, 6, 7, 7, 6, 1, 9, 5, 2, 0
+NER Tags: 6, 5, 6, 6, 8, 2, 4, 7, 0, 6, 4, 5, 8, 10
+
+ID: 365
+Tokens: Shankar,, another, name, for, Lord, Shiva,, is, revered, as, the, destroyer, of, evil, forces.
+POS Tags: 5, 2, 9, 6, 1, 7, 4, 7, 5, 3, 6, 5, 3, 8
+Chunk Tags: 5, 1, 10, 9, 0, 5, 7, 1, 9, 9, 7, 2, 8, 5
+NER Tags: 8, 0, 3, 2, 9, 2, 9, 1, 0, 2, 1, 1, 2, 10
+
+ID: 366
+Tokens: The, Shanti, mantra, is, often, recited, at, the, end, of, prayers,, invoking, peace, for, all, beings.
+POS Tags: 2, 7, 10, 8, 5, 6, 8, 3, 0, 3, 9, 4, 9, 4, 4, 8
+Chunk Tags: 10, 1, 1, 9, 4, 3, 6, 9, 9, 1, 1, 0, 9, 2, 9, 0
+NER Tags: 7, 3, 3, 0, 9, 3, 10, 2, 9, 10, 0, 10, 3, 3, 7, 0
+
+ID: 367
+Tokens: Shiv, temples, are, often, found, on, hilltops,, where, devotees, make, long, treks, to, offer, their, prayers.
+POS Tags: 2, 6, 6, 4, 3, 4, 7, 7, 10, 0, 3, 6, 1, 3, 5, 2
+Chunk Tags: 10, 0, 8, 2, 0, 9, 6, 7, 6, 8, 6, 10, 6, 4, 9, 6
+NER Tags: 7, 10, 9, 6, 5, 8, 2, 7, 9, 7, 0, 7, 5, 1, 5, 4
+
+ID: 368
+Tokens: Shiva, is, one, of, the, principal, deities, in, Hinduism,, worshipped, as, the, destroyer, and, transformer.
+POS Tags: 2, 10, 9, 8, 2, 8, 2, 5, 7, 1, 5, 6, 0, 0, 7
+Chunk Tags: 1, 9, 10, 3, 5, 0, 2, 5, 9, 1, 5, 7, 6, 5, 0
+NER Tags: 5, 4, 3, 5, 4, 9, 10, 5, 10, 4, 8, 2, 3, 4, 5
+
+ID: 369
+Tokens: Siva's, stories, are, told, during, the, festival, of, Maha, Shivaratri,, where, devotees, fast, and, pray, all, night.
+POS Tags: 2, 0, 10, 10, 3, 7, 10, 6, 6, 1, 1, 6, 2, 2, 0, 4, 3
+Chunk Tags: 6, 1, 6, 7, 6, 4, 2, 8, 3, 3, 3, 8, 7, 10, 10, 10, 4
+NER Tags: 2, 3, 3, 6, 8, 5, 3, 9, 5, 0, 9, 4, 4, 8, 5, 6, 0
+
+ID: 370
+Tokens: Surya,, the, sun, god,, is, honored, each, morning, in, temples, dedicated, to, the, divine, light.
+POS Tags: 6, 9, 0, 2, 7, 1, 4, 4, 4, 8, 2, 7, 4, 0, 10
+Chunk Tags: 0, 5, 1, 8, 3, 0, 2, 2, 0, 10, 3, 6, 4, 1, 4
+NER Tags: 1, 8, 8, 9, 8, 10, 2, 9, 10, 6, 6, 5, 2, 3, 2
+
+ID: 371
+Tokens: Vishnu,, the, preserver, of, the, universe,, is, one, of, the, principal, deities, in, Hinduism.
+POS Tags: 5, 0, 7, 7, 4, 4, 6, 8, 3, 3, 1, 3, 7, 8
+Chunk Tags: 1, 6, 5, 1, 4, 9, 10, 2, 2, 8, 2, 8, 1, 3
+NER Tags: 7, 10, 8, 9, 7, 9, 10, 8, 3, 2, 0, 4, 10, 5
+
+ID: 372
+Tokens: Abbas, led, a, revolution, that, forever, changed, the, course, of, Middle, Eastern, history.
+POS Tags: 4, 8, 9, 4, 2, 10, 7, 0, 7, 10, 5, 5, 0
+Chunk Tags: 8, 9, 3, 6, 10, 1, 9, 7, 6, 6, 8, 8, 1
+NER Tags: 1, 9, 6, 2, 2, 3, 8, 4, 9, 1, 6, 2, 4
+
+ID: 373
+Tokens: The, Abbasid, Caliphate, was, known, for, its, advancements, in, science, and, culture.
+POS Tags: 1, 1, 9, 3, 4, 4, 6, 9, 1, 0, 7, 2
+Chunk Tags: 4, 0, 5, 4, 2, 0, 10, 10, 3, 5, 2, 10
+NER Tags: 10, 8, 4, 0, 6, 3, 2, 10, 6, 2, 1, 7
+
+ID: 374
+Tokens: Abd, always, admired, the, ancient, Islamic, scholars, for, their, wisdom, and, contributions, to, knowledge.
+POS Tags: 0, 0, 0, 8, 1, 4, 5, 9, 0, 7, 0, 0, 7, 6
+Chunk Tags: 3, 3, 9, 2, 0, 8, 3, 0, 2, 3, 4, 5, 7, 1
+NER Tags: 0, 8, 1, 2, 9, 7, 6, 0, 6, 9, 3, 7, 4, 2
+
+ID: 375
+Tokens: Abdel, worked, as, a, diplomat,, helping, to, bridge, relations, between, neighboring, countries.
+POS Tags: 10, 10, 0, 8, 2, 0, 2, 7, 2, 9, 8, 1
+Chunk Tags: 0, 6, 10, 10, 9, 7, 0, 3, 1, 0, 0, 6
+NER Tags: 7, 8, 1, 8, 10, 3, 9, 2, 6, 5, 4, 1
+
+ID: 376
+Tokens: Abdul, contributed, to, the, building, of, a, new, mosque, in, his, hometown.
+POS Tags: 0, 0, 3, 8, 7, 10, 7, 9, 7, 9, 9, 10
+Chunk Tags: 4, 4, 6, 0, 10, 0, 9, 4, 10, 7, 4, 8
+NER Tags: 5, 10, 1, 10, 3, 3, 0, 10, 5, 1, 5, 8
+
+ID: 377
+Tokens: Abdullah, studied, the, Islamic, Golden, Age, and, its, impact, on, modern, society.
+POS Tags: 8, 2, 4, 8, 5, 5, 9, 3, 10, 7, 2, 10
+Chunk Tags: 2, 8, 0, 2, 4, 1, 8, 1, 6, 6, 4, 2
+NER Tags: 6, 6, 7, 3, 5, 0, 5, 4, 2, 8, 1, 2
+
+ID: 378
+Tokens: Abu, was, a, well-respected, scholar, who, wrote, extensively, about, early, Islamic, philosophy.
+POS Tags: 3, 5, 8, 4, 5, 10, 3, 4, 3, 2, 2, 4
+Chunk Tags: 1, 2, 2, 9, 7, 2, 9, 6, 4, 2, 6, 9
+NER Tags: 9, 7, 2, 10, 7, 8, 0, 4, 3, 5, 4, 4
+
+ID: 379
+Tokens: Ahmad, traveled, across, the, Middle, East, to, document, the, history, of, ancient, mosques.
+POS Tags: 0, 9, 8, 10, 2, 6, 9, 2, 2, 0, 2, 5, 1
+Chunk Tags: 6, 3, 2, 5, 6, 6, 1, 10, 5, 4, 6, 2, 3
+NER Tags: 1, 2, 9, 0, 9, 0, 4, 2, 9, 5, 9, 3, 10
+
+ID: 380
+Tokens: Ahmed's, architectural, firm, was, known, for, designing, buildings, inspired, by, Islamic, art.
+POS Tags: 1, 10, 6, 7, 6, 6, 3, 9, 8, 5, 10, 3
+Chunk Tags: 1, 9, 0, 8, 4, 5, 7, 1, 10, 8, 8, 6
+NER Tags: 7, 10, 10, 2, 3, 6, 7, 1, 6, 4, 6, 6
+
+ID: 381
+Tokens: Akbar's, reign, was, marked, by, religious, tolerance, and, a, fusion, of, cultures, in, his, court.
+POS Tags: 0, 8, 1, 0, 1, 10, 3, 6, 5, 2, 9, 8, 2, 2, 5
+Chunk Tags: 2, 0, 10, 6, 2, 10, 3, 10, 3, 5, 1, 5, 7, 1, 8
+NER Tags: 6, 3, 10, 6, 4, 4, 8, 8, 4, 6, 5, 7, 8, 5, 7
+
+ID: 382
+Tokens: Ali, was, a, prominent, figure, in, early, Islamic, history,, revered, for, his, wisdom, and, leadership.
+POS Tags: 9, 8, 1, 9, 1, 10, 7, 4, 3, 4, 10, 0, 6, 10, 1
+Chunk Tags: 9, 6, 4, 3, 7, 2, 0, 7, 3, 3, 10, 2, 1, 6, 1
+NER Tags: 7, 0, 4, 4, 4, 5, 7, 5, 7, 0, 7, 5, 3, 6, 6
+
+ID: 383
+Tokens: The, city, of, Bahr, was, once, a, major, hub, for, trade, during, the, Islamic, Golden, Age.
+POS Tags: 10, 2, 5, 0, 1, 2, 4, 6, 0, 7, 6, 6, 0, 4, 6, 5
+Chunk Tags: 8, 10, 4, 2, 7, 1, 7, 6, 0, 10, 9, 0, 8, 7, 8, 4
+NER Tags: 3, 2, 6, 6, 3, 6, 5, 5, 5, 6, 4, 2, 5, 9, 4, 8
+
+ID: 384
+Tokens: Basha, led, the, army, in, a, victorious, campaign, to, defend, the, empire's, borders.
+POS Tags: 0, 7, 10, 8, 5, 10, 2, 10, 1, 6, 2, 10, 7
+Chunk Tags: 8, 5, 7, 10, 10, 7, 0, 8, 6, 3, 6, 4, 3
+NER Tags: 4, 3, 4, 8, 7, 7, 4, 1, 6, 8, 10, 10, 5
+
+ID: 385
+Tokens: The, caliph, ordered, the, construction, of, new, schools, to, educate, the, youth, in, Islamic, teachings.
+POS Tags: 1, 6, 5, 8, 6, 6, 7, 7, 0, 7, 6, 6, 4, 4, 7
+Chunk Tags: 6, 2, 6, 6, 1, 1, 4, 7, 7, 8, 10, 1, 6, 5, 4
+NER Tags: 8, 10, 1, 8, 1, 10, 6, 7, 1, 2, 3, 6, 1, 7, 7
+
+ID: 386
+Tokens: The, concept, of, demi, in, ancient, texts, fascinated, scholars, of, the, Abbasid, era.
+POS Tags: 6, 6, 5, 4, 10, 5, 7, 7, 0, 3, 6, 8, 8
+Chunk Tags: 3, 3, 5, 1, 2, 8, 4, 0, 2, 10, 8, 7, 0
+NER Tags: 7, 10, 8, 10, 9, 5, 9, 1, 0, 1, 10, 6, 8
+
+ID: 387
+Tokens: The, Emir, hosted, a, grand, banquet, to, celebrate, the, successful, peace, treaty, with, neighboring, tribes.
+POS Tags: 10, 6, 1, 2, 9, 0, 6, 4, 0, 0, 2, 3, 10, 3, 4
+Chunk Tags: 4, 4, 1, 6, 5, 8, 10, 5, 0, 7, 3, 7, 5, 5, 0
+NER Tags: 2, 2, 6, 3, 5, 10, 1, 10, 3, 1, 10, 1, 6, 10, 9
+
+ID: 388
+Tokens: Faisal's, diplomatic, efforts, helped, secure, the, region's, autonomy, from, colonial, powers.
+POS Tags: 4, 2, 2, 7, 5, 7, 9, 8, 8, 9, 2
+Chunk Tags: 9, 5, 5, 2, 0, 3, 3, 7, 2, 8, 10
+NER Tags: 9, 10, 4, 9, 5, 10, 7, 2, 3, 3, 8
+
+ID: 389
+Tokens: Ghulam, was, a, skilled, craftsman, who, specialized, in, Islamic, calligraphy.
+POS Tags: 0, 6, 6, 10, 8, 5, 2, 10, 0, 6
+Chunk Tags: 10, 9, 9, 8, 10, 5, 9, 1, 4, 4
+NER Tags: 9, 9, 6, 9, 8, 3, 5, 7, 2, 6
+
+ID: 390
+Tokens: Habib's, poetry, reflected, the, rich, spiritual, heritage, of, Islamic, mysticism.
+POS Tags: 8, 6, 9, 3, 5, 8, 1, 0, 4, 0
+Chunk Tags: 3, 7, 1, 0, 8, 9, 9, 3, 7, 1
+NER Tags: 10, 1, 9, 3, 6, 8, 6, 6, 3, 3
+
+ID: 391
+Tokens: Haji, returned, from, his, pilgrimage, to, Mecca, with, stories, of, his, journey, to, share, with, the, community.
+POS Tags: 7, 7, 3, 10, 1, 2, 3, 3, 9, 3, 9, 10, 10, 3, 6, 9, 7
+Chunk Tags: 10, 0, 3, 5, 7, 3, 7, 7, 9, 6, 5, 8, 2, 2, 9, 3, 8
+NER Tags: 3, 6, 6, 6, 5, 9, 5, 4, 7, 5, 4, 10, 3, 0, 7, 8, 2
+
+ID: 392
+Tokens: The, Hajj, is, one, of, the, five, pillars, of, Islam,, undertaken, by, millions, every, year.
+POS Tags: 8, 3, 3, 8, 0, 5, 6, 4, 7, 2, 9, 5, 10, 3, 5
+Chunk Tags: 10, 7, 9, 6, 1, 1, 10, 10, 4, 6, 9, 10, 10, 8, 2
+NER Tags: 8, 1, 0, 7, 6, 7, 10, 3, 1, 8, 6, 8, 3, 6, 9
+
+ID: 393
+Tokens: Hamad, was, known, for, his, contributions, to, Islamic, literature, and, his, role, in, preserving, ancient, texts.
+POS Tags: 0, 5, 3, 10, 8, 10, 2, 3, 1, 5, 6, 1, 4, 6, 8, 8
+Chunk Tags: 0, 4, 1, 7, 10, 7, 8, 0, 6, 6, 0, 8, 5, 8, 3, 10
+NER Tags: 7, 4, 7, 4, 3, 2, 10, 2, 6, 7, 7, 3, 2, 6, 1, 1
+
+ID: 394
+Tokens: Hamid, gave, a, lecture, on, the, influence, of, Islamic, law, on, modern, legal, systems.
+POS Tags: 1, 5, 10, 2, 10, 8, 10, 4, 5, 10, 1, 6, 8, 7
+Chunk Tags: 1, 1, 5, 9, 10, 8, 5, 7, 5, 0, 10, 10, 1, 3
+NER Tags: 9, 0, 1, 8, 10, 2, 1, 9, 6, 1, 1, 7, 5, 3
+
+ID: 395
+Tokens: Hassan, was, a, key, advisor, to, the, caliph,, helping, to, manage, the, affairs, of, the, state.
+POS Tags: 1, 10, 0, 9, 1, 6, 6, 2, 8, 2, 1, 10, 4, 3, 4, 5
+Chunk Tags: 8, 0, 5, 2, 4, 10, 2, 3, 2, 10, 9, 0, 8, 5, 2, 2
+NER Tags: 0, 9, 5, 1, 4, 5, 7, 2, 4, 8, 1, 7, 1, 9, 2, 0
+
+ID: 396
+Tokens: Hussain's, role, in, Islamic, history, is, remembered, during, the, annual, Ashura, commemoration.
+POS Tags: 4, 7, 10, 9, 9, 10, 4, 9, 1, 7, 1, 3
+Chunk Tags: 0, 10, 0, 4, 4, 1, 4, 3, 8, 1, 2, 6
+NER Tags: 5, 0, 8, 7, 10, 6, 6, 6, 10, 3, 9, 0
+
+ID: 397
+Tokens: Hussein's, reforms, modernized, the, governance, of, the, region,, integrating, Islamic, principles, with, contemporary, law.
+POS Tags: 5, 5, 10, 1, 0, 4, 5, 3, 1, 5, 6, 8, 10, 3
+Chunk Tags: 1, 6, 5, 2, 8, 10, 2, 4, 9, 8, 7, 2, 3, 4
+NER Tags: 6, 8, 8, 9, 1, 1, 1, 5, 2, 4, 4, 8, 2, 7
+
+ID: 398
+Tokens: Ibn, Battuta's, travels, across, the, Islamic, world, are, still, studied, by, historians, today.
+POS Tags: 7, 3, 3, 6, 4, 1, 3, 8, 6, 3, 8, 6, 6
+Chunk Tags: 9, 0, 0, 8, 1, 9, 0, 8, 4, 1, 6, 1, 5
+NER Tags: 2, 2, 2, 3, 8, 0, 1, 3, 2, 8, 9, 6, 9
+
+ID: 399
+Tokens: Ibrahim's, architectural, designs, were, inspired, by, the, grand, mosques, of, the, Ottoman, Empire.
+POS Tags: 3, 5, 9, 5, 0, 6, 2, 6, 7, 4, 5, 10, 9
+Chunk Tags: 7, 3, 2, 3, 10, 6, 8, 4, 3, 3, 4, 1, 9
+NER Tags: 3, 7, 7, 0, 6, 4, 6, 3, 2, 8, 9, 9, 7
+
+ID: 400
+Tokens: Idris, taught, Islamic, jurisprudence, at, the, university,, where, students, from, all, over, the, world, came, to, learn.
+POS Tags: 9, 2, 0, 5, 8, 6, 6, 8, 5, 2, 9, 1, 10, 3, 7, 10, 4
+Chunk Tags: 0, 5, 6, 9, 1, 7, 10, 10, 8, 5, 0, 9, 10, 6, 10, 7, 10
+NER Tags: 1, 8, 10, 10, 2, 6, 6, 3, 4, 10, 5, 4, 3, 1, 10, 3, 8
+
+ID: 401
+Tokens: The, Imam, delivered, a, powerful, sermon, on, the, importance, of, charity, in, Islamic, society.
+POS Tags: 2, 3, 0, 3, 5, 10, 0, 10, 0, 3, 3, 9, 3, 1
+Chunk Tags: 9, 7, 10, 5, 10, 4, 1, 3, 5, 6, 0, 5, 10, 4
+NER Tags: 0, 0, 8, 10, 1, 9, 2, 5, 10, 9, 6, 9, 10, 6
+
+ID: 402
+Tokens: Iqbal's, poetry, is, still, recited, by, students, studying, Islamic, philosophy, and, literature.
+POS Tags: 5, 7, 6, 9, 7, 10, 5, 2, 0, 0, 5, 9
+Chunk Tags: 10, 10, 5, 6, 9, 5, 10, 9, 7, 1, 3, 6
+NER Tags: 2, 5, 7, 9, 5, 0, 10, 2, 9, 5, 8, 3
+
+ID: 403
+Tokens: Islam, continues, to, shape, the, cultural, and, political, landscape, of, many, nations, around, the, world.
+POS Tags: 0, 0, 6, 9, 7, 9, 1, 7, 0, 5, 5, 7, 0, 10, 1
+Chunk Tags: 2, 9, 2, 2, 7, 5, 5, 2, 0, 0, 10, 5, 4, 5, 3
+NER Tags: 0, 4, 3, 4, 6, 7, 3, 10, 8, 7, 10, 0, 7, 4, 5
+
+ID: 404
+Tokens: Islamic, art, is, renowned, for, its, intricate, geometric, patterns, and, calligraphy.
+POS Tags: 9, 8, 2, 8, 8, 9, 8, 6, 0, 0, 0
+Chunk Tags: 0, 2, 8, 1, 10, 4, 6, 4, 0, 3, 3
+NER Tags: 10, 4, 8, 9, 1, 5, 5, 8, 5, 9, 3
+
+ID: 405
+Tokens: The, Islamist, movement, sought, to, integrate, political, and, religious, principles, in, governance.
+POS Tags: 0, 7, 4, 3, 9, 9, 0, 4, 9, 1, 6, 2
+Chunk Tags: 3, 7, 5, 0, 6, 4, 4, 4, 10, 4, 2, 7
+NER Tags: 7, 8, 3, 9, 10, 4, 4, 7, 2, 0, 9, 10
+
+ID: 406
+Tokens: Ismail's, study, of, early, Islamic, history, led, to, groundbreaking, new, theories, about, the, caliphates.
+POS Tags: 8, 5, 1, 8, 4, 3, 9, 8, 9, 4, 3, 5, 0, 9
+Chunk Tags: 10, 4, 6, 5, 6, 2, 10, 10, 5, 5, 2, 10, 4, 8
+NER Tags: 9, 8, 10, 1, 7, 10, 10, 9, 3, 10, 9, 7, 7, 2
+
+ID: 407
+Tokens: Jalal's, research, focused, on, the, role, of, Islamic, science, in, the, European, Renaissance.
+POS Tags: 1, 0, 10, 5, 2, 9, 7, 5, 4, 9, 7, 6, 0
+Chunk Tags: 5, 5, 7, 6, 0, 7, 9, 8, 5, 6, 4, 1, 5
+NER Tags: 1, 4, 7, 8, 5, 9, 10, 3, 7, 6, 3, 0, 0
+
+ID: 408
+Tokens: Jamal's, contributions, to, Islamic, finance, helped, develop, ethical, banking, practices, worldwide.
+POS Tags: 10, 5, 9, 10, 4, 9, 3, 7, 4, 1, 5
+Chunk Tags: 2, 9, 9, 8, 2, 5, 2, 0, 5, 9, 6
+NER Tags: 0, 8, 8, 4, 2, 0, 5, 3, 8, 0, 4
+
+ID: 409
+Tokens: Janis, was, fascinated, by, the, history, of, Islamic, trade, routes, across, the, Middle, East.
+POS Tags: 8, 6, 5, 7, 7, 6, 6, 8, 6, 5, 9, 9, 10, 7
+Chunk Tags: 0, 1, 10, 8, 4, 1, 0, 7, 1, 6, 0, 10, 1, 1
+NER Tags: 2, 9, 9, 7, 3, 6, 8, 4, 7, 7, 6, 4, 2, 9
+
+ID: 410
+Tokens: Kamal's, expertise, in, Islamic, theology, made, him, a, sought-after, speaker, at, academic, conferences.
+POS Tags: 0, 4, 1, 5, 1, 2, 2, 0, 3, 8, 10, 1, 7
+Chunk Tags: 4, 0, 10, 8, 6, 4, 0, 5, 2, 2, 2, 6, 6
+NER Tags: 3, 10, 3, 10, 10, 2, 6, 7, 6, 4, 1, 1, 8
+
+ID: 411
+Tokens: Karim, organized, an, exhibition, showcasing, the, influence, of, Islamic, art, on, European, painting.
+POS Tags: 8, 5, 0, 9, 8, 1, 2, 4, 2, 9, 6, 9, 6
+Chunk Tags: 1, 8, 0, 0, 1, 10, 10, 1, 3, 10, 2, 1, 4
+NER Tags: 4, 2, 7, 1, 1, 8, 1, 3, 4, 1, 1, 7, 5
+
+ID: 412
+Tokens: Khalid's, research, into, the, history, of, Islamic, medicine, earned, him, a, prestigious, award.
+POS Tags: 3, 1, 10, 8, 3, 6, 5, 2, 0, 7, 4, 4, 6
+Chunk Tags: 1, 8, 4, 4, 1, 5, 7, 7, 2, 5, 6, 0, 10
+NER Tags: 2, 6, 1, 4, 2, 0, 6, 5, 2, 10, 7, 9, 3
+
+ID: 413
+Tokens: Khalifa, invited, scholars, from, across, the, Islamic, world, to, debate, the, future, of, religious, thought.
+POS Tags: 4, 6, 4, 10, 2, 10, 5, 5, 4, 3, 0, 0, 3, 3, 2
+Chunk Tags: 3, 8, 0, 9, 10, 3, 5, 8, 4, 2, 2, 6, 10, 3, 9
+NER Tags: 1, 5, 4, 0, 5, 2, 5, 10, 7, 0, 4, 8, 0, 0, 7
+
+ID: 414
+Tokens: Khalil, was, an, influential, jurist, who, helped, shape, modern, interpretations, of, Islamic, law.
+POS Tags: 0, 7, 8, 3, 2, 10, 10, 2, 9, 7, 9, 3, 8
+Chunk Tags: 10, 9, 9, 6, 4, 4, 9, 0, 4, 2, 4, 5, 5
+NER Tags: 9, 5, 4, 9, 7, 2, 5, 2, 3, 2, 3, 5, 6
+
+ID: 415
+Tokens: Khan's, leadership, during, the, Islamic, conquests, expanded, the, empire's, reach, across, continents.
+POS Tags: 0, 8, 9, 6, 6, 5, 9, 5, 8, 2, 9, 1
+Chunk Tags: 5, 10, 3, 6, 7, 10, 9, 10, 9, 7, 6, 5
+NER Tags: 9, 10, 3, 6, 3, 5, 9, 2, 3, 1, 3, 10
+
+ID: 416
+Tokens: The, Taj, Mahal, is, one, of, the, most, iconic, symbols, of, Islamic, architecture, in, the, world.
+POS Tags: 6, 5, 5, 8, 10, 9, 1, 3, 8, 5, 0, 7, 10, 0, 2, 10
+Chunk Tags: 5, 8, 8, 7, 6, 9, 0, 6, 1, 8, 2, 2, 3, 3, 4, 10
+NER Tags: 6, 2, 6, 0, 0, 6, 10, 2, 6, 10, 2, 9, 6, 10, 9, 8
+
+ID: 417
+Tokens: Mahmoud's, passion, for, Islamic, history, led, him, to, collect, rare, manuscripts, from, the, Abbasid, era.
+POS Tags: 3, 2, 5, 7, 3, 2, 4, 2, 2, 9, 8, 5, 10, 0, 2
+Chunk Tags: 6, 0, 9, 8, 3, 7, 6, 8, 9, 7, 1, 3, 8, 4, 7
+NER Tags: 4, 9, 4, 2, 1, 3, 10, 4, 5, 8, 8, 8, 1, 5, 3
+
+ID: 418
+Tokens: Mahmud, was, known, for, his, contributions, to, Islamic, philosophy, and, his, groundbreaking, research.
+POS Tags: 8, 10, 1, 5, 4, 0, 7, 7, 8, 8, 1, 10, 3
+Chunk Tags: 0, 4, 8, 3, 6, 10, 7, 4, 6, 3, 6, 2, 5
+NER Tags: 0, 3, 1, 8, 7, 10, 2, 2, 4, 9, 1, 9, 5
+
+ID: 419
+Tokens: Malik's, legal, interpretations, of, Islamic, law, are, still, taught, in, schools, across, the, Muslim, world.
+POS Tags: 1, 8, 2, 9, 10, 3, 5, 6, 5, 10, 4, 1, 10, 4, 5
+Chunk Tags: 1, 0, 4, 5, 5, 9, 6, 5, 3, 6, 0, 0, 2, 7, 5
+NER Tags: 2, 3, 9, 0, 3, 1, 8, 0, 8, 6, 5, 2, 0, 8, 9
+
+ID: 420
+Tokens: The, Mamluk, Sultanate, played, a, key, role, in, defending, Islamic, lands, from, invaders, during, the, Crusades.
+POS Tags: 5, 2, 2, 1, 2, 1, 7, 8, 8, 3, 9, 0, 8, 5, 8, 10
+Chunk Tags: 6, 6, 1, 2, 9, 3, 9, 0, 9, 2, 4, 6, 4, 0, 7, 10
+NER Tags: 10, 8, 10, 10, 8, 9, 9, 7, 10, 0, 0, 8, 6, 9, 8, 0
+
+ID: 421
+Tokens: The, masjid, was, filled, with, worshippers, for, the, special, Friday, prayers, led, by, the, Imam.
+POS Tags: 7, 10, 4, 6, 0, 1, 0, 8, 7, 4, 5, 10, 1, 6, 4
+Chunk Tags: 5, 6, 4, 0, 2, 8, 4, 3, 6, 3, 3, 1, 8, 2, 9
+NER Tags: 0, 1, 7, 3, 3, 0, 3, 0, 2, 8, 6, 3, 4, 7, 2
+
+ID: 422
+Tokens: Mehmed's, conquests, extended, the, Ottoman, Empire's, influence, deep, into, Europe, and, the, Middle, East.
+POS Tags: 6, 4, 5, 10, 7, 8, 8, 9, 7, 9, 5, 3, 7, 1
+Chunk Tags: 8, 1, 10, 1, 9, 0, 9, 3, 1, 2, 7, 0, 0, 3
+NER Tags: 9, 8, 1, 7, 7, 5, 0, 10, 10, 5, 9, 7, 5, 8
+
+ID: 423
+Tokens: Mirza, was, a, celebrated, poet, whose, works, reflected, the, spiritual, depth, of, Islamic, mysticism.
+POS Tags: 0, 9, 7, 2, 2, 1, 4, 8, 8, 0, 1, 0, 7, 9
+Chunk Tags: 8, 8, 7, 3, 0, 8, 10, 7, 6, 6, 5, 10, 6, 3
+NER Tags: 2, 7, 7, 3, 7, 0, 1, 10, 1, 9, 10, 0, 9, 3
+
+ID: 424
+Tokens: Mohamed, founded, an, organization, that, provides, free, education, to, underprivileged, Muslim, children.
+POS Tags: 4, 10, 5, 8, 2, 4, 8, 9, 1, 3, 3, 3
+Chunk Tags: 8, 9, 10, 5, 0, 10, 1, 4, 9, 2, 8, 5
+NER Tags: 1, 2, 0, 5, 0, 2, 2, 3, 2, 2, 0, 10
+
+ID: 425
+Tokens: Mohammad's, contributions, to, Islamic, jurisprudence, continue, to, influence, modern, legal, systems.
+POS Tags: 7, 7, 9, 4, 0, 1, 3, 3, 0, 5, 5
+Chunk Tags: 0, 6, 10, 7, 4, 0, 8, 7, 2, 7, 4
+NER Tags: 2, 8, 9, 5, 6, 9, 6, 3, 5, 1, 8
+
+ID: 426
+Tokens: Mohammed's, leadership, during, the, early, years, of, Islam, laid, the, foundation, for, a, global, religion.
+POS Tags: 9, 1, 4, 7, 9, 3, 9, 4, 9, 3, 2, 6, 10, 9, 3
+Chunk Tags: 3, 7, 5, 8, 1, 9, 8, 9, 1, 0, 1, 5, 10, 3, 9
+NER Tags: 7, 1, 9, 10, 4, 9, 9, 0, 4, 8, 4, 5, 0, 3, 0
+
+ID: 427
+Tokens: The, Mughal, Empire, is, known, for, its, stunning, contributions, to, Islamic, architecture,, especially, the, Taj, Mahal.
+POS Tags: 7, 7, 7, 1, 10, 10, 0, 8, 6, 8, 6, 9, 10, 8, 4, 4
+Chunk Tags: 4, 0, 10, 4, 3, 1, 5, 3, 8, 0, 9, 1, 0, 5, 1, 6
+NER Tags: 5, 6, 5, 3, 4, 8, 3, 3, 4, 6, 3, 2, 1, 7, 6, 1
+
+ID: 428
+Tokens: Muhammad, is, revered, as, the, final, prophet, in, Islam,, with, billions, of, followers, worldwide.
+POS Tags: 0, 5, 0, 2, 4, 2, 5, 6, 4, 2, 6, 1, 8, 6
+Chunk Tags: 1, 0, 2, 8, 10, 6, 0, 4, 9, 10, 3, 2, 9, 5
+NER Tags: 8, 6, 8, 5, 9, 3, 8, 6, 7, 7, 1, 3, 10, 1
+
+ID: 429
+Tokens: Musa's, work, in, Islamic, finance, has, helped, shape, the, modern, banking, system, in, the, Middle, East.
+POS Tags: 2, 7, 9, 2, 0, 6, 8, 1, 10, 7, 8, 7, 3, 8, 0, 4
+Chunk Tags: 4, 9, 4, 6, 1, 9, 5, 0, 2, 7, 10, 10, 0, 3, 6, 9
+NER Tags: 3, 9, 6, 9, 5, 2, 5, 7, 4, 7, 0, 9, 10, 1, 7, 1
+
+ID: 430
+Tokens: Mustafa's, research, focused, on, the, contributions, of, Islamic, scholars, to, early, medical, practices.
+POS Tags: 10, 3, 10, 3, 7, 7, 3, 4, 4, 8, 5, 0, 1
+Chunk Tags: 4, 0, 1, 1, 4, 7, 5, 3, 4, 9, 10, 7, 7
+NER Tags: 6, 9, 6, 10, 10, 9, 9, 9, 1, 8, 10, 3, 7
+
+ID: 431
+Tokens: Nasi, was, a, skilled, artisan, who, specialized, in, creating, Islamic, geometric, designs.
+POS Tags: 1, 7, 6, 0, 5, 1, 8, 3, 3, 4, 9, 0
+Chunk Tags: 7, 4, 7, 8, 7, 6, 1, 2, 2, 2, 6, 9
+NER Tags: 4, 10, 0, 7, 2, 0, 5, 2, 7, 1, 1, 9
+
+ID: 432
+Tokens: Nasr's, diplomatic, efforts, helped, secure, peace, between, neighboring, Islamic, states.
+POS Tags: 7, 0, 7, 8, 10, 5, 6, 8, 5, 1
+Chunk Tags: 9, 7, 9, 0, 5, 7, 5, 0, 8, 9
+NER Tags: 10, 9, 1, 2, 9, 1, 1, 2, 5, 5
+
+ID: 433
+Tokens: Nasser, was, a, revolutionary, leader, who, sought, to, unify, the, Islamic, world, under, one, banner.
+POS Tags: 8, 3, 7, 3, 10, 8, 0, 3, 3, 0, 4, 2, 1, 7, 4
+Chunk Tags: 8, 6, 4, 6, 3, 0, 5, 1, 0, 0, 1, 4, 5, 2, 9
+NER Tags: 5, 6, 2, 7, 4, 8, 7, 7, 10, 10, 7, 8, 9, 6, 2
+
+ID: 434
+Tokens: The, Nawab's, palace, was, famous, for, its, intricate, Islamic, designs, and, lush, gardens.
+POS Tags: 5, 2, 1, 0, 9, 0, 2, 9, 8, 4, 9, 0, 0
+Chunk Tags: 8, 8, 3, 5, 9, 0, 6, 3, 9, 0, 7, 5, 1
+NER Tags: 7, 6, 7, 5, 5, 10, 5, 3, 7, 5, 7, 10, 3
+
+ID: 435
+Tokens: Nazar's, dedication, to, preserving, Islamic, manuscripts, earned, him, a, prestigious, award, from, UNESCO.
+POS Tags: 3, 9, 5, 8, 0, 5, 2, 10, 3, 10, 9, 3, 1
+Chunk Tags: 4, 7, 10, 9, 4, 9, 0, 10, 5, 10, 10, 6, 6
+NER Tags: 4, 0, 2, 1, 3, 3, 7, 5, 1, 6, 7, 5, 1
+
+ID: 436
+Tokens: The, Nizam, of, Hyderabad, played, a, crucial, role, in, the, history, of, Islamic, India.
+POS Tags: 8, 10, 10, 9, 2, 5, 4, 1, 8, 1, 9, 6, 3, 1
+Chunk Tags: 1, 5, 0, 1, 8, 1, 5, 0, 4, 0, 6, 2, 0, 10
+NER Tags: 7, 10, 2, 6, 4, 4, 7, 0, 7, 1, 3, 4, 5, 4
+
+ID: 437
+Tokens: Omar, was, known, for, his, fairness, and, wisdom,, qualities, that, made, him, a, beloved, leader, in, Islamic, history.
+POS Tags: 6, 0, 9, 6, 6, 0, 7, 6, 9, 0, 5, 1, 4, 5, 0, 8, 0, 4
+Chunk Tags: 6, 9, 8, 10, 4, 9, 1, 9, 4, 2, 4, 1, 1, 10, 8, 2, 8, 8
+NER Tags: 2, 7, 2, 9, 5, 3, 0, 8, 4, 7, 2, 9, 7, 7, 6, 6, 3, 7
+
+ID: 438
+Tokens: Osman, founded, the, Ottoman, Empire,, one, of, the, most, powerful, Islamic, states, in, history.
+POS Tags: 4, 5, 5, 8, 1, 3, 0, 10, 1, 9, 6, 2, 8, 3
+Chunk Tags: 8, 4, 3, 1, 1, 9, 1, 9, 10, 7, 0, 4, 5, 0
+NER Tags: 1, 1, 5, 8, 7, 9, 5, 6, 6, 9, 3, 2, 8, 10
+
+ID: 439
+Tokens: Pasha, led, the, Ottoman, army, to, victory, in, several, key, battles, during, the, Islamic, conquests.
+POS Tags: 5, 1, 6, 0, 3, 4, 5, 6, 3, 7, 10, 2, 6, 4, 6
+Chunk Tags: 3, 0, 2, 7, 10, 7, 1, 10, 5, 3, 6, 7, 9, 9, 6
+NER Tags: 7, 9, 0, 3, 0, 2, 3, 1, 10, 4, 6, 3, 0, 5, 9
+
+ID: 440
+Tokens: Quranic, recitations, filled, the, air, as, worshippers, gathered, for, the, special, night, of, prayer.
+POS Tags: 2, 10, 7, 7, 4, 6, 4, 5, 9, 10, 2, 6, 3, 10
+Chunk Tags: 7, 7, 6, 10, 7, 0, 0, 0, 5, 9, 3, 7, 4, 1
+NER Tags: 10, 9, 3, 6, 10, 2, 1, 7, 0, 1, 1, 1, 8, 3
+
+ID: 441
+Tokens: The, Quran, remains, the, central, religious, text, for, Muslims, around, the, world,, guiding, their, spiritual, and, daily, lives.
+POS Tags: 3, 5, 5, 5, 5, 2, 5, 10, 8, 9, 5, 8, 3, 3, 3, 4, 5, 6
+Chunk Tags: 3, 5, 1, 1, 4, 1, 8, 2, 3, 8, 4, 4, 1, 2, 0, 7, 7, 8
+NER Tags: 10, 7, 6, 5, 9, 2, 10, 3, 9, 9, 5, 8, 3, 2, 1, 6, 0, 3
+
+ID: 442
+Tokens: Rashid's, research, into, Islamic, art, revealed, new, insights, into, the, cultural, exchanges, between, East, and, West.
+POS Tags: 5, 1, 3, 8, 3, 8, 1, 1, 4, 10, 0, 8, 0, 1, 7, 4
+Chunk Tags: 2, 9, 10, 6, 9, 9, 6, 6, 2, 0, 10, 6, 8, 6, 9, 10
+NER Tags: 7, 5, 4, 4, 7, 3, 5, 4, 2, 4, 6, 6, 8, 0, 8, 1
+
+ID: 443
+Tokens: Saad's, architectural, designs, were, inspired, by, the, grand, mosques, of, the, Islamic, world.
+POS Tags: 3, 3, 7, 3, 0, 5, 3, 8, 9, 9, 3, 8, 0
+Chunk Tags: 1, 0, 5, 4, 0, 10, 2, 8, 10, 6, 4, 7, 4
+NER Tags: 3, 4, 10, 6, 10, 0, 0, 2, 5, 3, 3, 3, 6
+
+ID: 444
+Tokens: Saddam's, reign, was, marked, by, both, his, adherence, to, Islamic, principles, and, his, political, ambitions.
+POS Tags: 9, 10, 1, 9, 5, 6, 3, 10, 0, 7, 2, 8, 1, 9, 1
+Chunk Tags: 5, 3, 8, 3, 9, 6, 1, 6, 3, 10, 4, 2, 8, 10, 2
+NER Tags: 0, 5, 4, 3, 2, 6, 1, 8, 1, 7, 5, 4, 5, 2, 8
+
+ID: 445
+Tokens: Sahib, was, a, renowned, Islamic, scholar, who, taught, at, the, most, prestigious, universities, in, the, Middle, East.
+POS Tags: 6, 0, 3, 2, 0, 9, 10, 0, 1, 5, 2, 0, 6, 5, 1, 2, 5
+Chunk Tags: 4, 8, 1, 6, 4, 3, 9, 7, 8, 5, 0, 10, 3, 3, 10, 1, 1
+NER Tags: 4, 10, 7, 4, 2, 1, 9, 6, 6, 0, 8, 6, 5, 8, 9, 2, 6
+
+ID: 446
+Tokens: Salam's, contributions, to, the, study, of, Islamic, science, earned, him, international, recognition.
+POS Tags: 10, 2, 2, 5, 2, 6, 9, 2, 6, 3, 10, 5
+Chunk Tags: 1, 10, 9, 7, 4, 10, 5, 9, 1, 9, 8, 3
+NER Tags: 5, 10, 10, 6, 9, 7, 8, 3, 2, 3, 7, 2
+
+ID: 447
+Tokens: Salim's, work, on, Islamic, calligraphy, helped, preserve, this, ancient, art, form, for, future, generations.
+POS Tags: 8, 8, 7, 7, 8, 3, 5, 8, 10, 4, 0, 1, 3, 5
+Chunk Tags: 2, 10, 8, 10, 0, 10, 0, 4, 7, 10, 4, 8, 3, 9
+NER Tags: 3, 4, 3, 4, 3, 3, 4, 0, 1, 8, 7, 1, 8, 4
+
+ID: 448
+Tokens: Saracen, warriors, were, known, for, their, bravery, and, skill, in, defending, Islamic, lands, from, invaders.
+POS Tags: 4, 7, 4, 4, 7, 6, 3, 7, 1, 2, 8, 9, 8, 6, 9
+Chunk Tags: 9, 9, 3, 9, 2, 3, 9, 8, 7, 2, 1, 10, 8, 8, 10
+NER Tags: 8, 7, 9, 6, 1, 9, 9, 2, 8, 1, 3, 3, 0, 6, 9
+
+ID: 449
+Tokens: Sele, wrote, extensively, on, the, history, of, the, Islamic, empires, and, their, influence, on, world, history.
+POS Tags: 2, 8, 9, 10, 5, 0, 2, 7, 6, 8, 5, 5, 10, 5, 9, 2
+Chunk Tags: 2, 1, 5, 9, 7, 10, 8, 3, 1, 4, 6, 2, 7, 10, 0, 10
+NER Tags: 7, 6, 5, 7, 9, 5, 0, 1, 5, 4, 8, 9, 6, 3, 5, 2
+
+ID: 450
+Tokens: The, Shah, of, Persia, was, a, patron, of, Islamic, art,, commissioning, some, of, the, most, beautiful, works, of, his, time.
+POS Tags: 2, 0, 3, 5, 6, 0, 5, 4, 6, 2, 6, 5, 2, 7, 8, 4, 4, 6, 8, 9
+Chunk Tags: 6, 6, 1, 7, 10, 7, 10, 1, 0, 3, 6, 10, 3, 1, 7, 4, 7, 6, 6, 0
+NER Tags: 3, 2, 0, 5, 0, 9, 7, 2, 8, 1, 4, 2, 6, 0, 10, 4, 6, 8, 10, 7
+
+ID: 451
+Tokens: Sharia, law, continues, to, play, a, crucial, role, in, the, legal, systems, of, many, Islamic, countries.
+POS Tags: 5, 6, 9, 8, 1, 9, 2, 10, 2, 0, 0, 4, 10, 8, 10, 10
+Chunk Tags: 8, 5, 3, 9, 7, 8, 1, 10, 3, 2, 10, 6, 2, 2, 0, 6
+NER Tags: 10, 4, 6, 2, 3, 5, 7, 1, 7, 10, 7, 1, 8, 9, 0, 5
+
+ID: 452
+Tokens: Sharif, was, an, influential, leader, in, the, Islamic, resistance, against, foreign, occupation.
+POS Tags: 4, 7, 6, 10, 8, 3, 4, 4, 5, 8, 2, 6
+Chunk Tags: 7, 0, 9, 6, 10, 3, 4, 4, 1, 2, 6, 9
+NER Tags: 8, 4, 2, 7, 10, 4, 1, 10, 4, 9, 5, 3
+
+ID: 453
+Tokens: Shaw's, research, on, Islamic, philosophy, helped, bridge, the, gap, between, Western, and, Eastern, thought.
+POS Tags: 7, 6, 5, 5, 4, 2, 9, 3, 2, 3, 10, 4, 1, 3
+Chunk Tags: 1, 5, 7, 4, 10, 9, 4, 3, 5, 5, 5, 8, 7, 8
+NER Tags: 0, 3, 6, 7, 0, 1, 7, 1, 7, 5, 6, 8, 8, 5
+
+ID: 454
+Tokens: The, Sheikh, led, the, congregation, in, prayer,, guiding, them, through, the, teachings, of, the, Quran.
+POS Tags: 10, 1, 6, 0, 9, 8, 2, 5, 5, 1, 6, 8, 2, 5, 3
+Chunk Tags: 4, 0, 8, 9, 8, 7, 0, 7, 8, 5, 3, 4, 1, 6, 6
+NER Tags: 0, 10, 6, 6, 1, 1, 5, 9, 4, 8, 9, 0, 5, 4, 8
+
+ID: 455
+Tokens: The, Shia-Sunni, divide, has, played, a, major, role, in, shaping, the, political, landscape, of, the, Islamic, world.
+POS Tags: 5, 1, 10, 4, 3, 10, 6, 1, 2, 3, 10, 0, 3, 7, 0, 9, 6
+Chunk Tags: 8, 1, 10, 5, 8, 6, 8, 0, 0, 9, 10, 9, 1, 4, 4, 7, 5
+NER Tags: 9, 5, 7, 10, 4, 10, 5, 5, 5, 4, 1, 2, 7, 9, 7, 0, 9
+
+ID: 456
+Tokens: Sufi, mysticism, has, long, been, a, source, of, inspiration, for, Islamic, poets, and, philosophers.
+POS Tags: 1, 8, 0, 9, 1, 10, 8, 0, 5, 6, 3, 3, 0, 7
+Chunk Tags: 4, 5, 4, 8, 0, 10, 8, 10, 5, 5, 2, 1, 8, 2
+NER Tags: 8, 3, 4, 0, 7, 10, 6, 0, 3, 7, 6, 8, 9, 7
+
+ID: 457
+Tokens: The, Sultan, ruled, his, Islamic, kingdom, with, justice, and, compassion,, earning, the, respect, of, his, people.
+POS Tags: 8, 7, 4, 3, 5, 9, 5, 0, 5, 3, 0, 0, 6, 0, 10, 3
+Chunk Tags: 0, 9, 2, 8, 9, 3, 1, 5, 10, 0, 10, 7, 2, 2, 7, 3
+NER Tags: 5, 0, 6, 10, 1, 6, 6, 10, 10, 8, 0, 9, 1, 1, 0, 9
+
+ID: 458
+Tokens: The, Sultanate's, armies, defended, Islamic, lands, from, foreign, invaders, during, the, medieval, period.
+POS Tags: 9, 7, 10, 5, 10, 7, 4, 0, 7, 8, 8, 8, 6
+Chunk Tags: 2, 6, 4, 3, 5, 1, 5, 6, 4, 0, 10, 7, 9
+NER Tags: 6, 0, 9, 0, 2, 10, 4, 6, 5, 7, 4, 6, 8
+
+ID: 459
+Tokens: Sunni, scholars, gathered, to, discuss, the, future, of, Islamic, jurisprudence, in, the, modern, world.
+POS Tags: 3, 0, 10, 5, 4, 5, 9, 1, 5, 1, 9, 7, 1, 0
+Chunk Tags: 3, 5, 9, 5, 10, 5, 8, 2, 2, 5, 0, 7, 4, 1
+NER Tags: 0, 0, 10, 0, 2, 2, 10, 10, 8, 1, 3, 0, 6, 3
+
+ID: 460
+Tokens: Syed's, contributions, to, Islamic, theology, continue, to, influence, religious, thought, today.
+POS Tags: 3, 4, 7, 3, 2, 7, 0, 9, 2, 1, 4
+Chunk Tags: 6, 10, 4, 4, 4, 0, 1, 8, 6, 10, 4
+NER Tags: 8, 0, 1, 2, 7, 4, 3, 9, 5, 6, 3
+
+ID: 461
+Tokens: Tahir's, research, focused, on, the, history, of, Islamic, conquests, and, their, impact, on, world, civilizations.
+POS Tags: 1, 5, 1, 5, 2, 4, 9, 7, 4, 4, 1, 8, 9, 9, 2
+Chunk Tags: 2, 7, 7, 0, 8, 6, 5, 8, 9, 7, 3, 10, 6, 8, 8
+NER Tags: 8, 1, 2, 8, 6, 4, 2, 0, 4, 1, 10, 9, 6, 0, 10
+
+ID: 462
+Tokens: The, Taj, Mahal, stands, as, a, testament, to, the, artistic, achievements, of, the, Islamic, world.
+POS Tags: 6, 1, 0, 4, 6, 9, 4, 7, 1, 5, 7, 8, 7, 6, 3
+Chunk Tags: 4, 8, 1, 4, 3, 7, 4, 7, 0, 8, 1, 0, 10, 4, 7
+NER Tags: 8, 9, 9, 1, 7, 1, 4, 1, 6, 8, 10, 2, 3, 7, 2
+
+ID: 463
+Tokens: Tsar, Alexander, studied, Islamic, history, to, better, understand, his, empire's, southern, neighbors.
+POS Tags: 9, 1, 1, 10, 3, 2, 5, 10, 9, 9, 2, 10
+Chunk Tags: 6, 0, 9, 9, 10, 0, 2, 5, 9, 5, 3, 3
+NER Tags: 6, 4, 6, 9, 7, 10, 3, 10, 2, 2, 6, 3
+
+ID: 464
+Tokens: Yusuf's, expertise, in, Islamic, finance, led, him, to, advise, governments, across, the, Middle, East, on, economic, policy.
+POS Tags: 0, 3, 6, 1, 3, 2, 4, 4, 8, 1, 2, 4, 4, 0, 5, 6, 3
+Chunk Tags: 3, 1, 5, 5, 2, 6, 2, 0, 1, 8, 10, 4, 6, 1, 5, 4, 7
+NER Tags: 5, 3, 6, 4, 9, 3, 4, 3, 4, 4, 7, 8, 7, 1, 9, 10, 10
+
