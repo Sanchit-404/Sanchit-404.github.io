@@ -7,6 +7,8 @@
 // Wider wrapper so sidebar + main content have room (theme default is 560px)
 .wrapper-home
     max-width: 960px
+    margin-left: 2rem
+    margin-right: auto
 
 .home:has(.home-with-sidebar)
     margin-top: 0
@@ -22,7 +24,7 @@
 
 .home-sidebar
     flex-shrink: 0
-    width: 220px
+    width: 330px
     position: sticky
     top: 2rem
     text-align: left
@@ -32,21 +34,21 @@
     margin-bottom: 1.5rem
 
     .selfie
-        width: 125px
-        height: 125px
-        margin-bottom: 1rem
+        width: 188px
+        height: 188px
+        margin-bottom: 1.5rem
         border-radius: 100%
         object-fit: cover
         object-position: center
         display: block
 
     .title
-        font-size: 1.75rem
+        font-size: 2.625rem
         margin: 0 0 0.35rem
         font-weight: 600
 
     .description
-        font-size: 1rem
+        font-size: 1.5rem
         font-weight: $thin-font
         color: $gama
         margin: 0 0 1rem
@@ -56,6 +58,11 @@
         display: flex
         flex-wrap: wrap
         gap: 0.5rem
+        font-size: 1.5em
+
+.home-sidebar .social-links > .link
+    width: 52px
+    height: 52px
 
 .home-sidebar .nav-home .list
     text-align: left
@@ -71,6 +78,13 @@
 .home-main
     flex: 1
     min-width: 0
+
+    h2
+        font-size: calc(2.2rem + 10px)
+    h3
+        font-size: calc(2rem + 10px)
+    h4
+        font-size: calc(1.6rem + 10px)
 
 @media #{$tablet}
     .home-with-sidebar
