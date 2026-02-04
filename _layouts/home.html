@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<div class="home-with-sidebar">
+    <aside class="home-sidebar">
+        {% include header-sidebar.html %}
+        {% include nav.html %}
+    </aside>
+    <main class="home-main">
+        {{ content }}
+    </main>
+</div>
+{% include footer.html %}
