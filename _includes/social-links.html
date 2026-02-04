@@ -31,6 +31,12 @@
         </a>
     {% endif %}
 
+    {% if site.scholar %}
+        <a class="link" data-title="Google Scholar" href="{{ site.scholar }}" target="_blank" rel="noopener">
+            <i class="fa-solid fa-graduation-cap"></i>
+        </a>
+    {% endif %}
+
     {% if site.email %}
         <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}"  rel="noopener">
             <i class="fa-regular fa-envelope"></i>

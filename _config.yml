@@ -1,14 +1,14 @@
 # main text of home
 title: Sanchit Kabra
-bio: A Person who travels the world eating noodles
+bio: PhD student in Computer Science at Virginia Tech
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: PhD student at Virginia Tech. Research on self-evolving agents, scientific discovery, and security of LLM systems.
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/dp.jpg
+picture: assets/images/dp.png
 
 # your site color theme, false to light theme
 dark-theme: true
@@ -17,8 +17,8 @@ dark-theme: true
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/CV(1).pdf
-url: https://sergiokopplin.github.io/indigo
+resume-url: assets/cv (1).pdf
+url: https://sanchit-404.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -31,13 +31,14 @@ disqus:
   shortname: github # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
-# if you don't have any of social below, comment the line
+# if you don't have any of social below, comment the line (use handles only, not full URLs)
 #facebook: myfacebook
-twitter: https://twitter.com/sanchitkabra4
-instagram: https://www.instagram.com/sanchit.kabra/
-linkedin: https://www.linkedin.com/in/sanchit-kabra-285456166/
-github: https://github.com/Sanchit-404
-email: f20200010@pilani.bits-pilani.ac.in
+twitter: sanchitkabra4
+instagram: sanchit.kabra
+linkedin: sanchit-kabra-285456166
+github: Sanchit-404
+email: sanchit23@vt.edu
+scholar: https://scholar.google.com/citations?user=n4gVd4IAAAAJ
 
 authors:
   johndoe:
@@ -68,6 +69,9 @@ pagination:
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
+
+# show Publications page in nav
+publications: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
