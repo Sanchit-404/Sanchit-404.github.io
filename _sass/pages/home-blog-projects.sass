@@ -4,6 +4,10 @@
     margin-top: 125px
 
 // Home with left sidebar: name, photo, socials on left; content starts at top right
+// Wider wrapper so sidebar + main content have room (theme default is 560px)
+.wrapper-home
+    max-width: 960px
+
 .home:has(.home-with-sidebar)
     margin-top: 0
 
@@ -13,12 +17,15 @@
     align-items: flex-start
     gap: 3rem
     min-height: 60vh
+    width: 100%
+    text-align: left
 
 .home-sidebar
     flex-shrink: 0
     width: 220px
     position: sticky
     top: 2rem
+    text-align: left
 
 .header-sidebar
     text-align: left
