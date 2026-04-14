@@ -32,6 +32,12 @@
             {% endif %}
         {% endif %}
 
+        {% if page.title != "CV" %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/cv">CV</a>
+            </li>
+        {% endif %}
+
         {% comment %}
         {% if site.about == true %}
             {% if page.title != "About" %}
