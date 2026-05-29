@@ -6,10 +6,9 @@
 // Home with left sidebar: name, photo, socials on left; content starts at top right
 // Wider wrapper so sidebar + main content have room (theme default is 560px)
 .wrapper-home
-    max-width: calc(960px + 5cm)
-    margin-left: 20rem
-    margin-right: auto
-    margin-top: 12rem
+    max-width: 1100px
+    margin: 3rem auto 0
+    padding: 0 1rem
 
 .home:has(.home-with-sidebar)
     margin-top: 0
@@ -72,8 +71,8 @@
     display: block
 
 .home-sidebar .nav-home .list > .item > .link
-    font-size: 1.1rem
-    padding: 0.35rem 0
+    font-size: 1.5rem
+    padding: 0.4rem 0
     width: auto
 
 .home-main
@@ -83,9 +82,9 @@
     h2
         font-size: 2.625rem
     h3
-        font-size: calc(2rem + 10px)
+        font-size: 2.2rem
     h4
-        font-size: calc(1.6rem + 10px)
+        font-size: 1.8rem
 
 @media #{$tablet}
     .home-with-sidebar
@@ -158,12 +157,12 @@
         border-bottom: 1px solid $epsilon
         .date
             flex-shrink: 0
-            font-size: 0.75rem
+            font-size: 1.15rem
             font-weight: 700
             letter-spacing: 0.04em
             text-transform: uppercase
             color: $delta
-            min-width: 5rem
+            min-width: 5.5rem
         .text
             line-height: 1.65
             color: $alpha

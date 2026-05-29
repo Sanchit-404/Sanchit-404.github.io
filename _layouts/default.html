@@ -34,7 +34,7 @@ layout: compress
 
 </head>
 <body>
-    <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}{% if page.layout == "home" %} wrapper-home{% endif %}{% if page.title == "CV" %} wrapper-cv{% endif %}">
+    <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}{% if page.layout == "home" %} wrapper-home{% elsif page.title == "Publications" %} wrapper-large{% endif %}{% if page.title == "CV" %} wrapper-cv{% endif %}">
         {% if page.layout == "post" %}
             <div class="post">
         {% else %}
