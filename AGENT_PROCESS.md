@@ -19,3 +19,13 @@
 
 ### Status
 - Site live again; publications include Conference / Journal / Preprints.
+
+## 2026-07-20 — Update preprints from Scholar
+
+### Actions
+1. Removed 2024 preprints (Biased or Flawed; Aligned at the Start).
+2. Added 2026 Scholar preprints:
+   - LLM-ACES (`2606.25039`)
+   - LLM-AutoSciLab (`2605.24043`)
+3. Kept 2025 preprints (RUST-BENCH, Reasoning Towards Fairness).
+4. Pushed to `gh-pages`.
