@@ -29,3 +29,17 @@
    - LLM-AutoSciLab (`2605.24043`)
 3. Kept 2025 preprints (RUST-BENCH, Reasoning Towards Fairness).
 4. Pushed to `gh-pages`.
+
+## 2026-07-20 — Collaborators section on home
+
+### Verified links
+- Chandan Reddy (VT): https://creddy.net/
+- Parshin Shojaee (Apple): https://parshinsh.github.io/
+- Ninareh Mehrabi (Meta): https://ninarehm.github.io/
+- Akshita Jha (Apple): https://akshitajha.github.io/
+- Ruoxi Jia (VT): https://ruoxijia.net/
+- Nurendra Choudhary (Amazon): https://nurendra.com/
+
+### Actions
+1. Added collaborators paragraph to About Me on `index.html` with hyperlinked names.
+2. Pushed to `gh-pages`.
