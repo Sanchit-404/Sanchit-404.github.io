@@ -41,10 +41,6 @@
         object-fit: cover
         object-position: center
         display: block
-        box-shadow: 0 0 0 3px $epsilon
-        transition: box-shadow 0.2s ease
-        &:hover
-            box-shadow: 0 0 0 3px $delta
 
     .title
         font-size: 2.625rem
@@ -127,8 +123,7 @@
             font-weight: 600
             margin-bottom: 1.2rem
             border-bottom: 1px solid $epsilon
-            border-left: 3px solid $delta
-            padding: 0 0 0.6rem 1rem
+            padding-bottom: 0.6rem
         p
             margin-bottom: 1rem
             line-height: 1.8
@@ -141,28 +136,16 @@
             font-weight: 600
             margin-bottom: 1.2rem
             border-bottom: 1px solid $epsilon
-            border-left: 3px solid $delta
-            padding: 0 0 0.6rem 1rem
+            padding-bottom: 0.6rem
         li
             margin-bottom: 0.5rem
 
     .interests
         ul
-            list-style: none
-            padding-left: 0
+            padding-left: 1.8rem
         li
-            padding: 0.5rem 0 0.5rem 2.2rem
-            position: relative
             line-height: 1.75
             margin-bottom: 0.3rem
-            &:before
-                content: "›"
-                position: absolute
-                left: 0.4rem
-                color: $delta
-                font-size: 2.2rem
-                line-height: 1.2
-                font-weight: 700
 
     .news-empty
         color: $gama

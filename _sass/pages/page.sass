@@ -27,13 +27,11 @@
 
     h2
         font-size: 1.8rem
-        font-weight: 700
-        letter-spacing: 0.08em
-        text-transform: uppercase
-        margin: 3.5rem 0 1.5rem
-        padding-bottom: 0.8rem
+        font-weight: 600
+        margin: 2.5rem 0 1.2rem
+        padding-bottom: 0.6rem
         border-bottom: 1px solid $epsilon
-        color: $gama
+        color: $beta
         &:first-of-type
             margin-top: 0.5rem
 
@@ -42,78 +40,90 @@
         padding-left: 0
 
     .pub-card
-        padding: 1.8rem 2rem
-        margin-bottom: 1.5rem
-        border: 1px solid $epsilon
-        border-left: 3px solid $delta
-        border-radius: 6px
-        transition: border-color 0.15s ease
-        &:hover
-            border-color: $delta
+        display: flex
+        gap: 1.5rem
+        align-items: flex-start
+        padding: 1.5rem 0
+        border-bottom: 1px solid $epsilon
+        margin-bottom: 0
+
+    .pub-figure
+        flex-shrink: 0
+        width: 115px
+
+        img
+            width: 100%
+            border-radius: 4px
+            border: 1px solid $epsilon
+            display: block
+
+    .pub-body
+        flex: 1
+        min-width: 0
 
     .pub-header
-        margin-bottom: 1rem
+        margin-bottom: 0.5rem
 
     .pub-venue-tag
         display: inline-block
         font-size: 1.1rem
-        font-weight: 700
-        letter-spacing: 0.07em
-        text-transform: uppercase
-        padding: 0.3rem 0.9rem
-        border-radius: 3px
-        border: 1px solid
+        font-weight: 600
         &.icml
             color: #4ade80
-            border-color: #4ade8060
         &.iclr
             color: #60a5fa
-            border-color: #60a5fa60
         &.tmlr
             color: #c084fc
-            border-color: #c084fc60
         &.preprint
             color: #fbbf24
-            border-color: #fbbf2460
 
     .pub-title
         display: block
         font-size: 1.6rem
         font-weight: 600
         color: $zeta
-        margin-bottom: 0.6rem
+        margin-bottom: 0.5rem
         line-height: 1.5
 
     .pub-authors
         font-size: 1.35rem
         color: $gama
-        margin-bottom: 0.4rem
+        margin-bottom: 0.3rem
         font-weight: 400
 
     .pub-venue-full
         display: block
         font-size: 1.35rem
         color: $alpha
-        margin-bottom: 1.2rem
+        margin-bottom: 0.8rem
 
     .pub-links
         display: flex
-        gap: 0.8rem
+        gap: 0.6rem
         flex-wrap: wrap
         a
             display: inline-block
             font-size: 1.2rem
-            padding: 0.35rem 1rem
-            border-radius: 4px
+            padding: 0.25rem 0.8rem
+            border-radius: 3px
             border: 1px solid $epsilon
             color: $gama
             text-decoration: none
-            font-weight: 500
-            transition: border-color 0.15s ease, color 0.15s ease
+            font-weight: 400
             &:hover
                 border-color: $delta
                 color: $delta
 
-    .sep
-        margin: 0 0.5rem
-        color: $gama
+    @media #{$tablet}
+        .pub-card
+            flex-direction: column
+
+        .pub-figure
+            max-width: 200px
+
+    @media #{$mobile}
+        .pub-card
+            flex-direction: column
+
+        .pub-figure
+            max-width: 200px
